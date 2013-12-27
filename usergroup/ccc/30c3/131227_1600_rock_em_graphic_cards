@@ -1,0 +1,68 @@
+# By Agnes Meyder
+
+# Motivation
+
+* big data
+* weather calculation
+* molecular simulation
+
+# Parallelism
+
+## Data Parallelism
+
+* Fry omlets for 8000 peoples
+
+## Task Parallelism
+
+* cook a five course menu for one person
+
+# Possible Problems
+
+* kitchen to small
+* only apprentices available
+* not enough fying pans
+* delivery paths to small
+* only one can write a new recipe into a book
+* transport 30 eggs 
+* serve the courses on the correct order
+
+# Tools
+
+## OpenMP
+
+## OpenMPI
+
+* uses message queue system
+* matrix multiplication
+
+## CUDA
+
+* nvidia way
+* keeps you focused on doing things
+
+## OpenCL
+
+* you have to deal with a lot of the basics to getting started
+* gives you more flexibility
+
+## OpenACC
+
+* code will be compiled/converterd into openCL code
+* code looks more readable then openCL code
+
+# Namings
+
+coda	| OpenCl	| OpenACC
+--------------------------------------
+thread	work-item	vector
+			(worker)
+block	work-group	worker / gang
+grid			(gang)
+
+# Hardware
+
+* amd card
+* nvidia card
+* intel xeon phi
+* (parallela)[http://parallela.org]
+
