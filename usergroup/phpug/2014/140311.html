@@ -1,0 +1,100 @@
+<h1>PHPUGHH</h1>
+
+<ul>
+<li><a href="http://www.innogames.de">InnoGames</a></li>
+<li>Friesenstraße 13</li>
+<li>Hamburg</li>
+</ul>
+
+<h1>Social Human Architecture for Beginners</h1>
+
+<h2>General</h2>
+
+<p>By <a href="http://github.com/sebs">Sebastian Schürmann</a> (@sschuermann) (scrum master)
+PHP Benelux
+@chip-online.de</p>
+
+<h2>People</h2>
+
+<ul>
+<li>introversion vs extroversion  (thinking is internal or externalized)</li>
+<li>nobody is one at all (just introvert for thinking or feeling)</li>
+<li>talk to you team about it (try to express everybody on a scale to get better understanding)</li>
+<li>take a look to "Maslows hierarchy of needs"
+<ul>
+<li>self actualization</li>
+<li>esteem</li>
+<li>love/belonging</li>
+<li>safety</li>
+<li>physiological</li>
+<li>internet ;-)</li>
+</ul></li>
+<li>try to create your own needs of hierarchy</li>
+<li>use "non-violent communication" (marshal rosenberg)
+<ul>
+<li>observation (just the facts)</li>
+<li>feelings (just feeling good or bad won't cut it, try to express yourself)</li>
+<li>needs (we all have them, feeling bad? need is not fulfilled)</li>
+<li>honest request</li>
+</ul></li>
+</ul>
+
+<h2>Groups</h2>
+
+<ul>
+<li>psychology of programming by Jerry Weinberg</li>
+<li>egoless programming</li>
+<li>stages of group development
+<ul>
+<li>forming</li>
+<li>storming</li>
+<li>norming</li>
+<li>performing</li>
+<li>storming [...]</li>
+</ul></li>
+</ul>
+
+<h2>Motivation</h2>
+
+<ul>
+<li>engagement can be reached by
+<ul>
+<li>autonomy</li>
+<li>mastery</li>
+<li>purpose</li>
+</ul></li>
+<li>let people get into the flow state</li>
+<li>try a fed-ex day (people can do what they want)</li>
+</ul>
+
+<h1>The Flip Side of Dependency Injection</h1>
+
+<h2>General</h2>
+
+<ul>
+<li><a href="http://thephp.cc">Arne Blankerts</a></li>
+<li>Author of phpab and phpDox</li>
+<li>slides available to <a href="talks.thephp.cc">http://talks.thephp.cc</a></li>
+</ul>
+
+<h2>Do Not</h2>
+
+<ul>
+<li>do not add to much dependecies (thing is doing to much)</li>
+<li>do not hide dependencies by using a container (it's like throwing in "the config")</li>
+</ul>
+
+<h2>Do</h2>
+
+<ul>
+<li>all dependencies must be in code</li>
+<li>separate object creation from usage</li>
+<li>there must be the ability to choose the actual implementation on runtime</li>
+</ul>
+
+<h2>How to Get There</h2>
+
+<ul>
+<li>use a <a href="https://github.com/theseer/Factory">factory</a> with explicite API (instead of "get('Foo')", do "getFoo()")</li>
+<li>avoid injecting factories, try to use locators (locators are returning "FooInterface" and using factories for instance creation)</li>
+</ul>
