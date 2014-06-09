@@ -1,0 +1,199 @@
+<h1><a href="http://www.meetup.com/Docker-Hamburg/">Docker UserGroup Hamburg</a></h1>
+
+<ul>
+<li><a href="http://hamburg.betahaus.de">Betahaus Hamburg</a></li>
+<li>Eifflerstraße 43</li>
+<li>22769 Hamburg</li>
+</ul>
+
+<h1>Introduction Docker</h1>
+
+<h2>General</h2>
+
+<p>By <a href="https://twitter.com/discordianfish">Johannes Ziemke</a>
+from <a href="http://www.docker.com/">docker</a></p>
+
+<h2>What is Docker</h2>
+
+<ul>
+<li><a href="http://www.docker.com/">version 1.0</a> released a few hours ago - api stable (a bit)</li>
+<li>written in go</li>
+<li>build, packs and ships applications as lightweight containers</li>
+<li>build once an run almost everywhere (since kernel 3.8.*)</li>
+<li>rewrite of docCloud PaaS code</li>
+</ul>
+
+<h2>Benefits</h2>
+
+<ul>
+<li>start always from clean slate</li>
+<li>spawn up complete test infrastructures in seconds</li>
+<li>run your code against multiple versions easily</li>
+<li>easy up setup of software environment</li>
+<li>distribute complex setups as self-contained containers</li>
+<li>build own infrastructure</li>
+<li>easy ups deployment per day</li>
+<li>scaling and mantaining of infrastructure (state convergence, manage everything)</li>
+<li>helps you to solve managing complexity
+<ul>
+<li>similar problems
+<ul>
+<li>modules, classes, plugins</li>
+<li>human communication: named concepts like car, cat or container</li>
+<li>shipping goods: intermodal containers</li>
+</ul></li>
+<li>solution:  create an abstraction
+<ul>
+<li>does not matter what is in the container nor where it runs</li>
+<li>clear separation of concerns (reduce communication between developers and ops)</li>
+<li>developer can take care about used libraries, packagemanager, ...</li>
+<li>op can take care about the system (alos resource planning and monitoring)</li>
+</ul></li>
+</ul></li>
+<li>running commandos on top of:
+<ul>
+<li>immutable, shipable, layered images (defined by dockerfile, built by builder and pushed/pulled to <a href="http://hub.dockercom">registry</a>)</li>
+<li>copy-on-write storage on top (provides writeable layer on top of read only images to persists changes done by running container)
+<ul>
+<li>aufs</li>
+<li>btrfs</li>
+<li>devicemapper</li>
+</ul></li>
+<li>isolated environment
+<ul>
+<li>using kernal features
+<ul>
+<li>namespaces (isolation by scoping, available: pid, mnt, net, uts, jpc, user)</li>
+<li>cgroups (limit, accound and isolated general devices, cou, memory, ...)</li>
+<li>future (solaris zones ...)</li>
+</ul></li>
+</ul></li>
+<li>via RESTish API</li>
+<li>missing pieces
+<ul>
+<li>docker can not address service discovery or dynamic scheduling</li>
+<li>projects to close the gap
+<ul>
+<li>openstack</li>
+<li>coreOs</li>
+<li>mesos + marathon</li>
+<li>flynn.io</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+
+<h2>Demotime</h2>
+
+<ul>
+<li>--privileged  -   can break out of container but control host</li>
+<li>images are read only and creating a container on each start</li>
+<li>docker commit <id>    -   creates new image out of running container</li>
+<li>use <a href="http://boot2docker.io">boot2docker</a></li>
+</ul>
+
+<h1>Continous Delivery with Docker</h1>
+
+<p>By <a href="https://twitter.com/tobstarr">Tobias Schwab</a>
+from <a href="http://www.dynport.de/">Dynport GmbH</a></p>
+
+<h2>Philosophie</h2>
+
+<ul>
+<li>continous delivery</li>
+<li>canarien releases</li>
+<li>"never touch running system", create a new one when something has to change</li>
+<li>immutable releases (once created, never change it) </li>
+</ul>
+
+<h2>Why They used Docker</h2>
+
+<ul>
+<li>privacy concerns, aws not an option</li>
+<li>hoster they could not pick</li>
+<li>unreliable API</li>
+<li>flash based structure management</li>
+<li>limited capacity</li>
+<li>they are the biggest customer</li>
+</ul>
+
+<h2>Learnings</h2>
+
+<ul>
+<li>image based deployments -> use dockerfiles (do not add dockerfile generators on top)</li>
+<li>use syslog and rsyslog to log out of the container</li>
+<li>>>CMD ["/sbin/init"]&lt;&lt; to start debian based image</li>
+<li>caching</li>
+<li>configuration management
+<ul>
+<li><a href="http://12factore.net/config">store configuration in environment</a></li>
+<li>dependency injected with start of container (use same container for testing, stageing, testing ...)</li>
+<li>logfiles and data outside of the container</li>
+</ul></li>
+<li>do not
+<ul>
+<li>full blown vm (best case, one service per container)</li>
+<li>ssh deamon inside containers</li>
+<li>syslog deamon inside containters (sometimes needed)</li>
+<li>user management (everything can run as root)</li>
+<li>chef/puppet makes caching useles</li>
+<li>rely on external services (github, gem page)</li>
+</ul></li>
+<li>build management tools
+<ul>
+<li>bundler, pip, carton, composer, ...</li>
+<li>problem is, they are slow on "clean slate"</li>
+<li>ways to solve
+<ul>
+<li>add mainifest (like composer.lock) before code and use cached build files</li>
+<li>pre-bundles base images</li>
+</ul></li>
+</ul></li>
+<li>multi host
+<ul>
+<li>image distribution via docker registry</li>
+<li>weighted load balancing via HAProxy</li>
+<li>SSL termination via HAProxy (container exists by <a href="https://twitter.com/discordianfish">Johannes Ziemke</a>)</li>
+</ul></li>
+<li>load balancing
+<ul>
+<li>HAProxy</li>
+<li>pool configuration stored in redis/etcd</li>
+<li>configuration update
+<ul>
+<li>created</li>
+<li>uploaded via ssh to host</li>
+<li>verify configuration</li>
+<li>replace configuration (old with new)</li>
+<li>reload configuration</li>
+</ul></li>
+</ul></li>
+<li>logging
+<ul>
+<li>putting container id, revision of image (host, code, request) via rsyslog out of the container</li>
+</ul></li>
+<li>metrics
+<ul>
+<li><a href="http://opentsdb.net">openTSDB</a>
+<ul>
+<li>distributed, scalable time series database</li>
+<li>hbase</li>
+<li>tags/diminsions</li>
+<li>from syslog via udp</li>
+<li>rickshaw.js for graphs</li>
+<li>compare status cudes, counts and times between actions of two revisions</li>
+</ul></li>
+</ul></li>
+<li>benefits (reduces)
+<ul>
+<li>external dependencies</li>
+<li>"did work on my machine"</li>
+<li>unused cpu cycles</li>
+<li>number of hosts</li>
+<li>feedback times (number of deploys per day)</li>
+<li>time to get new host online</li>
+<li>hosts are more flexible</li>
+<li>controlled revision change (controlled on each host)</li>
+<li>faster build</li>
+</ul></li>
+</ul>
