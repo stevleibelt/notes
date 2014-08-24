@@ -14,3 +14,7 @@
 # fitnesse - The fully integrated standalone wiki and acceptance testing framewor
 
 * [page](http://fitnesse.org/)
+
+# cool kde minidesk
+
+* bubblemon
