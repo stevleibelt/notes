@@ -41,9 +41,6 @@
 * savings products and saving accounts
 * backoffice
 * surveys and progress out of poverty tracking (how big is the impact to the country or does it even have a bad impact)
-
-## technical
-
 * initiated by grameen foundation
 * non profit organiztion based in washington dc
 * replicates the grameen bank microfinance model around the world

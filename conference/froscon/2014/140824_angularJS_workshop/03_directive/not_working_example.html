@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html data-ng-app="controller">
+<head>
+    <title>03 - directive</title>
+    <script src="./../vendor/jquery/jquery.min.js"></script>
+    <script src="./../vendor/angular/angular.js"></script>
+</head>
+<body data-ng-controller="ItemController">
+    <table>
+        <tr><th>Artist</th><th>Title</th><th>Label</th><th>Type</th></tr>
+        <tr data-ng-repeat="item in items">
+            <td>{{item.artist}}</td>
+            <item-template-directive-one></item-template-directive-one>
+        </tr>
+    </table>
+    <hr/>
+    <p>
+        The example above is not working because of the fact that a template needs to return valid xml with <string>one</string> route element.
+    </p>
+</body>
+
+<script>
+    var application = angular.module('controller', []);
+
+    application.controller('ItemController', function($scope) {
+        $scope.items =[
+           {artist: 'Zombie Nation', title: 'Kernkraft 400', label: 'gigolo records', type: 'single'},
+           {artist: 'DJ Hell', title: 'Munich Machine', label: 'gigolo records', type: 'album'},
+           {artist: 'Anthony Rother', title: 'Hacker', label: 'psy49.net', type: 'album'}
+        ];
+    });
+
+    application.directive('itemTemplateDirectiveOne', function() {
+        return {
+            replace: true,
+            restrict: 'E',
+            scope: {
+                item: '='
+            },
+            template: '<td>{{item.artist}}</td><td>{{item.title}}</td><td>{{item.label}}</td><td>{{item.type}}</td>'
+        }
+    });
+</script>
+</html>

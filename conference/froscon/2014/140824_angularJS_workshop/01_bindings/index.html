@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html data-ng-app="bindings">
+<head>
+    <title>01 - bindings</title>
+    <script src="./../vendor/jquery/jquery.min.js"></script>
+    <script src="./../vendor/angular/angular.js"></script>
+</head>
+<body>
+    <h1>Input</h1>
+    <input type="text" data-ng-model="io" />
+    <h1>Output</h1>
+    <p>{{io}}</p>
+    <hr />
+    <h1>Checkbox and Select options</h1>
+    <p>State is: {{state}}</p>
+    <input type="checkbox" data-ng-model="state" data-ng-true-value="enabled" data-ng-false-value="disabled" data-ng-init="state='enabled'" /> &nbsp;
+    <select data-ng-model="state">
+        <option value="disabled">disabled</option>
+        <option value="enabled">enabled</option>
+    </select>
+</body>
+
+<script>
+    var application = angular.module('bindings', []);
+</script>
+</html>

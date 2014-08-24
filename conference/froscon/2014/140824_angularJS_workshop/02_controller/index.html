@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html data-ng-app="controller">
+<head>
+    <title>02 - controller</title>
+    <script src="./../vendor/jquery/jquery.min.js"></script>
+    <script src="./../vendor/angular/angular.js"></script>
+</head>
+<body data-ng-controller="ItemController">
+    <table>
+        <tr><th>Artist</th><th>Title</th><th>Label</th><th>Type</th></tr>
+        <tr data-ng-repeat="item in items | orderBy:itemOrder | filter:itemsFilter">
+            <td>{{item.artist}}</td>
+            <td>{{item.title}}</td>
+            <td>{{item.label}}</td>
+            <td>{{item.type}}</td>
+        </tr>
+    </table>
+    <h1>Ordering</h1>
+    <!-- https://docs.angularjs.org/api/ng/directive/select -->
+    <select data-ng-model="itemOrder">
+        <option value="artist">Artist</option>
+        <option value="title">Title</option>
+        <option value="label">Label</option>
+        <option value="type">Type</option>
+    </select>
+    <h1>Filter</h1>
+    <h2>(built in) Text Filter</h2>
+    <input type="text" data-ng-model="itemsFilter" />
+    <h2>(own) Length Filter</h2>
+    <input type="text" data-ng-model="LengthFilter" />
+</body>
+
+<script>
+    var application = angular.module('controller', []);
+
+    application.controller('ItemController', function($scope) {
+        $scope.items =[
+           {artist: 'Zombie Nation', title: 'Kernkraft 400', label: 'gigolo records', type: 'single'},
+           {artist: 'DJ Hell', title: 'Munich Machine', label: 'gigolo records', type: 'album'},
+           {artist: 'Anthony Rother', title: 'Hacker', label: 'psy49.net', type: 'album'}
+        ];
+        $scope.itemOrder = 'artist';
+    });
+
+    //@todo
+    application.filter('LengthFilter', function() {
+        return function(input) {
+            var output = null;
+
+            if (input != undefined) {
+                var length = input.length;
+                console.log('length of ' + input + ' = '. length);
+                if (length < 10) {
+                    output = input;
+                }
+            }
+
+            return output;
+        }
+    });
+</script>
+</html>
