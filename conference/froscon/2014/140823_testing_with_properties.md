@@ -8,7 +8,8 @@
 * not to be confused with properties on JavaScript objects
 * specify a property that holds for all/specified inputs
 * instead of finding a proof, test random inputs
-* @todo
+* similar to contracts
+* examples uses jsverify, other implementations are available
 
 # describing a property
 
