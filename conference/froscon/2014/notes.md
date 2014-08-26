@@ -11,7 +11,7 @@
 
 * [page](http://www.opsi.org)
 
-# fitnesse - The fully integrated standalone wiki and acceptance testing framewor
+# fitnesse - The fully integrated standalone wiki and acceptance testing framework
 
 * [page](http://fitnesse.org/)
 
