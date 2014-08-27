@@ -41,10 +41,10 @@
 * initialization time with jquery around 250ms (so not for very fast pages)
 * uses small version of jquery
 
-    <h1 lang="de" style="display: none;">Einfache Bindings {{demo}}</h1> <!-- {{demo}} is binding to a variable in the current scope -->
+    <!-- {{demo}} is binding to a variable in the current scope -->
     <h1 lang="en">Simple bindings {{demo}}</h1>
     <div lang="de" style="display: none;">
-        AngularJS ermöglicht ein Templating direkt im Browser.
+        AngularJS enables direct templating in the browser
     </div>
     <div lang="en">
         AngularJS utilizes templating in the browser.
