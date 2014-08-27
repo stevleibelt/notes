@@ -10,7 +10,7 @@
         <tr>
             <th>Artist</th><th>Title</th><th>Label</th><th>Type</th>
         </tr>
-        <item-template-directive data-ng-repeat="item in items"></item-template-directive>
+        <tr data-ng-repeat="item in items" item-template-directive="item"></tr>
     </table>
 </body>
 
@@ -27,12 +27,10 @@
 
     application.directive('itemTemplateDirective', function() {
         return {
-            replace: true,
-            restrict: 'E',
             scope: {
-                item: '='
+                itemTemplateDirective: '='
             },
-            template: '<tr item="item"><td>{{item.artist}}</td><td>{{item.title}}</td><td>{{item.label}}</td><td>{{item.type}}</td></tr>'
+            template: '<td>{{itemTemplateDirective.artist}}</td><td>{{itemTemplateDirective.title}}</td><td>{{itemTemplateDirective.label}}</td><td>{{itemTemplateDirective.type}}</td>'
         }
     });
 </script>
