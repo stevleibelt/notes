@@ -1,4 +1,4 @@
-[2014-12-28 by James Bamford](https://events.ccc.de/congress/2014/Fahrplan/events/6600.html)
+# [2014-12-28 by James Bamford](https://events.ccc.de/congress/2014/Fahrplan/events/6600.html)
 
 * started writing about the nsa a decade ago
 * was in the navy and also in vietnam
