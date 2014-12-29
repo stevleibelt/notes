@@ -36,3 +36,4 @@
 * previous centuries - faster, higher, more
 * current centuries - overvome our physical limitation
 * upcomming centuries - overcome our cognitive limitation
+* open source / free knowledge about eye recognizing since other companies (developing tools like google class) are having that knowledge and would get your data for free ... agai
