@@ -1,4 +1,4 @@
-# [2014-12-29 by Kai Kunze](https://31c3.cc/cccsync/congress/2014/Fahrplan/events/6460.html)
+# [2014-12-29 by Kai Kunze](https://events.ccc.de/congress/2014/Fahrplan/events/6460.html)
 
 # overview
 

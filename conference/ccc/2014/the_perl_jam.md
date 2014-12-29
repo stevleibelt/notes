@@ -1,4 +1,4 @@
-# [2014-12-29 by Netanel Rubin](https://31c3.cc/cccsync/congress/2014/Fahrplan/events/6243.html)
+# [2014-12-29 by Netanel Rubin](https://events.ccc.de/congress/2014/Fahrplan/events/6243.html)
 
 ## perl
 
