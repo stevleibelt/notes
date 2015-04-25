@@ -1,6 +1,6 @@
 # [Nikolas Martens](http://programm.froscon.de/2014/events/1443.html)
 
-* [side](http://rtens.org)
+* [site](http://rtens.org)
 * loves testing and design
 * creates [mockster](https://github.com/rtens/mockster)
 * book called "specification by example" - how successful teams deliver right software - by "Gojko Adzic"
