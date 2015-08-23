@@ -131,6 +131,13 @@ ansible -i hostname, all -m setup
 * read other playbooks
 * think on playbook idempotence
 * split big playbooks into roles
+* roleback is not part of ansible
+    * try it on stage system
+    * try to update only some per time
+* use a jumphost server to easy up secutry issue
+    * [wikipedia](https://en.wikipedia.org/wiki/Jump_Server)
+    * [gentoo](https://wiki.gentoo.org/wiki/SSH_jump_host)
+    * [searchengine query](https://duckduckgo.com/?q=jumphost)
 
 # links
 
