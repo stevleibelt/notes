@@ -138,6 +138,9 @@ ansible -i hostname, all -m setup
     * [wikipedia](https://en.wikipedia.org/wiki/Jump_Server)
     * [gentoo](https://wiki.gentoo.org/wiki/SSH_jump_host)
     * [searchengine query](https://duckduckgo.com/?q=jumphost)
+* dry run - `ansible -C`
+* verbose - `ansible -vvv`
+* ansible creates a retry file and adds all host in there where the provisioning was not successful
 
 # links
 
