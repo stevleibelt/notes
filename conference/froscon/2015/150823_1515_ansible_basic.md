@@ -1,6 +1,7 @@
 # [ansible basic](http://programm.froscon.de/2015/events/1512.html)
 
 by [oleg](oleg@fiksel.info) [fiksel](http://fiksel.info) from [CSP Inc.](http://www.cspi.com/)
+[video](https://media.ccc.de/browse/conferences/froscon/2015/froscon2015-1512-ansible_basics.html)
 
 # agenda
 

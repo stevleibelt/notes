@@ -1,6 +1,7 @@
 # Software Freedom Means Business Value
 
-* by [Simon Phipps](simon@webmink.com)
+by [Simon Phipps](simon@webmink.com)
+[video](http://media.ccc.de/browse/conferences/froscon/2015/froscon2015-1666-software_freedom_means_business_value.html)
 
 # From The Past Over The Now To The Future
 

@@ -1,6 +1,7 @@
 # [towards a server-less web](http://programm.froscon.de/2015/events/1627.html)
 
 by [Max Jonas Werner](https://blog.makk.es/)
+[video](http://media.ccc.de/browse/conferences/froscon/2015/froscon2015-1627-towards_a_server-less_web.html)
 
 # current
 
