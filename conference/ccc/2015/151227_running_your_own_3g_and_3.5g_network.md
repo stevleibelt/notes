@@ -27,4 +27,4 @@
     * eurocom has a patch for adding APER support for asn1c
     * information object classes are hard
     * type prefixing
-* we need volunteers now
+* we need volunteers now at [OpenBSC](http://openbsc.osmocom.org/)
