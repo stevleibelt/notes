@@ -1,6 +1,6 @@
 # nodes
 
-* [talk](https://events.ccc.de/congress/2015/Fahrplan/events/7195.html) by [cornelius diekmann](https://events.ccc.de/congress/2015/Fahrplan/speakers/4862.html)
+* [talk](https://events.ccc.de/congress/2015/Fahrplan/events/7195.html) by [cornelius diekmann](https://events.ccc.de/congress/2015/Fahrplan/speakers/4862.html) (his [github account](https://github.com/diekmann)
 * free as in freedom and open source firewalls are not the issue
 * the issue came from the rule sets
     * "there are no good high-complexity rule sets"
