@@ -19,3 +19,5 @@
 * [secure os](https://secure-os.org)
 * [selfnet](https://www.selfnet.de)
 * [void linux](http://www.voidlinux.eu)
+* [nerd.one](https://nerd.one/)
+* [moep.koeln](https://mop.koeln/blog/)
