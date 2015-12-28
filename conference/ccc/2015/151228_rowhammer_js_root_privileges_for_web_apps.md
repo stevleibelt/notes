@@ -65,3 +65,10 @@
     * hardware-fault attack induced in JavaScript
     * remote attacks through websites
     * so maybe in the future, there will be a rowhammer.js framework
+* questions
+    * what about ecc ram?
+        * it depends, some ecc behave differently than expected
+        * some ecc is stronger than other but once in a time it is possible each ram will fail
+    * what about ecmascript6, is it even fast?
+        * maybe but it does not matter since you do not need to optimize the code pretty well
+        * rowhammering is working out of the box quite good
