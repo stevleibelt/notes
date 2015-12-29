@@ -1,6 +1,9 @@
 # ips
 
 * 151.217.95.61
+* ftp://151.217.178.47
+* ftp://151.217.179.253
+* ftp://151.217.179.254
 
 # links
 
@@ -24,3 +27,4 @@
 * [twitter](https://twitter.com/31c3)
 * [recorded media](https://media.ccc.de/c/32c3)
 * [streamed media](https://streaming.media.ccc.de/32c3)
+* [freifunk cloud](https://cloud.hamburg.freifunk.net)
