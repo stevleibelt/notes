@@ -32,3 +32,6 @@
     * 3 - so what cdn is not dynamic? lets enable it (not in the cache? ask the origin! which is hard to prevent since the request always comes from the cdn and you do not want to block them)
     * 2 - so lets protect the cdn by adding a highly unlikly strange name for the subdomain (lets scan the ip range or even easier, use WHOIS e.g. use http://viewdns.info and attack the real ip address directly)
     * 1 - block them ... now! (he blocked a "bigger" bunch of ips, meaning a whole /16 stack - around 116 M ip addresses, so lets send packets with strange ip addresses :-D - maybe by using its own address ^^)
+* conclusion
+    * there is no magic pill or best cocktail to prevent mitigation
+    * test your infrastructure regulary
