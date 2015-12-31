@@ -1,10 +1,3 @@
-# ips
-
-* 151.217.95.61
-* ftp://151.217.178.47
-* ftp://151.217.179.253
-* ftp://151.217.179.254
-
 # links
 
 * [static calendar](https://events.ccc.de/congress/2015/wiki/Static:Calendar)
