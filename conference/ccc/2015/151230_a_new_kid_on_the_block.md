@@ -57,6 +57,6 @@
         * events
     * ask other groups what they need so they would use diaspora
 * other networks available (which are part of the federations)
-    * diaspora
-    * friendica (strong on connecting people)
-    * red matrix (strong on privacy)
+    * [diaspora](https://diasporafoundation.org)
+    * [friendica](http://friendica.com) (strong on connecting people)
+    * [red matrix](https://github.com/redmatrix/redmatrix) (strong on privacy)
