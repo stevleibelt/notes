@@ -10,3 +10,18 @@ Hör's dir erst einmal im Kopf an, bevor du es laut sagst
 Ich liebe die, die Staunen können.
 Über die Blume auf dem Schrott.
 ```
+
+```
+#Stev Leibelt - 2016-10-15
+Du bestimmst deine Welt.
+```
+
+```
+#Andreas Brandhorst - Das Schiff - Kapitel 76
+Ziel und Zweck sind subjektiver Natur, wohnten in den Gedanken und Umstellungen des Resultats.
+```
+
+```
+#Missing :-(
+Trauert nicht um mich, ich falle als Sternschnuppe ins nächste Leben.
+```
