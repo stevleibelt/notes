@@ -25,3 +25,9 @@ Ziel und Zweck sind subjektiver Natur, wohnten in den Gedanken und Umstellungen 
 #Missing :-(
 Trauert nicht um mich, ich falle als Sternschnuppe ins nächste Leben.
 ```
+
+```
+#Polnisches Sprichwort
+Die Irrtümer des Arztes,
+sind mit Erde zugedeckt.
+```
