@@ -31,3 +31,8 @@ Trauert nicht um mich, ich falle als Sternschnuppe ins nächste Leben.
 Die Irrtümer des Arztes,
 sind mit Erde zugedeckt.
 ```
+
+```
+#supposed said by Mark Zuckerberg somewhen 2016-10-19
+We care deeply about diversity. That's easy to say when it means standing up for ideas you agree with. It's a lot harder when it means standing up for the rights of people with different viewpoints to say what they care about. That's even more important.
+```
