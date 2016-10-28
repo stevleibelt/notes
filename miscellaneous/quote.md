@@ -49,3 +49,9 @@ We care deeply about diversity. That's easy to say when it means standing up for
 ```
 [...] weil ich hier schon mehrfach meine Hoffnung geäußert habe, dass man auch stramme Ideologen nicht ausgrenzen sollte, sondern mit ihnen reden sollte, weil man sie möglicherweise umstimmen kann. Wie hoch die Wahrscheinlichkeit dafür ist, darüber kann man streiten. Aber wenn man sie ausgrenzt, ist die Wahrscheinlichkeit Null.
 ```
+
+## JK from JL
+
+```
+Ich hab noch nie etwas so hart conflicten sehen
+```
