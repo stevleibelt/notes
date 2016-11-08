@@ -55,3 +55,11 @@ We care deeply about diversity. That's easy to say when it means standing up for
 ```
 Ich hab noch nie etwas so hart conflicten sehen
 ```
+
+## Unknown
+
+```
+[ ] mine
+[ ] yours
+[x] ours
+```
