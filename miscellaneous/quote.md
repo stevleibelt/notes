@@ -63,8 +63,7 @@ Ich hab noch nie etwas so hart conflicten sehen
 [ ] yours
 [x] ours
 ```
-## Bintia
-
+## Bintia - B.I.N.T.I.A
 
 ```
 Es ist leicht sich das Leben schwer zu machen.
