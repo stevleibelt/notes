@@ -70,3 +70,21 @@ Ich hab noch nie etwas so hart conflicten sehen
 Es ist leicht sich das Leben schwer zu machen.
 Es ist schwer sich das Leben leicht zu machen.
 ```
+
+## Unknown
+
+```
+Es ist leicht etwas zu zerstören.
+Es ist schwer etwas aufzubauen.
+
+## Walter Moers
+
+```
+Es ist leicht, etwas zu beginnen.
+Aber es ist schwer, etwas zu Ende zu bringen.
+```
+
+# links
+
+* http://gutezitate.com/
+```
