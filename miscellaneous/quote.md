@@ -87,3 +87,10 @@ Aber es ist schwer, etwas zu Ende zu bringen.
 
 * http://gutezitate.com/
 ```
+
+## Sebastian Kneipp
+
+```
+Der Kopf kühl, die Füße warm.
+Das macht den besten Doktor arm.
+ ```
