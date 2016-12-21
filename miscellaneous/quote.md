@@ -94,3 +94,10 @@ Aber es ist schwer, etwas zu Ende zu bringen.
 Der Kopf kühl, die Füße warm.
 Das macht den besten Doktor arm.
  ```
+
+## MD from JL (2016-12-21)
+
+```
+Das Unkraut bin doch eher ich.
+Du bist vielmehr der Bambushalm, der sich störisch jedem noch so wildem Sturm widersetzt.
+```
