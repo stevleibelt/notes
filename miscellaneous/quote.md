@@ -101,3 +101,13 @@ Das macht den besten Doktor arm.
 Das Unkraut bin doch eher ich.
 Du bist vielmehr der Bambushalm, der sich störisch jedem noch so wildem Sturm widersetzt.
 ```
+
+## [Wem nützt es](https://weltnetz.tv/video/1001-wem-nuetzt-es)
+
+Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten, sollte man es machen.
+
+```
+Nutzt es den Menschen?
+Nutzt es der Umwelt?
+Nutzt es dem globalen Frieden?
+```
