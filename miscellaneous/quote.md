@@ -111,3 +111,9 @@ Nutzt es den Menschen?
 Nutzt es der Umwelt?
 Nutzt es dem globalen Frieden?
 ```
+
+## The Open Origanization: Igniting Passion and Performance by Jim Whitehurst (Page 156)
+
+```
+Discovered logic is more powerful than delivered logic.
+```
