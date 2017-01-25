@@ -117,3 +117,9 @@ Nutzt es dem globalen Frieden?
 ```
 Discovered logic is more powerful than delivered logic.
 ```
+
+## SL from JL (2017-01-25)
+
+```
+microsoft outlook is supporting getting tourette.
+```
