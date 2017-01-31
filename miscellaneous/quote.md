@@ -123,3 +123,10 @@ Discovered logic is more powerful than delivered logic.
 ```
 microsoft outlook is supporting getting tourette.
 ```
+
+## The Internet
+
+```
+#@see https://duckduckgo.com/?q=there+is+no+cloud.+it%27s+just+someone+else%27s+computer&t=ffab&ia=web
+There is no cloud. It's just someone else's computer.
+```
