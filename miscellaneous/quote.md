@@ -130,3 +130,10 @@ microsoft outlook is supporting getting tourette.
 #@see https://duckduckgo.com/?q=there+is+no+cloud.+it%27s+just+someone+else%27s+computer&t=ffab&ia=web
 There is no cloud. It's just someone else's computer.
 ```
+
+## Yonatan Zunger
+
+```
+#@see https://extranewsfeed.com/tolerance-is-not-a-moral-precept-1af7007d6376
+[Tolerance] is an agreement to live in peace, not an agreement to be peaceful no matter the conduct of others. A peace treaty is not a suicide pact.
+```
