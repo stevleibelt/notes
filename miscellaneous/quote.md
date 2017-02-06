@@ -137,3 +137,9 @@ There is no cloud. It's just someone else's computer.
 #@see https://extranewsfeed.com/tolerance-is-not-a-moral-precept-1af7007d6376
 [Tolerance] is an agreement to live in peace, not an agreement to be peaceful no matter the conduct of others. A peace treaty is not a suicide pact.
 ```
+
+## Kevlin Henney (#OOP2017)
+
+```
+If you think good architecture is expensive, try bad architecture.
+```
