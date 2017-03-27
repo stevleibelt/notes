@@ -143,3 +143,9 @@ There is no cloud. It's just someone else's computer.
 ```
 If you think good architecture is expensive, try bad architecture.
 ```
+
+## JL from JL (2017-03-27)
+
+```
+Denk fester!
+```
