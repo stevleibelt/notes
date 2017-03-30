@@ -149,3 +149,9 @@ If you think good architecture is expensive, try bad architecture.
 ```
 Denk fester!
 ```
+
+## The Internet
+
+```
+While the loser of a fight with knives is dying on the street, the winner is dying in the ambulance
+```
