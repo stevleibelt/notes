@@ -155,3 +155,10 @@ Denk fester!
 ```
 While the loser of a fight with knives is dying on the street, the winner is dying in the ambulance
 ```
+
+## SS from JL (2017-03-30)
+
+```
+Meine Mama sagt auch immer, dass Enkelkinder auch nochmal was anderes ist als eigene Kinder.
+Weil man sich für sie bewusst Zeit nehmen kann und nicht im Stress des Alltags ist.
+```
