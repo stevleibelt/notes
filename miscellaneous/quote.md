@@ -162,3 +162,8 @@ While the loser of a fight with knives is dying on the street, the winner is dyi
 Meine Mama sagt auch immer, dass Enkelkinder auch nochmal was anderes ist als eigene Kinder.
 Weil man sich für sie bewusst Zeit nehmen kann und nicht im Stress des Alltags ist.
 ```
+## Someone from the movie "taste the waste"
+
+```
+Die Mülltonne ist der Spiegel unseres Lebens.
+```
