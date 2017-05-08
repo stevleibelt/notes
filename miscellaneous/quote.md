@@ -167,3 +167,10 @@ Weil man sich für sie bewusst Zeit nehmen kann und nicht im Stress des Alltags 
 ```
 Die Mülltonne ist der Spiegel unseres Lebens.
 ```
+
+## MKL (2017-05-08)
+
+```
+Found the reason why I want to eat sweats when I am stressed.
+"Stressed" mirrored is "desserts".
+```
