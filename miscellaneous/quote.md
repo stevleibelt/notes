@@ -174,3 +174,10 @@ Die Mülltonne ist der Spiegel unseres Lebens.
 Found the reason why I want to eat sweats when I am stressed.
 "Stressed" mirrored is "desserts".
 ```
+
+## Andreas Clauss - Crashkurs Geld und Recht (3. AZK - 2015)
+
+```
+Sehen Sie weniger fern,
+dann sehen Sie besser durch.
+```
