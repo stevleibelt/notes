@@ -64,3 +64,29 @@ Ein "ll" in der Wortmitte wird zu seinem "J". Mallorca -> Majorca.
 | Cabeza | Kopf |
 | Boca | Mund |
 | Ojo | Auge |
+| Dia Feria | Schönen Feiertag (wortwörtlich "Tag Feierlich" |
+| A Todos | Euch Alle |
+| Si Possible | Wenn Möglich |
+| Verde | Grün |
+| Rojo | Rot |
+| Amarillo | Gelb |
+| Naranja | Orange |
+| Gris | Grau |
+| Azull | Blau |
+| Negro | Schwarz |
+| Muchas Gracias | Vielen Dank |
+| Gorros | Mützen |
+| Costoso | Teuer |
+| Barato | Billig |
+| Ese Cosa Eres Mi Gusta | Die Sache wäre mein Geschmack |
+| Que Precio Ese Tengo? | Welche Preis hat es? |
+| Y Mas Barato | Und etwas preiswerter |
+| Un Poco Menso Costoso | Weniger Teuer |
+| No Tanto Costoso! | Nicht derart teuer! |
+| Yo Buscar Una Pantalon Para Un Mucacho | Ich suche eine Hose für einen Jungen |
+| Yo Buscar Zapatos Para Muchachas | Ich suche Schue für Mädchen |
+| Quiero Oro Para Mi Esposa | Möchte Gold für meine Frau |
+| Quiero Un Pepino | Ich möchte eine Gurke |
+| Ese Tienda | Dieser Laden |
+| Yo Haller Nada | Ich finde nichts |
+| Merde | Scheisse |
