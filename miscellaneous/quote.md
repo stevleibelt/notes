@@ -167,3 +167,23 @@ Weil man sich für sie bewusst Zeit nehmen kann und nicht im Stress des Alltags 
 ```
 Die Mülltonne ist der Spiegel unseres Lebens.
 ```
+
+## MKL (2017-05-08)
+
+```
+Found the reason why I want to eat sweats when I am stressed.
+"Stressed" mirrored is "desserts".
+```
+
+## Andreas Clauss - Crashkurs Geld und Recht (3. AZK - 2015)
+
+```
+Sehen Sie weniger fern,
+dann sehen Sie besser durch.
+```
+
+## yi1vidz - [Kangding Ray Boiler Room Berlin Live Set](https://www.youtube.com/watch?v=MN1YhlRJOx0)
+
+```
+we all are just "dancing randomly" to the life/music
+```
