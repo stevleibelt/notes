@@ -10,3 +10,4 @@
 * Wohnküche
     * Kochinsel groß genug um auf der anderen Seite A4 Seiten hinzulegen
     * Tiefe Schubladen
+    * Sofern gewünscht, sollte die Geschirrspülmaschine zentral (in der Mitte) der Küche stehen (alle anderen Einrichtungsgegenstände finden sich dann)
