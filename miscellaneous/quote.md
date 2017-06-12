@@ -144,7 +144,7 @@ There is no cloud. It's just someone else's computer.
 If you think good architecture is expensive, try bad architecture.
 ```
 
-## JL from JL (2017-03-27)
+## JK from JL (2017-03-27)
 
 ```
 Denk fester!
@@ -186,4 +186,29 @@ dann sehen Sie besser durch.
 
 ```
 we all are just "dancing randomly" to the life/music
+```
+
+## SL from JL (2017-06-12)
+
+```
+Wer eine Depression hat ist mit einem entäuschten Partner gleichzusetzen.
+Hat man das Tal der Dunkelheit durchwandert und die Wunde versorgt, bleibt eine Unsicherheit im Leben erhalten, die einem bei jeder wichtigen Entscheidung - mal mehr, mal weniger - begleitet.
+```
+
+## Dalai Lama
+
+```
+Menschen wurden erschaffen um geliebt zu werden.
+Dinge wurden geschaffen um benutzt zu werden.
+Der Grund warum sich die Welt im Chaos befindet,
+ist weil Dinge geliebt werden und Menschen benutzt werden.
+```
+
+## Dalai Lama
+
+```
+Für mich stellen Liebe und Mitgefühl eine allgemeine, eine universelle Religion dar.
+Man braucht dafür keine Tempel und keine Kirche, ja nicht einmal unbedingt einen Glauben,
+wenn man einfach nur versucht, ein menschliches Wesen zu sein mit einem
+warmen Herzen und einem Lächeln, das genügt.
 ```
