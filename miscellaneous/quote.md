@@ -212,3 +212,12 @@ Man braucht dafür keine Tempel und keine Kirche, ja nicht einmal unbedingt eine
 wenn man einfach nur versucht, ein menschliches Wesen zu sein mit einem
 warmen Herzen und einem Lächeln, das genügt.
 ```
+
+## DJ Koze - XTC
+
+```
+The lie is sweet at the beginning, but bitter at the end.
+The truth is bitter at the beginning, but sweet at the end.
+Meditation is like the truth.
+Drugs are like the lie.
+```
