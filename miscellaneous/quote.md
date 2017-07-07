@@ -221,3 +221,9 @@ The truth is bitter at the beginning, but sweet at the end.
 Meditation is like the truth.
 Drugs are like the lie.
 ```
+
+## Niklas Luhmann
+
+```
+Was wir über unsere Gesellschaft, ja über die Welt, in der wir leben, wissen, wissen wir durch die Massenmedien. (...) Andererseits wissen wir so viel über die Massenmedien, dass wir diesen Quellen nicht trauen können.
+```
