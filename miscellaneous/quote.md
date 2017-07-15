@@ -227,3 +227,33 @@ Drugs are like the lie.
 ```
 Was wir über unsere Gesellschaft, ja über die Welt, in der wir leben, wissen, wissen wir durch die Massenmedien. (...) Andererseits wissen wir so viel über die Massenmedien, dass wir diesen Quellen nicht trauen können.
 ```
+
+## Gerhard Uhlenbruck
+
+```
+„Kunststoff herzustellen ist keine Kunst mehr, aber diesen Stoff zu beseitigen, ist eine Kunst, denn Kunststoff ist nicht von Pappe.
+```
+
+## Sebastian Kneipp
+
+```
+Wer nicht jeden Tag etwas für seine Gesundheit aufbringt,
+muss eines Tages sehr viel Zeit für die Krankheit opfern.
+ ```
+
+## Amerikianische Ureinwohner
+
+```
+Erzähl mir etwas,
+ich werde es vergessen.
+Zeig mir etwas,
+und ich werde mich vielleicht daran erinnern.
+Beteilige mich
+und ich werde verstehen
+```
+
+## Amerikianische Ureinwohner
+
+```
+Der weiße Mann wird vor vollen Tellern verhungern.
+```
