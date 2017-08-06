@@ -264,3 +264,9 @@ Der weiße Mann wird vor vollen Tellern verhungern.
 Wer sich ärgert. beweist damit, dass er die Situation falsch eingeschätzt und nicht damit gerechnet hat, dass die anderen sich so verhalten würden, wie sie es tatsächlich getan haben.
 Wenn man es genau nimmt, steckt hinter jedem Ärger über das Verhalten anderer ein Ärger über die eigene Unfähigkeit, die Situation zu beherrschen, insofern als man sie nicht vorausgesehen hat oder sie nicht wahrhaben will.
 ```
+
+## Unknown
+
+```
+Wenn in einem Satz aber vorkommt, ist alles vor dem aber unwichtig und kann als nette Einleitung zum eigentlichen Punkt angesehen werden.
+```
