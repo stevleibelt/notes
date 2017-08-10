@@ -270,3 +270,9 @@ Wenn man es genau nimmt, steckt hinter jedem Ärger über das Verhalten anderer 
 ```
 Wenn in einem Satz aber vorkommt, ist alles vor dem aber unwichtig und kann als nette Einleitung zum eigentlichen Punkt angesehen werden.
 ```
+
+## Marshall McLuhan
+
+```
+Es gibt keine Passagiere auf dem Raumschiff Erde, jeder gehört zur Besatzung.
+```
