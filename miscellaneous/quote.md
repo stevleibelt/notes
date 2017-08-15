@@ -276,3 +276,10 @@ Wenn in einem Satz aber vorkommt, ist alles vor dem aber unwichtig und kann als 
 ```
 Es gibt keine Passagiere auf dem Raumschiff Erde, jeder gehört zur Besatzung.
 ```
+
+## Mark Twain
+
+```
+If you don't read the newspaper, you're uninformed.
+If you read the newspaper, you're mis-informed.
+```
