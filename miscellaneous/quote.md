@@ -283,3 +283,9 @@ Es gibt keine Passagiere auf dem Raumschiff Erde, jeder gehört zur Besatzung.
 If you don't read the newspaper, you're uninformed.
 If you read the newspaper, you're mis-informed.
 ```
+
+## Mark Twain
+
+```
+If we were supposed to talk more than listen we would have been given two mouths and one ear.
+```
