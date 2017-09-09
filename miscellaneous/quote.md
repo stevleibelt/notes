@@ -270,3 +270,9 @@ Wenn man es genau nimmt, steckt hinter jedem Ärger über das Verhalten anderer 
 ```
 Wenn in einem Satz aber vorkommt, ist alles vor dem aber unwichtig und kann als nette Einleitung zum eigentlichen Punkt angesehen werden.
 ```
+
+## S.L. "unter der Dusche" 2017-09-09
+
+```
+Die Paranoia der US-Amerikaner und der damit verbundene Wunsch zur totalen militärischen Überlegenheit liegt in dem psychologischen Problem, dass sie sie selbst wissen, dass sie ihr Land durch ein Völkermord gestohlen haben und Angst vor dem Höllenfeuer des Schicksals oder der Vergeltung haben.
+```
