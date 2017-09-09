@@ -1,3 +1,7 @@
+# links
+
+* http://gutezitate.com/
+
 # quotes
 
 ## iZombie - Staffel 2, Folge 12
@@ -75,17 +79,13 @@ Es ist schwer sich das Leben leicht zu machen.
 ```
 Es ist leicht etwas zu zerstören.
 Es ist schwer etwas aufzubauen.
+```
 
 ## Walter Moers
 
 ```
 Es ist leicht, etwas zu beginnen.
 Aber es ist schwer, etwas zu Ende zu bringen.
-```
-
-# links
-
-* http://gutezitate.com/
 ```
 
 ## Sebastian Kneipp
@@ -275,4 +275,23 @@ Wenn in einem Satz aber vorkommt, ist alles vor dem aber unwichtig und kann als 
 
 ```
 Die Paranoia der US-Amerikaner und der damit verbundene Wunsch zur totalen militärischen Überlegenheit liegt in dem psychologischen Problem, dass sie sie selbst wissen, dass sie ihr Land durch ein Völkermord gestohlen haben und Angst vor dem Höllenfeuer des Schicksals oder der Vergeltung haben.
+```
+
+## Marshall McLuhan
+
+```
+Es gibt keine Passagiere auf dem Raumschiff Erde, jeder gehört zur Besatzung.
+```
+
+## Mark Twain
+
+```
+If you don't read the newspaper, you're uninformed.
+If you read the newspaper, you're mis-informed.
+```
+
+## Mark Twain
+
+```
+If we were supposed to talk more than listen we would have been given two mouths and one ear.
 ```
