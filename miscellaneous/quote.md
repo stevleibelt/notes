@@ -295,3 +295,10 @@ If you read the newspaper, you're mis-informed.
 ```
 If we were supposed to talk more than listen we would have been given two mouths and one ear.
 ```
+
+## Unknonwn
+
+```
+Die Bösen müssen immer Glück haben,
+die Guten nur einmal.
+```
