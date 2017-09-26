@@ -302,3 +302,9 @@ If we were supposed to talk more than listen we would have been given two mouths
 Die Bösen müssen immer Glück haben,
 die Guten nur einmal.
 ```
+
+## Henry Ford
+
+```
+Würden die Menschen das Geldsystem verstehen, hätten wir eine Revolution noch vor morgen früh.
+```
