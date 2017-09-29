@@ -308,3 +308,9 @@ die Guten nur einmal.
 ```
 Würden die Menschen das Geldsystem verstehen, hätten wir eine Revolution noch vor morgen früh.
 ```
+
+## Unknonwn
+
+```
+Wenn eine Schraube locker ist, hat das Leben etwas Spiel.
+```
