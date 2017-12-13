@@ -314,3 +314,12 @@ Würden die Menschen das Geldsystem verstehen, hätten wir eine Revolution noch 
 ```
 Wenn eine Schraube locker ist, hat das Leben etwas Spiel.
 ```
+
+## Byron Katie
+
+```
+Life is simple.
+Everything happens for you, not to you.
+Everything happens at exactly the right moment, neither too soon nor too late.
+You don't have to like it... it's just easier if you do.
+```
