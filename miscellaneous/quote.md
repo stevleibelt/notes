@@ -358,3 +358,15 @@ And what they got out of it - how they changed as a result.
 ```
 Consuming without thinking of what it implies is like walking blind.
 ```
+
+## Rory Vaden - How to multiply your time
+
+[The talk on youtube.com.](https://www.youtube.com/watch?v=y2X7c9TUQJ8)
+
+```
+Time management is is emotional (not logical as you might think of).
+[...]
+There is no time management (since time is going on and you can not stop it), there is only self management.
+[...]
+Think about how soon, how much and how long does it matter.
+```
