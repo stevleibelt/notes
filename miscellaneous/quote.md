@@ -326,7 +326,7 @@ You don't have to like it... it's just easier if you do.
 
 ## Susan Heitler - About here "Bump Model"
 
-[Here talk on youtube.com.](https://www.youtube.com/watch?v=_re6AX3Mi4s)
+[The talk on youtube.com.](https://www.youtube.com/watch?v=_re6AX3Mi4s)
 
 ```
 Giving up on something you want, triggers depression.
@@ -334,9 +334,27 @@ Giving up on something you want, triggers depression.
 
 ## Elizabeth Amini - Top 10 Tips to Keep Your Brain Young
 
-[Here talk on youtube.com.](https://www.youtube.com/watch?v=2tcEgqTWbxQ)
+[The talk on youtube.com.](https://www.youtube.com/watch?v=2tcEgqTWbxQ)
 
 ```
 Seeing the opportunity in all things is a really good thing.
 Learning the leasons on mistaks and let them go is a rally good thing.
+```
+
+## Adam Leizpig - How to know your life purpose in 5 minutes
+
+[The talk on youtube.com.](https://www.youtube.com/watch?v=vVsXO9brK7M)
+
+```
+Who they are.
+What they did.
+Who they did it for.
+What those people wanted or needed.
+And what they got out of it - how they changed as a result.
+```
+
+## C.C.S. from JL - 2017-12-18
+
+```
+Consuming without thinking of what it implies is like walking blind.
 ```
