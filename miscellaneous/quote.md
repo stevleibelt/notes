@@ -338,7 +338,7 @@ Giving up on something you want, triggers depression.
 
 ```
 Seeing the opportunity in all things is a really good thing.
-Learning the leasons on mistaks and let them go is a rally good thing.
+Learning the leasons on mistaks and let them go is a really good thing.
 ```
 
 ## Adam Leizpig - How to know your life purpose in 5 minutes
