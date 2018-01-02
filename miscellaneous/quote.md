@@ -370,3 +370,8 @@ There is no time management (since time is going on and you can not stop it), th
 [...]
 Think about how soon, how much and how long does it matter.
 ```
+## Jemand aus der Kosmetikindustrie
+
+```
+Wir verkaufen keine Cremes – wir verkaufen Illusionen.
+```
