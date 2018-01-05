@@ -381,3 +381,10 @@ Wir verkaufen keine Cremes – wir verkaufen Illusionen.
 ```
 Atomenergie lässt weder zivil noch militärisch nutzen.
 ```
+
+# Eine russische Frau in der Dokumentantion 10.000 Kilometer Russland (ZDF 2018)
+
+```
+Frieden und Freundschaft zwischen den Völkern,
+damit lässt sich jedes Problem lösen.
+```
