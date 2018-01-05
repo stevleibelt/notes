@@ -375,3 +375,9 @@ Think about how soon, how much and how long does it matter.
 ```
 Wir verkaufen keine Cremes – wir verkaufen Illusionen.
 ```
+
+## Nikola Tesla
+
+```
+Atomenergie lässt weder zivil noch militärisch nutzen.
+```
