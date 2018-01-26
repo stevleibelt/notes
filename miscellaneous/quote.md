@@ -382,9 +382,21 @@ Wir verkaufen keine Cremes – wir verkaufen Illusionen.
 Atomenergie lässt weder zivil noch militärisch nutzen.
 ```
 
-# Eine russische Frau in der Dokumentantion 10.000 Kilometer Russland (ZDF 2018)
+## Eine russische Frau in der Dokumentantion 10.000 Kilometer Russland (ZDF 2018)
 
 ```
 Frieden und Freundschaft zwischen den Völkern,
 damit lässt sich jedes Problem lösen.
+```
+
+## SL from JL - 2018-01-26
+
+```
+thats what techno is all about, don't care how you look or dance as long as you are enjoying the music.
+```
+
+## Französisches Sprichwort
+
+```
+Die Bestimmung des Glases ist zu zerbrechen.
 ```
