@@ -1,6 +1,7 @@
 # links
 
 * http://gutezitate.com/
+* http://de.wikimannia.org/Wahrheit_%28Zitate%29
 
 # quotes
 
@@ -399,4 +400,24 @@ thats what techno is all about, don't care how you look or dance as long as you 
 
 ```
 Die Bestimmung des Glases ist zu zerbrechen.
+```
+
+## Joseph Goebbels
+
+```
+Wenn man eine große Lüge erzählt und sie oft genug wiederholt,
+dann werden die Leute sie am Ende glauben.
+Man kann die Lüge so lange behaupten, wie es dem Staat gelingt,
+die Menschen von den politischen, wirtschaftlichen und militärischen Konsequenzen der Lüge abzuschirmen.
+Deshalb ist es von lebenswichtiger Bedeutung für den Staat, 
+seine gesamte Macht für die Unterdrückung abweichender Meinungen einzusetzen.
+Die Wahrheit ist der Todfeind der Lüge, und daher ist die Wahrheit der größte Feind des Staates.
+```
+
+## Joseph Goebbels
+
+```
+Es mag gut sein, Macht zu besitzen, die auf Gewehren ruht,
+besser aber und beglückender ist es,
+das Herz eines Volkes zu gewinnen und es auch zu behalten.
 ```
