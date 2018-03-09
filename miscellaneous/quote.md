@@ -421,3 +421,10 @@ Es mag gut sein, Macht zu besitzen, die auf Gewehren ruht,
 besser aber und beglückender ist es,
 das Herz eines Volkes zu gewinnen und es auch zu behalten.
 ```
+
+## Unbekannt
+
+```
+Früher war alles besser,
+auch die Zukunft.
+```
