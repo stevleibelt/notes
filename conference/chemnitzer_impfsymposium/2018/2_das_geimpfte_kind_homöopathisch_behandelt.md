@@ -1,6 +1,6 @@
 # Das geimpfte Kind homöopathisch behandelt
 
-Impfsymposium Chemnitz
+[Impfsymposium Chemnitz](http://svhgev.de)
 17.03.2018
 Dr. Paed. Angela Söldner
 

@@ -1,8 +1,8 @@
 # Angstfrei Leben - Der mündige Patient
 
-Impfsymposium Chemnitz
+[Impfsymposium Chemnitz](http://svhgev.de)
 17.03.2018
-Dr. Biermanns
+Dr. med. Jürgen Birmanns
 
 ## Vortrag
 

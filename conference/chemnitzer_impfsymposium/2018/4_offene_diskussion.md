@@ -1,6 +1,6 @@
 # Offene Diskussion
 
-Impfsymposium Chemnitz
+[Impfsymposium Chemnitz](http://svhgev.de)
 17.03.2018
 
 ## Fragen und Antworten
