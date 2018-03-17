@@ -26,7 +26,7 @@ Dr. med. Klaus Hartmann, Wiesbaden
     * Etwaig bereitet er eine Impfpflicht vor
 * Die Grippeimpfung
     * Hat wenig Nebenwirkungen
-    * Brint nichts (England "Cockrich Institut"?)
+    * Brint nichts (England "Cockroach Institute")
 * Es gibt keine Impfung, die man unbedingt jetzt und sofort haben muss - lieber abwarten
 * Das Spontanerfassungssystem erfasst maximal 5 Prozent der Probleme durch Medikamente (es ist bekannt, dass dieses System nicht funktioniert)
     * Die Daten werden durch die Ärzte blind erhoben (Wann wurde was geimpft, welche Krankheiten traten danach auf)
@@ -51,16 +51,16 @@ Am Beispiel der HPV-Impfung.
 
 * Autoimmun - Alles kann vom Immunsystem als Eindringling (falsch) erkannt werden
 * Yehuda Schoenfeld ist aktuell der führender (wissenschafltiche) Forscher
-    * Hat das "Autoimmun induziert durch Adjuvanzen" (Impfungen/Impfstoffen) gefunden - ASIA - Autoimmune/inflammatory syndrom induced by adjuvants (2010)
+    * Hat das "Autoimmun induziert durch Adjuvans" (Impfungen/Impfstoffen) gefunden - ASIA - Autoimmune/inflammatory syndrom induced by adjuvants (2010)
         * Gehirnentzündung - Acute Disseminated Encephalomyelitis Following Immunization with Human Papillomavirus Vaccines (Makoto Yoneda)
         * Regionale, schwere Gelenkschmerzen (für mehrere Monate)
 * Autoimmunkrankheiten sind schwer zuzuordnen
 * Lebenslang abhängig von sehr teuren Pharmaprodukten (vom gleichen Hersteller der die HPV-Impfung produziert)
 
-## Adjuvanzen (adjuvants) - Inaktivierte (nicht lebendige) Krankheitserregierimpfungen - @todo (nachlesen)
+## Adjuvansen (adjuvants) - Inaktivierte (nicht lebendige) Krankheitserregierimpfungen
 
 * Seit 1920 wird zu diesem Thema geforscht
-* Adjuvanzen (kaputtgemachtes/toter Antikörper) werden stumpf vom Körper abgebaut, ohne einen Alarm im Immunsystem auszulösen
+* Adjuvans ([Hilfstoffe](https://de.wikipedia.org/wiki/Adjuvans_(Pharmakologie))) werden stumpf vom Körper abgebaut, ohne einen Alarm im Immunsystem auszulösen
 * Aber, die Trägerstoffe (z.B. Alluminium) kann eine Immunreaktion auslösen
     * Dies führt dazu, dass Antikörper für ein "Fehlalarm" gebildet und gemerkt werden (Schlüssel-Schloss-Prinzip)
     * Diese Antikörper können dann falsche Zellen angreifen
@@ -89,7 +89,7 @@ Am Beispiel der HPV-Impfung.
 * Es wird nicht geprüft, ob die produzierten Antikörper passend für die Krankheiten sind (ob sie helfen)
 * Die Testkriterien sind die gleichen wie im 19 Jahrhundert
 * Randomisierte Doppeltblind Plazebostudie (Studiengesetzgebung)
-    * Bei Impfstoffen darf man als Plazebo während der Studie etwas Anderes (ein anderes Adjuvanz) mit Alluminium nehmen
+    * Bei Impfstoffen darf man als Plazebo während der Studie etwas Anderes (ein anderes Adjuvans) mit Alluminium nehmen
     * Resultat: In beiden gibt es ungefähr gleichviel Autoimmunkrankheiten und wird nicht gemeldet
     * Die Anpassung des Gesetzt wurde durch massiver Lobbyarbeit der Pharmaindustrie europaweit "angepasst" (ADEM)
     * Es gibt bisher keine Klage gegen dieses Studienmodel auf EU-Ebene (Die deutsche Ärzteschaft hat ebenfalls bedenken gegen dieses Model geäußert - siehe Deutsches Ärzteblatt - etwaig mit Krankenkassen zusammentuen)

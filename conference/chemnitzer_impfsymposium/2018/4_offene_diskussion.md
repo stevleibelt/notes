@@ -20,7 +20,7 @@ Impfsymposium Chemnitz
 
 ## Weiteres
 
-* impfen-nein-danke.de
+* [impfen-nein-danke.de](https:/www.impfen-nein-danke.de)
 * Es gibt kein Nachweis für den Schutzeffekt einer Impfung
 * Es gibt kein Nachweis für die Nebenwirkungen einer Impfung
 * Licht, Luft, Sonne, Bewegung, vitalstoffreiche Vollwertkost und eine entspannte Lebensweise

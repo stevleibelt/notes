@@ -52,3 +52,4 @@ Dr. Paed. Angela Söldner
 * Warum reagieren Menschen nach einer Impfung mit Hautausschlägen, Fieber, Schreiattacken, Schlaflosigkeit, im Verhalten (Tobsuchtsanfälle), Ohnmacht
 * Dr. med. Joachim Mutter - Gesund statt chronisch krank. Fit fürs Leben Verlag 2009
 * Zitate von Hippokrates, Voltair
+* [Verband klassischer Homöopathen Deutschland e.V.](https://www.vkhd.de/) - Inklusive Therapeutensuche
