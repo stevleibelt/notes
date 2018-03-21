@@ -428,3 +428,15 @@ das Herz eines Volkes zu gewinnen und es auch zu behalten.
 Früher war alles besser,
 auch die Zukunft.
 ```
+
+## Edward Snowden
+
+```
+Unternehmen, die Geld verdienen,
+indem Sie detaillierte Aufzeichnungen über das Privatleben von Bürgern sammeln und verkaufen,
+wurden einmal treffend als "Überwachungsunternehmen" bezeichnet.
+Ihr Rebranding als "Social Media" ist die erfolgreichste Täuschung
+seit das Kriegsministerium in Verteidigungsministerium umbenannt wurde.
+```
+
+[Quelle](https://propagandaschau.wordpress.com/2018/03/21/edward-snowden-zu-den-sozialen-medien/)
