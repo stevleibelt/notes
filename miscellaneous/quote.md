@@ -440,3 +440,130 @@ seit das Kriegsministerium in Verteidigungsministerium umbenannt wurde.
 ```
 
 [Quelle](https://propagandaschau.wordpress.com/2018/03/21/edward-snowden-zu-den-sozialen-medien/)
+
+## Johann Wolfgang von Goethe
+
+```
+Wir erschrecken über unsere eigenen Sünden,
+wenn wir sie an anderen erblicken.
+```
+
+## Johann Wolfgang von Goethe
+
+```
+Durch nichts bezeichnen die Menschen mehr ihren Charakter als durch das, was sie lächerlich finden.
+```
+
+## Johann Wolfgang von Goethe
+
+```
+Zur Resignation gehört Charakter.
+```
+
+## Johann Wolfgang von Goethe
+
+```
+Wenn man einmal weiß, worauf alles ankommt, hört man auf, gesprächig zu sein.
+```
+
+## Johann Wolfgang von Goethe
+
+```
+Mit dem Wissen wächst der Zweifel.
+```
+
+## Johann Wolfgang von Goethe
+
+```
+Man kann die Erfahrung nicht früh genug machen, wie entbehrlich man in der Welt ist.
+```
+
+## Heinrich Heine
+
+```
+Ein Kluger bemerkt alles, ein Dummer macht zu allem eine Bemerkung.
+```
+
+## Heinrich Heine
+
+```
+Dort, wo man Bücher verbrennt, verbrennt man am Ende auch Menschen.
+```
+
+## Johann Christoph Friedrich von Schiller
+
+```
+Alles wanket, wo der Glaube fehlt.
+```
+
+## Hermann Hesse
+
+```
+Es wird immer gleich ein wenig anders, wenn man es ausspricht.
+```
+
+## Theodor Fontane
+
+```
+Lerne denken mit dem Herzen, und lerne fühlen mit dem Geist.
+```
+
+## Theodor Fontane
+
+```
+Manche Hähne glauben, daß die Sonne ihretwegen aufgeht.
+```
+
+## Theodor Fontane
+
+```
+Wer nicht weiß, daß er eine Maske trägt, trägt sie am vollkommensten.
+```
+
+## Theodor Fontane
+
+```
+Erst die Fremde lehrt uns, was wir an der Heimat besitzen.
+```
+
+## Kurt Tucholsky
+
+```
+Im übrigen gilt ja hier derjenige, der auf den Schmutz hinweist, für viel gefährlicher als der, der den Schmutz macht.
+```
+
+## Kurt Tucholsky
+
+```
+Erfahrungen vererben sich nicht - jeder muß sie allein machen.
+```
+
+## Kurt Tucholsky
+
+```
+Es ist schön, mit jemand schweigen zu können.
+```
+
+## Henry Ford
+
+```
+Erfolg besteht darin, dass man genau die Fähigkeiten hat, die im Moment gefragt sind.
+```
+
+## Henry Ford
+
+```
+Es ist nicht der Unternehmer, der die Löhne zahlt - er übergibt nur das Geld. Es ist das Produkt, das die Löhne zahlt.
+```
+
+## Henry Ford
+
+```
+Das Geben ist leicht; das Geben überflüssig zu machen, ist viel schwerer.
+```
+
+## Henry Ford
+
+```
+Nicht mit Erfindungen, sondern mit Verbesserungen macht man Vermögen.
+```
