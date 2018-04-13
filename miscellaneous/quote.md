@@ -567,3 +567,9 @@ Das Geben ist leicht; das Geben überflüssig zu machen, ist viel schwerer.
 ```
 Nicht mit Erfindungen, sondern mit Verbesserungen macht man Vermögen.
 ```
+
+## African Proverb
+
+```
+If you want to go quickly, go alone. If you want to go far, go together.
+```
