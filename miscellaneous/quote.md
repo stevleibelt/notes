@@ -573,3 +573,9 @@ Nicht mit Erfindungen, sondern mit Verbesserungen macht man Vermögen.
 ```
 If you want to go quickly, go alone. If you want to go far, go together.
 ```
+
+## Unknown
+
+```
+Elektrisches Licht ist Bildung..
+```
