@@ -577,5 +577,11 @@ If you want to go quickly, go alone. If you want to go far, go together.
 ## Unknown
 
 ```
-Elektrisches Licht ist Bildung..
+Elektrisches Licht ist Bildung.
+```
+
+## Jörg Dörr, Düsseldorf - Reine Männersache 1. Auflage 1993 - Emuverlag Seite 215
+
+```
+Wer nicht handelt, wird behandelt.
 ```
