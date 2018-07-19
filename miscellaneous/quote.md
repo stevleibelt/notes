@@ -585,3 +585,12 @@ Elektrisches Licht ist Bildung.
 ```
 Wer nicht handelt, wird behandelt.
 ```
+
+## The holy ghost sleeping in the internet
+
+```
+Easy Mode,
+Medium Mode,
+Hard Mode
+and Depeche Mode
+```
