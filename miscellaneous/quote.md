@@ -594,3 +594,34 @@ Medium Mode,
 Hard Mode
 and Depeche Mode
 ```
+
+## Khalil Gibran - Deine Kinder sind nicht Deine Kinder
+
+```
+Deine Kinder sind nicht Deine Kinder.
+
+Sie sind die Söhne und Töchter 
+der Sehnsucht des Lebens nach sich selbst. 
+
+Sie kommen durch Dich, aber nicht von Dir, 
+obwohl sie bei Dir sind, gehören sie Dir nicht. 
+
+Du kannst ihnen Deine Liebe geben, aber nicht 
+Deine Gedanken; denn sie haben ihre eigenen Gedanken. 
+
+Du kannst ihrem Körper ein Heim geben, 
+aber nicht ihrer Seele, denn ihre Seele wohnt im 
+Haus von morgen, das Du nicht besuchen kannst, 
+nicht einmal in Deinen Träumen. 
+
+Du kannst versuchen, ihnen gleich zu sein, 
+aber nicht, sie Dir gleich zu machen, 
+denn das Leben geht nicht rückwärts 
+und verweilt nicht beim Gestern. 
+
+Du bist der Bogen, von dem Deine Kinder 
+als lebende Pfeile ausgeschickt werden. 
+
+Lass Deine Bogenrundung in der Hand 
+des Schützen Freude bedeuten.
+```
