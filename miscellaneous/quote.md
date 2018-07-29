@@ -625,3 +625,10 @@ als lebende Pfeile ausgeschickt werden.
 Lass Deine Bogenrundung in der Hand 
 des Schützen Freude bedeuten.
 ```
+
+## Deep State - Staffel 1, Folge 7
+
+```
+Krieg basiert auf Gefühlen,
+Fakten sind nur Hintergrundrauschen.
+```
