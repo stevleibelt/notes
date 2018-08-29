@@ -632,3 +632,9 @@ des Schützen Freude bedeuten.
 Krieg basiert auf Gefühlen,
 Fakten sind nur Hintergrundrauschen.
 ```
+
+## Scooter - Move Your Ass
+
+```
+It is nice to be important but more important to be nice.
+```
