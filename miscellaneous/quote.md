@@ -638,3 +638,11 @@ Fakten sind nur Hintergrundrauschen.
 ```
 It is nice to be important but more important to be nice.
 ```
+
+## Rupi Kaur
+
+```
+It takes grace
+To remain kind
+In cruel situations
+```
