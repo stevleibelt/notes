@@ -646,3 +646,9 @@ It takes grace
 To remain kind
 In cruel situations
 ```
+
+## Emile Coue
+
+```
+Es geht mir mit jedem Tag in jeder Hinsicht immer besser und besser!
+```
