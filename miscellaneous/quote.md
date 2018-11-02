@@ -652,3 +652,9 @@ In cruel situations
 ```
 Es geht mir mit jedem Tag in jeder Hinsicht immer besser und besser!
 ```
+
+## C.C. from JL - 2ß18-11-02
+
+```
+give power to the people, not to machines!
+```
