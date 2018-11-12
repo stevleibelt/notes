@@ -658,3 +658,10 @@ Es geht mir mit jedem Tag in jeder Hinsicht immer besser und besser!
 ```
 give power to the people, not to machines!
 ```
+
+## Mohamed Ali
+
+```
+#He was asked once how many situps he makes?
+I don't know, I only start count when I can't do anymore"
+```
