@@ -665,3 +665,10 @@ give power to the people, not to machines!
 #He was asked once how many situps he makes?
 I don't know, I only start count when I can't do anymore"
 ```
+
+## Friedrich Nietzsche
+
+```
+Wer mit Ungeheuern kämpft, mag zusehn, dass er nicht dabei zum Ungeheuer wird.
+Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein.
+```
