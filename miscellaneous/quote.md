@@ -672,3 +672,12 @@ I don't know, I only start count when I can't do anymore"
 Wer mit Ungeheuern kämpft, mag zusehn, dass er nicht dabei zum Ungeheuer wird.
 Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein.
 ```
+
+## Unknown
+
+```
+Was bringt den Doktor um sein Brot?
+A: Die Gesundheit 
+B: Der Tod 
+Drum hält er uns, auf dass er lebe, zwischen beiden in der Schwebe.
+```
