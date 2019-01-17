@@ -681,3 +681,10 @@ A: Die Gesundheit
 B: Der Tod 
 Drum hält er uns, auf dass er lebe, zwischen beiden in der Schwebe.
 ```
+
+## The Internet
+
+```
+Medikamente halte euch am leben,
+Nahrung macht euch lebendig.
+```
