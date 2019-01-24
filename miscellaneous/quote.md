@@ -653,7 +653,7 @@ In cruel situations
 Es geht mir mit jedem Tag in jeder Hinsicht immer besser und besser!
 ```
 
-## C.C. from JL - 2ß18-11-02
+## C.C. from JL - 2018-11-02
 
 ```
 give power to the people, not to machines!
@@ -687,4 +687,10 @@ Drum hält er uns, auf dass er lebe, zwischen beiden in der Schwebe.
 ```
 Medikamente halte euch am leben,
 Nahrung macht euch lebendig.
+```
+
+## Someone from JL - 2019-01-24
+
+```
+Solch einen Code kann niemand schreiben, der eine niedrige Frustrationstoleranz hat.
 ```
