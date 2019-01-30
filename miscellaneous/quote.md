@@ -694,3 +694,9 @@ Nahrung macht euch lebendig.
 ```
 Solch einen Code kann niemand schreiben, der eine niedrige Frustrationstoleranz hat.
 ```
+
+## Unknown
+
+```
+Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss People.
+```
