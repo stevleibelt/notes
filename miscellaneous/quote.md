@@ -700,3 +700,9 @@ Solch einen Code kann niemand schreiben, der eine niedrige Frustrationstoleranz 
 ```
 Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss People.
 ```
+
+## SL from JL (2019-02-07)
+
+```
+Lümmellude.
+```
