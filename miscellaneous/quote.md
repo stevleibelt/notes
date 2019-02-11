@@ -706,3 +706,23 @@ Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss Peo
 ```
 Lümmellude.
 ```
+
+## VB from JL (2019-02-11)
+
+```
+# Zum Thema >>Grundformen der Angst von Fritz Remann<<
+[...]
+Alles kommt aus Angst wenn man den Gedanken einfach mal zu Ende denkt.
+So wie Kinder:
+"Warum bin ich Aggro?"
+"Weil ich es hasse von Leuten nicht beachtet zu werden."
+
+"Warum hass eich es von Leuten nicht beachtet zu werden?"
+"Weil ich nicht ignoriert werden will."
+
+"Warum will ich nicht ignoriert werden?"
+"Weil ich angst habe ganz allein zu sein."
+
+Kommt echt so gut wie immer auf das selbe Schlagwort zurück.
+[...]
+```
