@@ -726,3 +726,9 @@ So wie Kinder:
 Kommt echt so gut wie immer auf das selbe Schlagwort zurück.
 [...]
 ```
+
+## Unknown
+
+```
+Unsere Natur kümmert sich schon um die Erde.
+```
