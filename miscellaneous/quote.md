@@ -738,3 +738,9 @@ Unsere Natur kümmert sich schon um die Erde.
 ```
 Bitter im Mund, im Magen gesund.
 ```
+
+## Unknown
+
+```
+Iss roh und Du wirst froh, iss kalt und Du wirst alt.
+```
