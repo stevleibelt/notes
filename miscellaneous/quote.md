@@ -744,3 +744,11 @@ Bitter im Mund, im Magen gesund.
 ```
 Iss roh und Du wirst froh, iss kalt und Du wirst alt.
 ```
+
+## Fefe
+
+[source](https://blog.fefe.de/?ts=a251d834)
+
+```
+Erzählt euren Mädchen dasselbe wie euren Jungs. Harte Arbeit zahlt sich aus. Vorbereitet sein hilft zuverlässig, schlau sein nur wenn man Glück hat.
+```
