@@ -752,3 +752,9 @@ Iss roh und Du wirst froh, iss kalt und Du wirst alt.
 ```
 Erzählt euren Mädchen dasselbe wie euren Jungs. Harte Arbeit zahlt sich aus. Vorbereitet sein hilft zuverlässig, schlau sein nur wenn man Glück hat.
 ```
+
+## Steven Chu
+
+```
+Mit steigendem Lebensstandard sinkt das Bevölkerungswachstum. Wenn es der Wirtschaft also gelingt, den Lebensstandard zu erhöhen, untergräbt sie sich selbst.
+```
