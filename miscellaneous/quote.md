@@ -758,3 +758,9 @@ Erzählt euren Mädchen dasselbe wie euren Jungs. Harte Arbeit zahlt sich aus. V
 ```
 Mit steigendem Lebensstandard sinkt das Bevölkerungswachstum. Wenn es der Wirtschaft also gelingt, den Lebensstandard zu erhöhen, untergräbt sie sich selbst.
 ```
+
+## JK from JL
+
+```
+BTW ... it came like a major brainfart to my mind ...
+```
