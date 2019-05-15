@@ -764,3 +764,11 @@ Mit steigendem Lebensstandard sinkt das Bevölkerungswachstum. Wenn es der Wirts
 ```
 BTW ... it came like a major brainfart to my mind ...
 ```
+
+## FeFe
+
+[source](https://blog.fefe.de/?ts=a2257613)
+
+```
+Wer modern sagt, meint "schlechter als die letzte Generation"
+```
