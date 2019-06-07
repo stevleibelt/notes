@@ -772,3 +772,9 @@ BTW ... it came like a major brainfart to my mind ...
 ```
 Wer modern sagt, meint "schlechter als die letzte Generation"
 ```
+
+## Aldous Huxley
+
+```
+Je mehr sich politische und wirtschaftliche Freiheit verringern, desto mehr pflegt die sexuelle Freiheit sich kompensatorisch auszuweiten.
+```
