@@ -778,3 +778,16 @@ Wer modern sagt, meint "schlechter als die letzte Generation"
 ```
 Je mehr sich politische und wirtschaftliche Freiheit verringern, desto mehr pflegt die sexuelle Freiheit sich kompensatorisch auszuweiten.
 ```
+
+## I Am Not Your Negro | Doku | ARTE
+
+```
+Die Wurzel für den Hass der Schwarzen ist Wut.
+Eigentlich hassen sie die Weißen nicht,
+Sie wollen vielmehr, dass sie ihnen nicht den Weg versperren.
+Und mehr noch, dass sie ihren Kindern nicht den Weg versperren.
+
+Die Wurzel für den Hass der Weißen ist Angst.
+Eine unerklärliche und namenlose Angst, die sich auf die Horrorfigur konzentriert.
+Ein Wesen, dass nur in ihren Kopf existiert.
+```
