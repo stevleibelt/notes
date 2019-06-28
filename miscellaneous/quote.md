@@ -791,3 +791,10 @@ Die Wurzel für den Hass der Weißen ist Angst.
 Eine unerklärliche und namenlose Angst, die sich auf die Horrorfigur konzentriert.
 Ein Wesen, dass nur in ihren Kopf existiert.
 ```
+
+## MPM from JL
+
+```
+Die Frauen trachten nicht nach einer eigenen Identität oder Definition, diese haben Sie bereits.
+Sie wollen Gleichheit, verwechseln die Gleichheit aber mit mehr Mann sein.
+```
