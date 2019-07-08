@@ -798,3 +798,9 @@ Ein Wesen, dass nur in ihren Kopf existiert.
 Die Frauen trachten nicht nach einer eigenen Identität oder Definition, diese haben Sie bereits.
 Sie wollen Gleichheit, verwechseln die Gleichheit aber mit mehr Mann sein.
 ```
+
+## Unknown
+
+```
+Was in Chemnitz erarbeitet wird, wird in Leipzig gehandelt und in Dresden verprasst.
+```
