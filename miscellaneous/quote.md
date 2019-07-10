@@ -804,3 +804,12 @@ Sie wollen Gleichheit, verwechseln die Gleichheit aber mit mehr Mann sein.
 ```
 Was in Chemnitz erarbeitet wird, wird in Leipzig gehandelt und in Dresden verprasst.
 ```
+
+## Martin Däniken
+
+[Quelle](https://tuxproject.de/blog/2019/07/deutsche-bank-symbolbild/)
+
+```
+Wer Bier trinkt, kann keinen Unsinn machen ...
+das Gefährliche sind die Pausen zwischen den Bieren
+```
