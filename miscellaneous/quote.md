@@ -813,3 +813,11 @@ Was in Chemnitz erarbeitet wird, wird in Leipzig gehandelt und in Dresden verpra
 Wer Bier trinkt, kann keinen Unsinn machen ...
 das Gefährliche sind die Pausen zwischen den Bieren
 ```
+
+## Aristophanes, griech. Komödiendichter, 445-385 v. u. Z.
+
+[Quelle](http://www.tamagothi.de/2019/07/08/propaganda-heuchelei-und-doppelmoral/)
+
+```
+Regieren ist keine Sache für Leute von Charakter und Erziehung.
+```
