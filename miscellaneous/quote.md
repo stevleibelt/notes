@@ -821,3 +821,9 @@ das Gefährliche sind die Pausen zwischen den Bieren
 ```
 Regieren ist keine Sache für Leute von Charakter und Erziehung.
 ```
+
+## cnuke - #bosng
+
+```
+das ist anscheinend das motto unseres jahrhundert - so lange ich nichts erwartet, ist eigtl alles ganz gut :D
+```
