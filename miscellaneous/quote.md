@@ -755,3 +755,86 @@ You're unique, you're o.k. Never must be afraid
 Spread your wings out and fly 
 Right through the starry night.
 ```
+
+## Fefe
+
+[source](https://blog.fefe.de/?ts=a251d834)
+
+```
+Erzählt euren Mädchen dasselbe wie euren Jungs. Harte Arbeit zahlt sich aus. Vorbereitet sein hilft zuverlässig, schlau sein nur wenn man Glück hat.
+```
+
+## Steven Chu
+
+```
+Mit steigendem Lebensstandard sinkt das Bevölkerungswachstum. Wenn es der Wirtschaft also gelingt, den Lebensstandard zu erhöhen, untergräbt sie sich selbst.
+```
+
+## JK from JL
+
+```
+BTW ... it came like a major brainfart to my mind ...
+```
+
+## FeFe
+
+[source](https://blog.fefe.de/?ts=a2257613)
+
+```
+Wer modern sagt, meint "schlechter als die letzte Generation"
+```
+
+## Aldous Huxley
+
+```
+Je mehr sich politische und wirtschaftliche Freiheit verringern, desto mehr pflegt die sexuelle Freiheit sich kompensatorisch auszuweiten.
+```
+
+## I Am Not Your Negro | Doku | ARTE
+
+```
+Die Wurzel für den Hass der Schwarzen ist Wut.
+Eigentlich hassen sie die Weißen nicht,
+Sie wollen vielmehr, dass sie ihnen nicht den Weg versperren.
+Und mehr noch, dass sie ihren Kindern nicht den Weg versperren.
+
+Die Wurzel für den Hass der Weißen ist Angst.
+Eine unerklärliche und namenlose Angst, die sich auf die Horrorfigur konzentriert.
+Ein Wesen, dass nur in ihren Kopf existiert.
+```
+
+## MPM from JL
+
+```
+Die Frauen trachten nicht nach einer eigenen Identität oder Definition, diese haben Sie bereits.
+Sie wollen Gleichheit, verwechseln die Gleichheit aber mit mehr Mann sein.
+```
+
+## Unknown
+
+```
+Was in Chemnitz erarbeitet wird, wird in Leipzig gehandelt und in Dresden verprasst.
+```
+
+## Martin Däniken
+
+[Quelle](https://tuxproject.de/blog/2019/07/deutsche-bank-symbolbild/)
+
+```
+Wer Bier trinkt, kann keinen Unsinn machen ...
+das Gefährliche sind die Pausen zwischen den Bieren
+```
+
+## Aristophanes, griech. Komödiendichter, 445-385 v. u. Z.
+
+[Quelle](http://www.tamagothi.de/2019/07/08/propaganda-heuchelei-und-doppelmoral/)
+
+```
+Regieren ist keine Sache für Leute von Charakter und Erziehung.
+```
+
+## cnuke - #bosng
+
+```
+das ist anscheinend das motto unseres jahrhundert - so lange ich nichts erwartet, ist eigtl alles ganz gut :D
+```
