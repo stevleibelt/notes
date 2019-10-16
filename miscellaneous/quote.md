@@ -744,3 +744,14 @@ Bitter im Mund, im Magen gesund.
 ```
 Iss roh und Du wirst froh, iss kalt und Du wirst alt.
 ```
+
+## 1995 - Dj Waxweazle Vs Guitar Rob - Pump It, Dj - Waxweazle Vinyl - WAX 006
+
+```
+Come on lift your head high reaching out for the sky 
+Spread your wings out and fly 
+Right through the starry night 
+You're unique, you're o.k. Never must be afraid 
+Spread your wings out and fly 
+Right through the starry night.
+```
