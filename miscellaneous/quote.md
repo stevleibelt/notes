@@ -838,3 +838,9 @@ Regieren ist keine Sache für Leute von Charakter und Erziehung.
 ```
 das ist anscheinend das motto unseres jahrhundert - so lange ich nichts erwartet, ist eigtl alles ganz gut :D
 ```
+
+## Unknown
+
+```
+Wie will man eine Welle am Strand festhalten?
+```
