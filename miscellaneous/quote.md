@@ -844,3 +844,11 @@ das ist anscheinend das motto unseres jahrhundert - so lange ich nichts erwartet
 ```
 Wie will man eine Welle am Strand festhalten?
 ```
+
+## What you need to know about burnout
+
+[source](https://opensource.com/article/19/11/burnout-open-source-communities)
+
+```
+We don't need heroes; we need people willing to collaborate, to listen, and to mentor junior team members.
+```
