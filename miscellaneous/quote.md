@@ -852,3 +852,9 @@ Wie will man eine Welle am Strand festhalten?
 ```
 We don't need heroes; we need people willing to collaborate, to listen, and to mentor junior team members.
 ```
+
+## SL
+
+```
+Das leben verändert uns und wir Menschen reden uns ein, dass wir das leben verändern.
+```
