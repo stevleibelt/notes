@@ -858,3 +858,11 @@ We don't need heroes; we need people willing to collaborate, to listen, and to m
 ```
 Das leben verändert uns und wir Menschen reden uns ein, dass wir das leben verändern.
 ```
+
+## kuketz-blog.de
+
+[source](https://www.kuketz-blog.de/digitaler-hustensaft-ein-kommentar-zum-scheitern-der-e-privacy-verordnung/)
+
+```
+Webtracking dient allein dazu Menschen identifizierbar zu machen
+```
