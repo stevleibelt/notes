@@ -866,3 +866,12 @@ Das leben verändert uns und wir Menschen reden uns ein, dass wir das leben ver�
 ```
 Webtracking dient allein dazu Menschen identifizierbar zu machen
 ```
+
+## SL - 2020-03-18
+
+```
+Wer Dinge nicht dem einfachen Mann auf der Straße erklären kann, der ist mit seinem Gedanken noch nicht fertig oder verschweigt Teile.
+
+Das war eine der Eigenschaften, welche ich an Steven Hawkin so bewundert habe - oder an ein paar anderen Personen.
+Wenn Menschen wissen wovon sie reden, könne sie es ganz einfach erklären und bei Bedarf in die komplexen Details gehen ohne sich in Widersprüche zu verrennen.
+```
