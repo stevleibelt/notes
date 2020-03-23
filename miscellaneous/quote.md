@@ -881,3 +881,11 @@ Wenn Menschen wissen wovon sie reden, könne sie es ganz einfach erklären und b
 ```
 Sparsamkeit armen Leuten zu empfehlen, das scheint ebenso lächerlich wie beleidigend. Es ist, als ob man einem Verhungernden riete, weniger zu essen!
 ```
+
+## Mein Name ist COVID – 19 und ich bin hier um euch an etwas zu erinnern
+
+```
+Lebt eure Leben so einfach wie nur möglich, geht langsam, atmet tief, tut Gutes, genießt die Natur, tut was euch gefällt und erfüllt. [...]
+```
+
+[Quelle](https://npr.news.eulu.info/2020/03/22/mein-name-ist-covid-19-und-ich-bin-hier-um-euch-an-etwas-zu-erinnern/)
