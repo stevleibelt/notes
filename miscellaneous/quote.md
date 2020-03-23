@@ -875,3 +875,9 @@ Wer Dinge nicht dem einfachen Mann auf der Straße erklären kann, der ist mit s
 Das war eine der Eigenschaften, welche ich an Steven Hawkin so bewundert habe - oder an ein paar anderen Personen.
 Wenn Menschen wissen wovon sie reden, könne sie es ganz einfach erklären und bei Bedarf in die komplexen Details gehen ohne sich in Widersprüche zu verrennen.
 ```
+
+## Oscar Wilde
+
+```
+Sparsamkeit armen Leuten zu empfehlen, das scheint ebenso lächerlich wie beleidigend. Es ist, als ob man einem Verhungernden riete, weniger zu essen!
+```
