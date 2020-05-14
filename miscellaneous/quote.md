@@ -889,3 +889,12 @@ Lebt eure Leben so einfach wie nur möglich, geht langsam, atmet tief, tut Gutes
 ```
 
 [Quelle](https://npr.news.eulu.info/2020/03/22/mein-name-ist-covid-19-und-ich-bin-hier-um-euch-an-etwas-zu-erinnern/)
+
+## MR - 2020-05-14
+
+```
+Gehe nicht zu einem Ferscht,
+Wenn du nicht gerufen werscht.
+```
+
+[Quelle](https://de.wikipedia.org/wiki/Liste_gefl%C3%BCgelter_Worte/G#Gehe_nie_zu_deinem_Ferscht,_wenn_du_nicht_gerufen_werscht.)
