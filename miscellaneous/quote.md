@@ -890,7 +890,7 @@ Lebt eure Leben so einfach wie nur möglich, geht langsam, atmet tief, tut Gutes
 
 [Quelle](https://npr.news.eulu.info/2020/03/22/mein-name-ist-covid-19-und-ich-bin-hier-um-euch-an-etwas-zu-erinnern/)
 
-## MR - 2020-05-14
+## M.R. - 2020-05-14
 
 ```
 Gehe nicht zu einem Ferscht,
@@ -898,3 +898,20 @@ Wenn du nicht gerufen werscht.
 ```
 
 [Quelle](https://de.wikipedia.org/wiki/Liste_gefl%C3%BCgelter_Worte/G#Gehe_nie_zu_deinem_Ferscht,_wenn_du_nicht_gerufen_werscht.)
+
+## V.B. - 2020-06-11
+
+```
+Der Knüppelköder
+```
+
+## S.L. - 2020-06-12
+
+```
+Klostern.
+
+#Beschreibung
+Ich hatte heute Nacht einen Traum.
+Da bin ich mit Jemanden rumgelaufen und dann haben wir Menschen auf Fahrrädern gesehen die sich anschnautzen und hintereinandern her fahren. quasi wie das was die auf den Rennbahnen machen.
+Ich hab den anderen Typen gefragt was die da machen und er hat geantwortet "die klostern, die schnautzen sich beim Fahren an um schneller zu sein und verbrennen bestimmt fünf Kalorin mehr pro Stunde weil sie so eine Fresse ziehen".
+```
