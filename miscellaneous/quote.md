@@ -915,3 +915,11 @@ Ich hatte heute Nacht einen Traum.
 Da bin ich mit Jemanden rumgelaufen und dann haben wir Menschen auf Fahrrädern gesehen die sich anschnautzen und hintereinandern her fahren. quasi wie das was die auf den Rennbahnen machen.
 Ich hab den anderen Typen gefragt was die da machen und er hat geantwortet "die klostern, die schnautzen sich beim Fahren an um schneller zu sein und verbrennen bestimmt fünf Kalorin mehr pro Stunde weil sie so eine Fresse ziehen".
 ```
+
+## José Pepe Mujica
+
+[Quelle](https://netzfrauen.org/2020/06/25/jose-mujica-2/)
+
+```
+[...] wir sollten nicht durch die Zeit hetzen, denn das Leben ist das einzige Wunder, das wir haben. Das einzige Wunder für jeden von uns ist, geboren zu werden.
+```
