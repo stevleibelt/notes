@@ -932,7 +932,7 @@ Rammstein, danke für eure Musik!
 ```
 Auch auf den Wellen wird gestuhlt
 Wo Fisch und Fleisch zur See aunusgepuhlt
-Der eine scheißt den Kot ins Herr
+Der eine scheißt den Kot ins Heer
 Der andere wirft ihn in das Meer
 
 Ahoi
