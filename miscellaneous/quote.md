@@ -923,3 +923,47 @@ Ich hab den anderen Typen gefragt was die da machen und er hat geantwortet "die 
 ```
 [...] wir sollten nicht durch die Zeit hetzen, denn das Leben ist das einzige Wunder, das wir haben. Das einzige Wunder für jeden von uns ist, geboren zu werden.
 ```
+
+## S.L. - 2020-07-02
+
+Mit der Melodie von "Rammstein - Reise, Reise".
+Rammstein, danke für eure Musik!
+
+```
+Auch auf den Wellen wird gestuhlt
+Wo Fisch und Fleisch zur See aunusgepuhlt
+Der eine scheißt den Kot ins Herr
+Der andere wirft ihn in das Meer
+
+Ahoi
+
+Scheiße, Scheiße, Seemans Scheiße
+Jeder scheißt auf seine Weise
+Der eine scheißt auf den Mann
+Der andere zum Fische dann
+
+Scheiße, Scheiße, Seemans Scheiße
+Bei den Wellen scheißt es sich leise
+Vielen hängt ein Furze queer
+Scheißt nicht mehr leise in das Meer
+
+Die Lanze muss I'm Kot ertrinken
+Dick und Fest zur Tiefe sinken
+Wo die schwarze Seele wohnt
+Ist kein Licht am Horizont
+
+Scheiße, Scheiße, Seemans Scheiße
+Jeder scheißt auf seine Weise
+Der eine scheißt auf den Mann
+Der andere zum Fische dann
+
+Scheiße, Scheiße, Seemans Scheiße
+Bei den Wellen scheißt e sich leise
+Vielen hängt ein Furze queer
+Scheißt nicht mehr leise in das Meer
+
+Scheiße, Scheiße, Seemans Scheiße
+Bei den Wellen scheißt e sich leise
+In ihrem Anus steckt ein Speer
+Scheißt sich dadurch nicht mehr leer
+```
