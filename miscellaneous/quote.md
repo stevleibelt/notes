@@ -937,33 +937,33 @@ Der andere wirft ihn in das Meer
 
 Ahoi
 
-Scheiße, Scheiße, Seemans Scheiße
+Scheiße, Scheiße, Seemanns-Scheiße
 Jeder scheißt auf seine Weise
 Der eine scheißt auf den Mann
 Der andere zum Fische dann
 
-Scheiße, Scheiße, Seemans Scheiße
-Bei den Wellen scheißt es sich leise
+Scheiße, Scheiße, Seemanns-Scheiße
+Bei den Wellen scheißt's sich leise
 Vielen hängt ein Furze queer
 Scheißt nicht mehr leise in das Meer
 
-Die Lanze muss I'm Kot ertrinken
+Die Lanze muss im Kot ertrinken
 Dick und Fest zur Tiefe sinken
 Wo die schwarze Seele wohnt
 Ist kein Licht am Horizont
 
-Scheiße, Scheiße, Seemans Scheiße
+Scheiße, Scheiße, Seemanns-Scheiße
 Jeder scheißt auf seine Weise
 Der eine scheißt auf den Mann
 Der andere zum Fische dann
 
-Scheiße, Scheiße, Seemans Scheiße
-Bei den Wellen scheißt e sich leise
+Scheiße, Scheiße, Seemanns-Scheiße
+Bei den Wellen scheißt's sich leise
 Vielen hängt ein Furze queer
 Scheißt nicht mehr leise in das Meer
 
-Scheiße, Scheiße, Seemans Scheiße
-Bei den Wellen scheißt e sich leise
+Scheiße, Scheiße, Seemanns-Scheiße
+Bei den Wellen scheißt's sich leise
 In ihrem Anus steckt ein Speer
 Scheißt sich dadurch nicht mehr leer
 ```
