@@ -967,3 +967,9 @@ Bei den Wellen scheißt's sich leise
 In ihrem Anus steckt ein Speer
 Scheißt sich dadurch nicht mehr leer
 ```
+
+# Joachim Fuchsberger
+
+```
+Alt werden ist nichts für Feiglinge.
+```
