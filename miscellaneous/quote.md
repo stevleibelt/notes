@@ -973,3 +973,11 @@ Scheißt sich dadurch nicht mehr leer
 ```
 Alt werden ist nichts für Feiglinge.
 ```
+
+# Iruwen - 2020-08-03
+
+[source](https://forum.golem.de/kommentare/security/sicherheitsluecke-abus-alarmanlage-aus-der-ferne-ausgeknipst/wer-sich-etwas-kauft.../136685,5715181,5715181,read.html#msg-5715181)
+
+```
+Also wirklich, gar nichts Gutes. Komplette Kernscheiße.
+```
