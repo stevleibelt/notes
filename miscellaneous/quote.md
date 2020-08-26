@@ -981,3 +981,9 @@ Alt werden ist nichts für Feiglinge.
 ```
 Also wirklich, gar nichts Gutes. Komplette Kernscheiße.
 ```
+
+# S.L. - 2020-08-25
+
+```
+Egal wie frei du bist, er ist Freiberger.
+```
