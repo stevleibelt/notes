@@ -758,7 +758,7 @@ Right through the starry night.
 
 ## Fefe
 
-[source](https://blog.fefe.de/?ts=a251d834)
+[Quelle](https://blog.fefe.de/?ts=a251d834)
 
 ```
 Erzählt euren Mädchen dasselbe wie euren Jungs. Harte Arbeit zahlt sich aus. Vorbereitet sein hilft zuverlässig, schlau sein nur wenn man Glück hat.
@@ -778,7 +778,7 @@ BTW ... it came like a major brainfart to my mind ...
 
 ## FeFe
 
-[source](https://blog.fefe.de/?ts=a2257613)
+[Quelle](https://blog.fefe.de/?ts=a2257613)
 
 ```
 Wer modern sagt, meint "schlechter als die letzte Generation"
@@ -847,7 +847,7 @@ Wie will man eine Welle am Strand festhalten?
 
 ## What you need to know about burnout
 
-[source](https://opensource.com/article/19/11/burnout-open-source-communities)
+[Quelle](https://opensource.com/article/19/11/burnout-open-source-communities)
 
 ```
 We don't need heroes; we need people willing to collaborate, to listen, and to mentor junior team members.
@@ -861,7 +861,7 @@ Das leben verändert uns und wir Menschen reden uns ein, dass wir das leben ver�
 
 ## kuketz-blog.de
 
-[source](https://www.kuketz-blog.de/digitaler-hustensaft-ein-kommentar-zum-scheitern-der-e-privacy-verordnung/)
+[Quelle](https://www.kuketz-blog.de/digitaler-hustensaft-ein-kommentar-zum-scheitern-der-e-privacy-verordnung/)
 
 ```
 Webtracking dient allein dazu Menschen identifizierbar zu machen
@@ -976,7 +976,7 @@ Alt werden ist nichts für Feiglinge.
 
 # Iruwen - 2020-08-03
 
-[source](https://forum.golem.de/kommentare/security/sicherheitsluecke-abus-alarmanlage-aus-der-ferne-ausgeknipst/wer-sich-etwas-kauft.../136685,5715181,5715181,read.html#msg-5715181)
+[Quelle](https://forum.golem.de/kommentare/security/sicherheitsluecke-abus-alarmanlage-aus-der-ferne-ausgeknipst/wer-sich-etwas-kauft.../136685,5715181,5715181,read.html#msg-5715181)
 
 ```
 Also wirklich, gar nichts Gutes. Komplette Kernscheiße.
@@ -986,4 +986,12 @@ Also wirklich, gar nichts Gutes. Komplette Kernscheiße.
 
 ```
 Egal wie frei du bist, er ist Freiberger.
+```
+
+# Felix von Leitner - 2020-08-25
+
+[Quelle](https://www.heise.de/hintergrund/Entwicklung-Warum-Rust-die-Antwort-auf-miese-Software-und-Programmierfehler-ist-4879795.html)
+
+```
+Softwareentwicklung ist in der Praxis daher immer eine Iteration.
 ```
