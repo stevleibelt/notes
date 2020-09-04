@@ -995,3 +995,9 @@ Egal wie frei du bist, er ist Freiberger.
 ```
 Softwareentwicklung ist in der Praxis daher immer eine Iteration.
 ```
+
+## Friedrich Nietzsche
+
+```
+Wer ein Warum zum Leben hat, erträgt fast jedes Wie.
+```
