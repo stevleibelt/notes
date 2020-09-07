@@ -1001,3 +1001,9 @@ Softwareentwicklung ist in der Praxis daher immer eine Iteration.
 ```
 Wer ein Warum zum Leben hat, erträgt fast jedes Wie.
 ```
+
+## S.L. - 2020-09-07
+
+```
+Zinsen ... das ist reiche Leute Arbeit!
+```
