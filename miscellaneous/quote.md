@@ -1007,3 +1007,11 @@ Wer ein Warum zum Leben hat, erträgt fast jedes Wie.
 ```
 Zinsen ... das ist reiche Leute Arbeit!
 ```
+
+## Altes Sprichwort aus dem Erzgebirge
+
+Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Petri_(Freiberg))" der Stadt Freiberg zu lesen.
+
+```
+Waar sei Haamit will racht verstiehn daar muss naus gieh!
+```
