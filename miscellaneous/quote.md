@@ -1015,3 +1015,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 ```
 Waar sei Haamit will racht verstiehn daar muss naus gieh!
 ```
+
+# Wau Holland
+
+```
+Private Daten schützen, öffentliche Daten nützen!
+```
