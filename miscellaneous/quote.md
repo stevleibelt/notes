@@ -1021,3 +1021,17 @@ Waar sei Haamit will racht verstiehn daar muss naus gieh!
 ```
 Private Daten schützen, öffentliche Daten nützen!
 ```
+
+# Noam Chomsky about Julian Assange - 20200924
+
+[source](https://www.independent.co.uk/voices/julian-assange-trial-us-trump-chelsea-manning-chomsky-walker-b420930.html)
+
+```
+[...]
+Assange is not on trial for skateboarding in the Ecuadorian embassy, for tweeting, for calling Hillary Clinton a war hawk, or for having an unkempt beard as he was dragged into detention by British police. Assange faces extradition to the United States because he published incontrovertible proof of war crimes and abuses in Iraq and Afghanistan, embarrassing the most powerful nation on Earth.
+[...]
+When setting a gravely dangerous precedent, governments don’t typically persecute the most beloved individuals in the world. They target those who can be portrayed as subversive, unpatriotic – or simply weird. Then they actively distort public debate by emphasizing those traits.
+[...]
+These techniques are not new. After Daniel Ellsberg leaked the Pentagon Papers to journalists to expose the US government’s lies about Vietnam, the Nixon administration’s “White House Plumbers” broke into Ellsberg’s psychiatrist’s office in search of material that could be used to discredit him. NSA whistleblower Edward Snowden was falsely portrayed as collaborating with the Chinese, then the Russians. Obsession with military intelligence analyst Manning’s mental health and gender identity was ubiquitous. By demonizing the messenger, governments seek to poison the message.
+[...]
+```
