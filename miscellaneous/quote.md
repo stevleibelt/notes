@@ -1035,3 +1035,9 @@ When setting a gravely dangerous precedent, governments don’t typically persec
 These techniques are not new. After Daniel Ellsberg leaked the Pentagon Papers to journalists to expose the US government’s lies about Vietnam, the Nixon administration’s “White House Plumbers” broke into Ellsberg’s psychiatrist’s office in search of material that could be used to discredit him. NSA whistleblower Edward Snowden was falsely portrayed as collaborating with the Chinese, then the Russians. Obsession with military intelligence analyst Manning’s mental health and gender identity was ubiquitous. By demonizing the messenger, governments seek to poison the message.
 [...]
 ```
+
+# J.T. 2020-10-20 23:19
+
+```
+Corona ist doch eine Erfindung der Klopapierhersteller.
+```
