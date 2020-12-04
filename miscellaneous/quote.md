@@ -1041,3 +1041,9 @@ These techniques are not new. After Daniel Ellsberg leaked the Pentagon Papers t
 ```
 Corona ist doch eine Erfindung der Klopapierhersteller.
 ```
+
+# "Han" The Fast and the Furious: Tokyo Drift
+
+```
+Erst wenn du jemanden ganz nah an dich heran lässt, findest du heraus wer du selber bist.
+```
