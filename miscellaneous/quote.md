@@ -1047,3 +1047,11 @@ Corona ist doch eine Erfindung der Klopapierhersteller.
 ```
 Erst wenn du jemanden ganz nah an dich heran lässt, findest du heraus wer du selber bist.
 ```
+
+# Babette
+
+[Quelle](http://screen-production.de/und-sonst/)
+
+```
+Is’ schon viel Schönes bei
+```
