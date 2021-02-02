@@ -1062,3 +1062,9 @@ Is' schon viel Schönes bei
 ```
 Bei Rucola fehlt doch ein m.
 ```
+
+## Unknown
+
+```
+GOD is REAL unless declared as an INTEGER.
+```
