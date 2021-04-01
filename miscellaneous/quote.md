@@ -1068,3 +1068,11 @@ Bei Rucola fehlt doch ein m.
 ```
 GOD is REAL unless declared as an INTEGER.
 ```
+
+## FeFe
+
+[source](https://blog.fefe.de/?ts=9e9b5d92)
+
+```
+Modernisieren ist das neue Harmonisieren und davor war es das Reformieren! Das ist alles Geldverbrennung, solange ihr immer nur dieselben Fäkalien einmal durchrührt.
+```
