@@ -1076,3 +1076,9 @@ GOD is REAL unless declared as an INTEGER.
 ```
 Modernisieren ist das neue Harmonisieren und davor war es das Reformieren! Das ist alles Geldverbrennung, solange ihr immer nur dieselben Fäkalien einmal durchrührt.
 ```
+
+## C.D. from Schlafanfall Boois - 20210504
+
+```
+Wenn die ganzen jungen Erwachsenen rauskommen, die Tinder nur auf Sparflamme nutzen konnten. Ich glaube Simon von RBTV hat auch schon DAS GROßE BUMSEN und die neue Generation Hippie prophezeiht.
+```
