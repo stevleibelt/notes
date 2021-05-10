@@ -1082,3 +1082,11 @@ Modernisieren ist das neue Harmonisieren und davor war es das Reformieren! Das i
 ```
 Wenn die ganzen jungen Erwachsenen rauskommen, die Tinder nur auf Sparflamme nutzen konnten. Ich glaube Simon von RBTV hat auch schon DAS GROßE BUMSEN und die neue Generation Hippie prophezeiht.
 ```
+
+## Kelsey and todd Coolahan - 20210503
+
+[source](https://www.youtube.com/watch?v=gArx_BjXeBY)
+
+```
+all love! kill hate with love! racism needs to end ! these kids aren't seeing color no more and I love it!
+```
