@@ -1090,3 +1090,11 @@ Wenn die ganzen jungen Erwachsenen rauskommen, die Tinder nur auf Sparflamme nut
 ```
 all love! kill hate with love! racism needs to end ! these kids aren't seeing color no more and I love it!
 ```
+
+## Nick Srnicek
+
+[source](https://www.theverge.com/2021/6/17/22538160/ai-camera-smile-recognition-office-workers-china-canon)
+
+```
+[...] Technologies are increasing the pace for people who work with machines instead of the other way around [...]
+```
