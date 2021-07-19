@@ -1098,3 +1098,11 @@ all love! kill hate with love! racism needs to end ! these kids aren't seeing co
 ```
 [...] Technologies are increasing the pace for people who work with machines instead of the other way around [...]
 ```
+
+## Thalix
+
+[source](https://www.heise.de/forum/heise-online/Kommentare/Forscher-decken-Fehler-in-Telegrams-Verschluesselung-auf/Sicherheit-ist-kein-Status-sondern-ein-Prozess/posting-39291497/show/)
+
+```
+Sicherheit ist kein Status sondern ein Prozess.
+```
