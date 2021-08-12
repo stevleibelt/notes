@@ -1106,3 +1106,11 @@ all love! kill hate with love! racism needs to end ! these kids aren't seeing co
 ```
 Sicherheit ist kein Status sondern ein Prozess.
 ```
+
+## FeFe 20210812
+
+[source](https://blog.fefe.de/?ts=9febc2aa)
+
+```
+Komplexität verursacht Bugs. Völlig überraschend, seit es in den 1970er Jahren herausgefunden wurde.
+```
