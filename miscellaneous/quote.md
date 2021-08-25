@@ -1114,3 +1114,10 @@ Sicherheit ist kein Status sondern ein Prozess.
 ```
 Komplexität verursacht Bugs. Völlig überraschend, seit es in den 1970er Jahren herausgefunden wurde.
 ```
+
+## M.R. 20210825
+
+```
+Wir arbeiten Hand in Hand.
+Was die rechte Hand nicht schafft, lässt die linke Hand liegen.
+```
