@@ -1121,3 +1121,21 @@ Komplexität verursacht Bugs. Völlig überraschend, seit es in den 1970er Jahre
 Wir arbeiten Hand in Hand.
 Was die rechte Hand nicht schafft, lässt die linke Hand liegen.
 ```
+
+## S.L. 20210831
+
+```
+Ha!
+Uh!
+En Geh Er
+
+Ha!
+Uh!
+En Geh Er
+
+Ha!
+Uh
+En Geh Er
+
+Mein Magen fühlt sich an so leer.
+```
