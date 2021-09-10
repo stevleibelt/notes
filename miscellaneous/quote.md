@@ -1139,3 +1139,9 @@ En Geh Er
 
 Mein Magen fühlt sich an so leer.
 ```
+
+## Ernst Banda - 05.07.2007
+
+```
+Einen Staat, der mit der Erklärung, er wolle Straftaten verhindern, seine Bürger ständig überwacht, kann man als Polizeistaat bezeichnen.
+```
