@@ -1145,3 +1145,9 @@ Mein Magen fühlt sich an so leer.
 ```
 Einen Staat, der mit der Erklärung, er wolle Straftaten verhindern, seine Bürger ständig überwacht, kann man als Polizeistaat bezeichnen.
 ```
+
+## Unbekannt
+
+```
+Wenn ein Mann die Schwingungen einer Frau merkt, ist es meist schon zu spät für Ihn.
+```
