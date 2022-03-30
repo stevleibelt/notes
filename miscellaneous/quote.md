@@ -1145,9 +1145,16 @@ Mein Magen fühlt sich an so leer.
 ```
 Einen Staat, der mit der Erklärung, er wolle Straftaten verhindern, seine Bürger ständig überwacht, kann man als Polizeistaat bezeichnen.
 ```
+<<<<<<< HEAD
 
 ## His Excellency, President for Life, Field Marshal Al Hadji Doctor Idi Amin Dada, Victoria Cross, Distinguished Service Order, Military Cross, Lord of All the Beasts of the Earth and Fishes of the Seas and Conqueror of the British Empire in Africa in General and Uganda in Particular
 
 ```
 There is freedom of speech, but i can’t guarantee freedom after speech.
+```
+
+## Unbekannt
+
+```
+Wenn ein Mann die Schwingungen einer Frau merkt, ist es meist schon zu spät für Ihn.
 ```
