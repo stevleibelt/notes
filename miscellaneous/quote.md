@@ -1158,3 +1158,9 @@ There is freedom of speech, but i can’t guarantee freedom after speech.
 ```
 Wenn ein Mann die Schwingungen einer Frau merkt, ist es meist schon zu spät für Ihn.
 ```
+
+## Der Film "Die Goldfische" - 21.03.2019
+
+```
+Mamma so, hamma kein Stress
+```
