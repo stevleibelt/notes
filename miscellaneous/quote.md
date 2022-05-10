@@ -1164,3 +1164,11 @@ Wenn ein Mann die Schwingungen einer Frau merkt, ist es meist schon zu spät fü
 ```
 Mamma so, hamma kein Stress
 ```
+
+## FeFe - 20220510T13:34:10
+
+[source](https://blog.fefe.de/?ts=9c84fd8c)
+
+```
+Idioten von ihrem Geld trennen ist das zweitälteste Geschäftsmodell der Welt. 
+```
