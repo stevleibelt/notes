@@ -1,6 +1,6 @@
 # notes
 
-* [talk](https://events.ccc.de/congress/2015/Fahrplan/events/7547.html] by [peter stuge](https://events.ccc.de/congress/2015/Fahrplan/speakers/2142.html)
+* [talk](https://events.ccc.de/congress/2015/Fahrplan/events/7547.html) by [peter stuge](https://events.ccc.de/congress/2015/Fahrplan/speakers/2142.html)
 * mistake I made
     * no release anything (even small things)
     * try to seek consensus with everyone
