@@ -1181,3 +1181,10 @@ Idioten von ihrem Geld trennen ist das zweitälteste Geschäftsmodell der Welt.
 Rüstungs-, Lebensmittel-, Energie-, Chemie- und Autokonzerne streichen derzeit astronomische Profite ein. Wetten auf steigende Weizenpreise sind seit der Coronakrise ein lukratives Geschäft für Börsenzocker. Warum billige russische Energie kaufen? Lieber beschert unsere Regierung den Aktionären des schmutzigen Fracking-Öls aus USA traumhafte Renditen. Warum Spekulationen auf Lebensmittel verbieten? Lieber lässt uns unsere Regierung hungern für den Krieg in der Ukraine. Warum auf Verhandlungen mit Russland setzen? Lieber verschafft unsere Regierung den Rüstungskonzernen Aufträge in Milliardenhöhe. Denn: Aller Reichtum der Erde kann ihren Durst nicht stillen!
 ```
 
+## Ein Kind zum Arzt
+
+```
+Woher wollen Sie denn wissen wie es sich anfühlt?
+Ich liebe in meinem Körper, nicht Sie!
+```
+
