@@ -1188,3 +1188,11 @@ Woher wollen Sie denn wissen wie es sich anfühlt?
 Ich liebe in meinem Körper, nicht Sie!
 ```
 
+## FeFe - 20220619T:20020710
+
+[source](https://blog.fefe.de/?ts=9c51c729)
+
+```
+Die FDP sind Kapitalisten und bei Kapitalisten ist die Umwelt eine kostenlos nutzbare Ressource, wohin man seinen Giftmüll verklappt.
+```
+
