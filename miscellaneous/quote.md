@@ -1196,3 +1196,9 @@ Ich liebe in meinem Körper, nicht Sie!
 Die FDP sind Kapitalisten und bei Kapitalisten ist die Umwelt eine kostenlos nutzbare Ressource, wohin man seinen Giftmüll verklappt.
 ```
 
+## Unknown
+
+```
+Dinge die wir Probleme nennen sind eigentlich nur Situationen.
+```
+
