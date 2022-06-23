@@ -1202,3 +1202,9 @@ Die FDP sind Kapitalisten und bei Kapitalisten ist die Umwelt eine kostenlos nut
 Dinge die wir Probleme nennen sind eigentlich nur Situationen.
 ```
 
+## Unknown
+
+```
+Bargeld ist der König.
+```
+
