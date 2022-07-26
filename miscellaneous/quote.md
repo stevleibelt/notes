@@ -1208,3 +1208,9 @@ Dinge die wir Probleme nennen sind eigentlich nur Situationen.
 Bargeld ist der König.
 ```
 
+## C.S. - 20220726
+
+```
+Das ist wie Kuchen backen auf einer Hüpfburg.
+```
+
