@@ -1214,3 +1214,11 @@ Bargeld ist der König.
 Das ist wie Kuchen backen auf einer Hüpfburg.
 ```
 
+## Mark Benecke - 20220803
+
+[source](https://youtu.be/Z_p9yYXZuCI?t=1747)
+
+```
+Wem interessiert menschliche Intelligenz? Das ist keine Wärung auf dem Planeten Erde. Die einzige Wärung auf dem Planeten Erde ist Kalorin!
+```
+
