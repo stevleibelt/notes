@@ -1222,3 +1222,11 @@ Das ist wie Kuchen backen auf einer Hüpfburg.
 Wem interessiert menschliche Intelligenz? Das ist keine Wärung auf dem Planeten Erde. Die einzige Wärung auf dem Planeten Erde ist Kalorin!
 ```
 
+## Schwerdtfegr - 20220824
+
+[source](https://schwerdtfegr.wordpress.com/2022/08/24/zitat-des-tages-217/)
+
+```
+Ich erlebe schon auch, dass die Kommunikation zwischen Leuten, die publizieren und Leuten, die rezipieren, inzwischen nur noch auf den social media abläuft, genauso wie überhaupt das ganze Internet. Weil es einfacher ist, was ja für sehr viele Leute ein zentrales Argument darstellt. Wahrscheinlich gibt es heute genausoviele Nerds mit HTML-Kenntnissen wie 1994 und genausoviele Webseitenbetreiber wie 2008, aber dazu sind eben alle anderen gekommen, die zuvor eher Tageszeitungen in leichter Sprache oder Fernsehnachrichten mit lustigen Bildern gewohnt waren
+```
+
