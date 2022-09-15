@@ -1230,3 +1230,31 @@ Wem interessiert menschliche Intelligenz? Das ist keine Wärung auf dem Planeten
 Ich erlebe schon auch, dass die Kommunikation zwischen Leuten, die publizieren und Leuten, die rezipieren, inzwischen nur noch auf den social media abläuft, genauso wie überhaupt das ganze Internet. Weil es einfacher ist, was ja für sehr viele Leute ein zentrales Argument darstellt. Wahrscheinlich gibt es heute genausoviele Nerds mit HTML-Kenntnissen wie 1994 und genausoviele Webseitenbetreiber wie 2008, aber dazu sind eben alle anderen gekommen, die zuvor eher Tageszeitungen in leichter Sprache oder Fernsehnachrichten mit lustigen Bildern gewohnt waren
 ```
 
+## Bettina Wegner - Kinder (sind so kleine Hände)
+
+```
+Sind so kleine Hände, winzige Finger dran
+Darf man nie drauf schlagen, die zerbrechen dann
+
+Sind so kleine Füße, mit so kleinen Zehen
+Darf man nie drauf treten, können sonst nicht gehen
+
+Sind so kleine Ohren, scharf - und ihr erlaubt
+Darf man nie zerbrüllеn, werden davon taub
+
+Sind so schöne Mündеr, sprechen alles aus
+Darf man nie verbieten, kommt sonst nichts mehr 'raus
+
+Sind so klare Augen, die noch alles sehen
+Darf man nie verbinden, können sie nichts verstehen
+
+Sind so kleine Seelen, offen und ganz frei
+Darf man niemals quälen, gehen kaputt dabei
+
+Ist so ein kleines Rückgrat, sieht man fast noch nicht
+Darf man niemals beugen, weil es sonst zerbricht
+
+Gerade, klare Menschen wären ein schönes Ziel
+Leute ohne Rückgrat haben wir schon zuviel
+```
+
