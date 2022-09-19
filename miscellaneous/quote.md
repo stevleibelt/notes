@@ -1258,3 +1258,9 @@ Gerade, klare Menschen wären ein schönes Ziel
 Leute ohne Rückgrat haben wir schon zuviel
 ```
 
+## Robert Bosch (1931?)
+
+```
+Ich zahle nicht gute Löhne, weil ich viel Geld habe, sondern ich habe viel Geld, weil ich gute Löhne bezahle.
+```
+
