@@ -1264,3 +1264,11 @@ Leute ohne Rückgrat haben wir schon zuviel
 Ich zahle nicht gute Löhne, weil ich viel Geld habe, sondern ich habe viel Geld, weil ich gute Löhne bezahle.
 ```
 
+## Elisabeth Kübler-Ross
+
+[Quelle](https://youtu.be/Ah65G95w6q0?t=473)
+
+````
+Wenn man sich länger als 15 Sekunden ärgert, dann sind es die eigenen, unerledigten Geschäfte.
+````
+
