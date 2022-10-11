@@ -1272,3 +1272,9 @@ Ich zahle nicht gute Löhne, weil ich viel Geld habe, sondern ich habe viel Geld
 Wenn man sich länger als 15 Sekunden ärgert, dann sind es die eigenen, unerledigten Geschäfte.
 ````
 
+## S.L. (20221011T07:32:30)
+
+```
+[...] der Mund ist so klein und ungeschickt, dass da gar nicht die ganzen Gedanken durch passen.
+```
+
