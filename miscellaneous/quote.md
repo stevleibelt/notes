@@ -956,3 +956,7 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 > Es fällt auf, dass immer nur die Leute eine Wehrpflicht befürworten, die altersmäßig nicht in Gefahr sind eingezogen zu werden.
 
+### Der Bergdoktor - Spiel mit dem Feuer (Staffel 16 - Folge 146)
+
+> Pupertät ist dann, wenn die Eltern schwieriger werden.
+
