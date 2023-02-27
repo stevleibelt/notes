@@ -960,3 +960,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 > Pupertät ist dann, wenn die Eltern schwieriger werden.
 
+### Fefe 202302024
+
+[Quelle](http://blog.fefe.de/?ts=9d063859) - 20230227
+
+> Das Kostenargument würde ich aber nicht gelten lassen. Es wird auf jeden Fall billiger als wenn wir den Planeten evakuieren müssen, weil der Klimawandel ein Überleben unserer Spezies nicht zulässt.
+
