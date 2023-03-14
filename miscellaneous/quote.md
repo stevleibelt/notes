@@ -966,3 +966,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 > Das Kostenargument würde ich aber nicht gelten lassen. Es wird auf jeden Fall billiger als wenn wir den Planeten evakuieren müssen, weil der Klimawandel ein Überleben unserer Spezies nicht zulässt.
 
+#### Fefe 20230313
+
+[Quelle](http://blog.fefe.de/?ts=9af1cbd6) - 20230314
+
+> Unsere Welt ist komisch. Wir kapieren einfach nicht, dass jemand die Rechnung zahlen muss, wenn jemand Anderes günstig reich wird.
+
