@@ -972,3 +972,10 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 > Unsere Welt ist komisch. Wir kapieren einfach nicht, dass jemand die Rechnung zahlen muss, wenn jemand Anderes günstig reich wird.
 
+#### FeFe 20230404
+
+[Quelle](http://blog.fefe.de/?ts=9ad24b90) - 20230404
+
+> Stellt sich nämlich raus, dass Freiheit heißt, dass man ab und zu Dinge tun kann, die nicht verfolgt werden. Das Leben ist lebenswert, weil nicht alle Verstöße verfolgt werden.
+
+
