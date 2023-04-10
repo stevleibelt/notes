@@ -978,4 +978,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 > Stellt sich nämlich raus, dass Freiheit heißt, dass man ab und zu Dinge tun kann, die nicht verfolgt werden. Das Leben ist lebenswert, weil nicht alle Verstöße verfolgt werden.
 
+#### FeFe 20230409
+
+[Quelle](https://blog.fefe.de/?ts=9acc64da) - 20230409
+
+> Das Geschäftsmodell der Cloud ist, dich mit mit von Open-Source-Projekten geklauten Diensten und Lockpreisen dazu zu bringen, deine eigene Infrastruktur aufzugeben, und deinen Scheiß komplett in die Cloud zu schieben, und so eine nicht auflösbare Abhängigkeit zu schaffen.
 
