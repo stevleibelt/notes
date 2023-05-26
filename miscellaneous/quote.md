@@ -984,3 +984,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 > Das Geschäftsmodell der Cloud ist, dich mit mit von Open-Source-Projekten geklauten Diensten und Lockpreisen dazu zu bringen, deine eigene Infrastruktur aufzugeben, und deinen Scheiß komplett in die Cloud zu schieben, und so eine nicht auflösbare Abhängigkeit zu schaffen.
 
+#### Chris's Wiki::blog
+
+[Quelle](https://utcc.utoronto.ca/~cks/space/blog/programming/OnHTMLViaStringTemplates) - 20230526
+
+> when people keep doing it wrong, the people are right and your system or idea is wrong
+
