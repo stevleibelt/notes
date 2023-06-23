@@ -990,3 +990,7 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 > when people keep doing it wrong, the people are right and your system or idea is wrong
 
+#### John Wick 4 (Minute 25 oder so)
+
+> Freundschaft bedeutet wenig, wenn sie nur bequem ist
+
