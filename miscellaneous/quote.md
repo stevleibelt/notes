@@ -994,3 +994,19 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 > Freundschaft bedeutet wenig, wenn sie nur bequem ist
 
+#### Johannes Heil - Die eigene Achse (1997)
+
+[Quelle: youtube.de](https://www.youtube.com/watch?v=TfysqJl9OsU) - 20230814
+
+> Das was wir hier haben ist eine neue Geschichte,
+> auf einem neuen DAT.
+> 
+> Neue Erkenntnisse eines Menschenlebens.
+> In der Natur des Menschen lebt die Veränderung und ist in ständigem Wandel.
+> 
+> In der Natur des Menschen gibt es keine geraden Linien, es gibt da nur Kreise oder ein paar Wellen.
+> Und wenn sich aus einer Welle ein Kreis bildet, dann bildet sich die eigene Achse
+> 
+> dann bildet sich die eigene Achse
+> dann bildet sich die eigene Achse
+> dann bildet sich die eigene Achse
