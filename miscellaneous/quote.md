@@ -1010,3 +1010,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 > dann bildet sich die eigene Achse
 > dann bildet sich die eigene Achse
 > dann bildet sich die eigene Achse
+
+#### Kohei Saito
+
+[Quelle](https://tuxproject.de/blog/2023/09/kapitalismus-das-mem-des-ueberflusses/) - 20230914
+
+> So kam ich zu der Erkenntnis, dass wir tatsächlich eine neue Art von Überfluss brauchen. – Es geht nicht darum, mehr Materialien zu verbrauchen, mehr Produkte zu konsumieren, nicht um mehr Geld. Es geht darum, gemeinschaftliches Kulturwissen zu bereichern, darum, etwas zu teilen; Menschen empfinden dann Freude und Glück.
