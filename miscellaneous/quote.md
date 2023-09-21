@@ -1016,3 +1016,11 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 [Quelle](https://tuxproject.de/blog/2023/09/kapitalismus-das-mem-des-ueberflusses/) - 20230914
 
 > So kam ich zu der Erkenntnis, dass wir tatsächlich eine neue Art von Überfluss brauchen. – Es geht nicht darum, mehr Materialien zu verbrauchen, mehr Produkte zu konsumieren, nicht um mehr Geld. Es geht darum, gemeinschaftliches Kulturwissen zu bereichern, darum, etwas zu teilen; Menschen empfinden dann Freude und Glück.
+
+#### 
+Office for the Preservation of Normalcy
+
+[Quelle](https://preservationofnormalcy.tumblr.com/post/723924391486013440/i-feel-confident-enough-to-post-these-now-a) - 20230911
+[Gefunden in](https://tuxproject.de/blog/2023/09/liegengebliebenes-vom-20-september-2023/) - 20230921
+
+> Be kind, don’t rewind time
