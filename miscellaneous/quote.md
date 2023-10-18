@@ -1029,3 +1029,17 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 [Quelle](https://netzpolitik.org/2023/neues-aus-dem-fernsehrat-102-fusionen-sind-noch-keine-reformen/) - 20231017
 
 > Wie bei der Kernfusion braucht es auch bei Unternehmensfusionen erstmal hohe Investitionen mit ungewissem Ausgang.
+
+### Das Gebot der Stunde
+
+[Quelle](https://twasbo.de/die-gebote-der-stunde/) - 20231018
+
+> Was hier seit Februar 2022 über den Krieg zwischen Russland und der Ukraine steht, gilt seit Oktober 2023 entsprechend für den Krieg im Nahen Osten (und prinzipiell für jeden anderen).
+> 
+> Wo auch immer Sie sind, mit wem auch immer Sie reden:
+> Tragen Sie dazu bei, dass der Krieg der Waffen und der Krieg der Worte aufhören!
+> Heften Sie Ihrem Friedenswunsch keine Flagge und kein religiöses Symbol an!
+> Werben Sie für Verhandeln statt Drohen!
+> Schaffen Sie Räume für gesichtswahrende Rückzüge!
+> Nichts ist wichtiger, als den Krieg zu begrenzen und zu beenden.
+> In Ihrem ureigensten, existenziellen Interesse.
