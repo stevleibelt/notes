@@ -1043,3 +1043,12 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 > Schaffen Sie Räume für gesichtswahrende Rückzüge!
 > Nichts ist wichtiger, als den Krieg zu begrenzen und zu beenden.
 > In Ihrem ureigensten, existenziellen Interesse.
+
+### Dead Prez - Hip Hop (1998)
+
+[Quelle](https://genius.com/Dead-prez-hip-hop-lyrics) - 20231027
+
+> You can be next in line and signed and still be writing rhymes and broke
+> You would rather have a Lexus or justice?
+> A dream or some substance?
+> A Bimmer, a necklace or freedom?
