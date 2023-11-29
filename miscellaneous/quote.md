@@ -1052,3 +1052,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 > You would rather have a Lexus or justice?
 > A dream or some substance?
 > A Bimmer, a necklace or freedom?
+
+### tux0r's Antwort auf eine Meldung zum politischen Neusprech "sparen"
+
+[Quelle](https://det.social/@goebelmasse/111487947256992889) - 20231129
+
+> Vorbildlich: Obdachlose sparen sich die Miete
