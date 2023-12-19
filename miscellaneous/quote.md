@@ -1058,3 +1058,25 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 [Quelle](https://det.social/@goebelmasse/111487947256992889) - 20231129
 
 > Vorbildlich: Obdachlose sparen sich die Miete
+
+### FeFe über unnötigen Dauerstress in der Jetztzeit (2023)
+
+[Quelle](http://blog.fefe.de/?ts=9b7e96ca) - 20231219
+
+> Ich vermisse die Fernsehserien von früher. Auch die Filme von früher.
+> 
+> Da waren die Episoden weitgehend unabhängig voneinander. Du hattest eine Prämisse, z.B. Columbo klärt Fälle auf, und dann hat der halt in jeder Episode einen Fall aufgeklärt. Die waren unabhängig. Am Ende gab jeder Episode gab es einen befriedigenden Abschluss.
+> 
+> Die Episoden waren schön, und daher wollte man dann nächste Woche wieder eine haben und blieb der Serie treu.
+> 
+> Heute hingegen gibt es keinen Abschluss, schon gar keinen befriedigenden. Nicht nur ist jede Staffel im Wesentlichen ein Cliffhanger für die nächste Staffel, seit den Streamingdiensten ist auch jede Episode ein Cliffhanger für die nächste. Es gibt überhaupt keinen Moment in so einer Serie, wo man nicht künstlich unter Stress gesetzt wird.
+> 
+> Und in den Episoden gibt es dann weitere künstliche Stressmaximierung wie überflüssige Verfolgungsjagden, Spannungsmusik wenn jemand in einer fucking Lobby steht und nach dem Chef der Firma fragt, um ihn zu befragen. Spannungsmusik immer und überall. Und nie ist irgendwas abgeschlossen.
+> 
+> Mir tut ja die Generation leid, die mit dem Scheiß aufwächst. Die werden alle mit 40 einen Herzinfarkt kriegen, soviel künstlichem Stress wie die ausgesetzt sind.
+> 
+> Außerhalb der Filme und Serien ist ja auch alles auf Stressmaximierung ausgelegt mit Social Media und so weiter. Früher ging man abends mit Kumpels in die Kneipe oder spielte Skat, wobei es aber nicht darum ging, wer gewinnt, sondern dass alle Spaß hatten.
+> 
+> Heute? STRESS STRESS STRESS!!!
+> 
+> Sehr bedauerlich.
