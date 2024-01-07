@@ -1080,3 +1080,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 > Heute? STRESS STRESS STRESS!!!
 > 
 > Sehr bedauerlich.
+
+### Francis Picabia
+
+[Quelle](https://netzpolitik.org/2024/oeffentliches-geld-oeffentliches-gut-museum-oeffne-dich/)
+
+> Unser Kopf ist rund, damit das Denken die Richtung wechseln kann
