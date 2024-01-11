@@ -1083,6 +1083,12 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### Francis Picabia
 
-[Quelle](https://netzpolitik.org/2024/oeffentliches-geld-oeffentliches-gut-museum-oeffne-dich/)
+[Quelle](https://netzpolitik.org/2024/oeffentliches-geld-oeffentliches-gut-museum-oeffne-dich/) - 20240107
 
 > Unser Kopf ist rund, damit das Denken die Richtung wechseln kann
+
+### Dave Whittle
+
+[Quelle](https://www.quora.com/Why-did-IBMs-OS-2-project-lose-to-Microsoft-given-that-IBM-had-much-more-resources-than-Microsoft-at-that-time) - 20240111
+
+> A market is just like water - always flowing downhill following the easiest path it can find.
