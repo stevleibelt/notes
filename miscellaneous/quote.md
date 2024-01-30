@@ -1092,3 +1092,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 [Quelle](https://www.quora.com/Why-did-IBMs-OS-2-project-lose-to-Microsoft-given-that-IBM-had-much-more-resources-than-Microsoft-at-that-time) - 20240111
 
 > A market is just like water - always flowing downhill following the easiest path it can find.
+
+### Kuketz
+
+[Quelle](https://www.kuketz-blog.de/waechter-der-eigenen-daten-mein-digitaler-schutzschild-teil-1/) - 20240130
+
+> Wirklich frei ist nur, wer unbeobachtet ist.
