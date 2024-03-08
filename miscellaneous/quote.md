@@ -1098,3 +1098,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 [Quelle](https://www.kuketz-blog.de/waechter-der-eigenen-daten-mein-digitaler-schutzschild-teil-1/) - 20240130
 
 > Wirklich frei ist nur, wer unbeobachtet ist.
+
+### hirnfick 2.0
+
+[Quelle](https://tuxproject.de/blog/2024/03/wahlkampf-ist-hass/) - 20240308
+
+> Politiker, die tag­ein, tag­aus den multimedialen Wahl­kampf betreiben, obwohl noch gar keine Wahl statt­findet, sind lästig.
