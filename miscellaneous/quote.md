@@ -1104,3 +1104,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 [Quelle](https://tuxproject.de/blog/2024/03/wahlkampf-ist-hass/) - 20240308
 
 > Politiker, die tag­ein, tag­aus den multimedialen Wahl­kampf betreiben, obwohl noch gar keine Wahl statt­findet, sind lästig.
+
+### FeFe
+
+[Quelle](http://blog.fefe.de/?ts=9b0eebc2) - 20240312
+
+> Wenn deine Lösung mehr als eine Seite Beschreibung braucht, ist es keine Lösung sondern ein neues Problem.
