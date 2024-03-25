@@ -1117,3 +1117,5 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 > Du bist nicht die Person, die die Wurst kauft in der Metzgerei, sondern das Schwein.
 > Alles umsonst, bis sie dich zerhacken und verkaufen.
+> ...
+> [...] Das seit den 1980-ziger Jahren die Verantwortung vom System auf das Individuum umgeschoben wurde. [...] Nicht das System ist daran schuld, dass es Arbeitslose gibt, sondern du, weil du keine Arbeit findest
