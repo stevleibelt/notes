@@ -1110,3 +1110,10 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 [Quelle](http://blog.fefe.de/?ts=9b0eebc2) - 20240312
 
 > Wenn deine Lösung mehr als eine Seite Beschreibung braucht, ist es keine Lösung sondern ein neues Problem.
+
+### Katika Kühnreich - Gamifiwas?
+
+[Quelle](https://media.ccc.de/v/dgwk2024-56185-den-planet-einfach-brenne#t=1402) - 20240325
+
+> Du bist nicht die Person, die die Wurst kauft in der Metzgerei, sondern das Schwein.
+> Alles umsonst, bis sie dich zerhacken und verkaufen.
