@@ -1119,3 +1119,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 > Alles umsonst, bis sie dich zerhacken und verkaufen.
 > ...
 > [...] Das seit den 1980-ziger Jahren die Verantwortung vom System auf das Individuum umgeschoben wurde. [...] Nicht das System ist daran schuld, dass es Arbeitslose gibt, sondern du, weil du keine Arbeit findest
+
+### FeFe
+
+[Quelle](https://blog.fefe.de/?ts=98f665b0) - 20240331
+
+> Der 19. ist ja eher eine Zeit für ein Besäufnis unter Freunden. Man fragt sich, wieso man seit der Volljährigkeit noch nicht weitergekommen ist. Wo bleibt eigentlich die geile Zukunft, die man sich vorgestellt hat? :-)
