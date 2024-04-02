@@ -1125,3 +1125,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 [Quelle](https://blog.fefe.de/?ts=98f665b0) - 20240331
 
 > Der 19. ist ja eher eine Zeit für ein Besäufnis unter Freunden. Man fragt sich, wieso man seit der Volljährigkeit noch nicht weitergekommen ist. Wo bleibt eigentlich die geile Zukunft, die man sich vorgestellt hat? :-)
+
+### Kuketz
+
+[Quelle](https://www.kuketz-blog.de/ki-und-datenschutz-eine-kritische-betrachtung/) - 20240402
+
+> Die Vorstellung, dass KI ein Bewusstsein haben kann, ist ein Irrtum. Sie ist nur ein sehr glänzender Spiegel, der den Menschen das widerspiegelt, was wir sehen wollen.
