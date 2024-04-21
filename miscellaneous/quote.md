@@ -1131,3 +1131,7 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 [Quelle](https://www.kuketz-blog.de/ki-und-datenschutz-eine-kritische-betrachtung/) - 20240402
 
 > Die Vorstellung, dass KI ein Bewusstsein haben kann, ist ein Irrtum. Sie ist nur ein sehr glänzender Spiegel, der den Menschen das widerspiegelt, was wir sehen wollen.
+
+### S.L. "beim Salat machen" 2024-04-21
+
+> You say "goat" and I say "seitan"
