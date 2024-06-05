@@ -1135,3 +1135,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 ### S.L. "beim Salat machen" 2024-04-21
 
 > You say "goat" and I say "seitan"
+
+### Andreas Scheffer - Neues aus dem Fernsehrat
+
+[Quelle](https://netzpolitik.org/2024/neues-aus-dem-fernsehrat-106-die-zuschauerinnen-sollen-selbst-mitkuratieren/) - 20240605
+
+> In der Welt des digitalen Überangebots suchen wir nach dem, was uns gefällt. Aber oft wissen wir gar nicht, was das ist.
