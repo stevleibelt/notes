@@ -1147,3 +1147,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 [Quelle](https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityNotPeoplesJob) - 20240627
 
 > [...] I feel that infosec should understand that "getting your job done" is everyone's first priority, because in this capitalistic society, not getting your job done gets you fired. You might get fired if you bypass IT security, but you definitely will if you can't do your work.
+
+### Neztpolitik.org - Die Renaissance des Handwerks
+
+[Quelle](https://netzpolitik.org/2024/soziale-medien-die-renaissance-des-handwerks/) - 20240629
+
+> Mitte der 1960er Jahre fand der französische Philosoph Guy Debord harte Worte für die westliche Gesellschaft: Die Menschen verlieren sich im Kaufrausch und oberflächlicher Unterhaltung. Je mehr Bilder sie konsumieren und sich dabei selbst zu Abbildern machen, desto weniger verstehen sie ihre Existenz und ihre wahren Bedürfnisse.
