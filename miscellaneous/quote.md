@@ -1157,3 +1157,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 ### Lemmy Kilmister until 20151228
 
 > We are Motörhead and we play Rock'n'Roll!
+
+### Like a pair of old, worn-out shoes
+
+[Quelle](https://www.youtube.com/watch?v=OoxTygEG85c) - 20160120
+
+> Socks don’t protect my heart
