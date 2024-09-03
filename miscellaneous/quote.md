@@ -1132,7 +1132,7 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 > Die Vorstellung, dass KI ein Bewusstsein haben kann, ist ein Irrtum. Sie ist nur ein sehr glänzender Spiegel, der den Menschen das widerspiegelt, was wir sehen wollen.
 
-### S.L. "beim Salat machen" 2024-04-21
+### S.L. "beim Salat machen" 20240421
 
 > You say "goat" and I say "seitan"
 
@@ -1153,3 +1153,7 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 [Quelle](https://netzpolitik.org/2024/soziale-medien-die-renaissance-des-handwerks/) - 20240629
 
 > Mitte der 1960er Jahre fand der französische Philosoph Guy Debord harte Worte für die westliche Gesellschaft: Die Menschen verlieren sich im Kaufrausch und oberflächlicher Unterhaltung. Je mehr Bilder sie konsumieren und sich dabei selbst zu Abbildern machen, desto weniger verstehen sie ihre Existenz und ihre wahren Bedürfnisse.
+
+### Lemmy Kilmister until 20151228
+
+> We are Motörhead and we play Rock'n'Roll!
