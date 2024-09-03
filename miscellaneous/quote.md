@@ -1163,3 +1163,8 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 [Quelle](https://www.youtube.com/watch?v=OoxTygEG85c) - 20160120
 
 > Socks don’t protect my heart
+
+### Eddie Adams, Pulitzer Preis Gewinner, AP Fotograf
+
+> Still photographs are the most powerful weapon in the world. People believe them, but photographs do lie, even without manipulation. They are only half-truths. What the photograph didn’t say was, What would you do if you were the general at that time and place on that hot day, and you caught the so-called bad guy after he blew away one, two, or three American soldiers?  
+
