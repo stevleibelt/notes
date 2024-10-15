@@ -1168,3 +1168,8 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 > Still photographs are the most powerful weapon in the world. People believe them, but photographs do lie, even without manipulation. They are only half-truths. What the photograph didn’t say was, What would you do if you were the general at that time and place on that hot day, and you caught the so-called bad guy after he blew away one, two, or three American soldiers?  
 
+### jbrodiguez 2024-10-12
+
+[source](https://github.com/archzfs/archzfs/issues/545#issuecomment-2408630536) - 20241012
+
+> there are only 2 hard problems in computer science: naming things, cache invalidation and off-by-one errors
