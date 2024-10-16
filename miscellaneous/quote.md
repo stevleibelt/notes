@@ -1134,7 +1134,7 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### S.L. "beim Salat machen" 20240421
 
-> You say "goat" and I say "seitan"
+> You say "goat" and I say "seitan"!
 
 ### Andreas Scheffer - Neues aus dem Fernsehrat
 
