@@ -1173,3 +1173,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 [source](https://github.com/archzfs/archzfs/issues/545#issuecomment-2408630536) - 20241012
 
 > there are only 2 hard problems in computer science: naming things, cache invalidation and off-by-one errors
+
+### hirnfick 2.0 2024-11-13
+
+[source](https://tuxproject.de/blog/2024/11/miniaturen-131124/) - 20241113
+
+> Jetzt kann nur noch die Bun­des­agen­tur für Sprung­in­no­va­tio­nen helfen!
