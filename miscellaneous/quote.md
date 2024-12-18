@@ -1179,3 +1179,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 [source](https://tuxproject.de/blog/2024/11/miniaturen-131124/) - 20241113
 
 > Jetzt kann nur noch die Bun­des­agen­tur für Sprung­in­no­va­tio­nen helfen!
+
+### FeFe - 20241217
+
+[source](https://blog.fefe.de/?ts=999f50b3) - 20241217
+
+> Der Fachkräftemangel (der ja schon immer tatsächlich ein Gehaltsmangel war) [...]
