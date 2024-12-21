@@ -1185,3 +1185,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 [source](https://blog.fefe.de/?ts=999f50b3) - 20241217
 
 > Der Fachkräftemangel (der ja schon immer tatsächlich ein Gehaltsmangel war) [...]
+
+### FeFe - 20241210
+
+[source](https://blog.fefe.de/?ts=999bbf02) - 20241220
+
+> Angebot von Zustimmung abhängig machen ist verboten
