@@ -1191,3 +1191,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 [source](https://blog.fefe.de/?ts=999bbf02) - 20241220
 
 > Angebot von Zustimmung abhängig machen ist verboten
+
+### FeFe - 20250324
+
+[source](https://blog.fefe.de/?ts=991fe837) - 20250324
+
+> Psychologen finden überall psychologische Effekte, selbst wenn sie sich mit einem Hund oder einem Kochtopf unterhalten.
