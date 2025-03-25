@@ -217,7 +217,7 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 > If we were supposed to talk more than listen we would have been given two mouths and one ear.
 
-### Unknonwn
+### Unknown
 
 > Die Bösen müssen immer Glück haben,
 > die Guten nur einmal.
@@ -226,7 +226,7 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 > Würden die Menschen das Geldsystem verstehen, hätten wir eine Revolution noch vor morgen früh.
 
-### Unknonwn
+### Unknown
 
 > Wenn eine Schraube locker ist, hat das Leben etwas Spiel.
 
@@ -785,7 +785,7 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 > Is' schon viel Schönes bei
 
-### Unknonwn
+### Unknown
 
 
 > Bei Rucola fehlt doch ein m.
@@ -1197,3 +1197,7 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 [source](https://blog.fefe.de/?ts=991fe837) - 20250324
 
 > Psychologen finden überall psychologische Effekte, selbst wenn sie sich mit einem Hund oder einem Kochtopf unterhalten.
+
+### Unknown - 20250325
+
+> Ich würde dich gerne wiedersehen. Passt es dir den Rest deines Lebens?
