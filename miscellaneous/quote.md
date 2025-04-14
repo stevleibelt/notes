@@ -1201,3 +1201,14 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 ### Unknown - 20250325
 
 > Ich würde dich gerne wiedersehen. Passt es dir den Rest deines Lebens?
+
+### Reddit - 20250412
+
+[source](https://www.reddit.com/r/wortwitzkasse/comments/1jxf7qf/comment/mmqflv3/) - 20250414
+
+> Schweigen ist Gold.
+> 
+> Reden ist Silber.
+> 
+> Schellen sind Kupfer.
+
