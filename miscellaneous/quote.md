@@ -1212,3 +1212,12 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 > 
 > Schellen sind Kupfer.
 
+### Jan Böhmernann - Mit dem E-Scooter von Köln-Ehrenfeld nach Chemnitz
+
+[source](https://youtu.be/XP8bCEx5UW8?t=1126)
+
+> Alle Wünsche werden klein, gegen den Wunsch gesund zu sein.
+
+und
+
+> Einander ist alles was wir haben.
