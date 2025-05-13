@@ -1212,12 +1212,18 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 > 
 > Schellen sind Kupfer.
 
-### Jan Böhmernann - Mit dem E-Scooter von Köln-Ehrenfeld nach Chemnitz
+### Jan Böhmernann - Mit dem E-Scooter von Köln-Ehrenfeld nach Chemnitz - 20250507
 
-[source](https://youtu.be/XP8bCEx5UW8?t=1126)
+[source](https://youtu.be/XP8bCEx5UW8?t=1126) - 20250507
 
 > Alle Wünsche werden klein, gegen den Wunsch gesund zu sein.
 
 und
 
 > Einander ist alles was wir haben.
+
+### FeFe - 20250513
+
+[source](https://blog.fefe.de/?ts=96df2b89) - 20250513
+
+> Der Schlüssel zum Glück im Leben ist, nur erreichbare Dinge zu erwarten.
