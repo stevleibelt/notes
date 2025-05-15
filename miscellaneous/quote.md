@@ -1227,3 +1227,9 @@ und
 [source](https://blog.fefe.de/?ts=96df2b89) - 20250513
 
 > Der Schlüssel zum Glück im Leben ist, nur erreichbare Dinge zu erwarten.
+
+### reddit.com/u/GoldStarGamer11 - 20250515
+
+[source](https://www.reddit.com/r/rareinsults/comments/1kn33y9/comment/msf87km/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) - 20250515
+
+> Precisely, and social media has made a bunch of non-rich people get themselves in a lot of debt to look and act rich, basically my point is social media has evolved into a cancer in our society 
