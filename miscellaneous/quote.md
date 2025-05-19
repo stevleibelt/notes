@@ -1233,3 +1233,9 @@ und
 [source](https://www.reddit.com/r/rareinsults/comments/1kn33y9/comment/msf87km/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) - 20250515
 
 > Precisely, and social media has made a bunch of non-rich people get themselves in a lot of debt to look and act rich, basically my point is social media has evolved into a cancer in our society 
+
+### reddit.com/r/AskReddit - People over 35, what's something you genuinely miss that younger generations will probably never experience? - 20250519
+
+[source](I honestly can’t think of a net positive outcome of the invention of social media. It has tainted so many aspects of life ) - 20250519
+
+> I honestly can’t think of a net positive outcome of the invention of social media. It has tainted so many aspects of life.
