@@ -1239,3 +1239,7 @@ und
 [source](I honestly can’t think of a net positive outcome of the invention of social media. It has tainted so many aspects of life ) - 20250519
 
 > I honestly can’t think of a net positive outcome of the invention of social media. It has tainted so many aspects of life.
+
+### Unknown
+
+> Freiheit für alle Unterdrückten
