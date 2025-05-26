@@ -1242,4 +1242,12 @@ und
 
 ### Unknown
 
-> Freiheit für alle Unterdrückten
+> Freiheit für alle Unterdrückten.
+
+### The Internet
+
+> Sprich Deutsch du Hurensohn.
+
+### The Internet
+
+> Der Kommentarenbereich ist nun Eigentum der Bundesrepublik Deutschland.
