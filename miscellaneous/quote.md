@@ -1251,3 +1251,9 @@ und
 ### The Internet
 
 > Der Kommentarenbereich ist nun Eigentum der Bundesrepublik Deutschland.
+
+### Arte - Sollten wir uns öfter langweilen?
+
+James Danckert - Arte Reportage - Sollten wir uns öfter langweilen?
+
+> Langeweile ist weder gut noch schlecht. Sie ist ein Signal und sagt dir "Was du gerade machst, ist nicht interessant genug und stellt dich nicht zufrieden".
