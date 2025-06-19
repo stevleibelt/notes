@@ -1257,3 +1257,10 @@ und
 James Danckert - Arte Reportage - Sollten wir uns öfter langweilen?
 
 > Langeweile ist weder gut noch schlecht. Sie ist ein Signal und sagt dir "Was du gerade machst, ist nicht interessant genug und stellt dich nicht zufrieden".
+
+### Ich weiß es, ihr nicht - 20250618
+
+Kategorie: "mutig"
+
+> Die TU Berkakademie Freiberg, die einzige Universität, die sich eine statt leistet.
+
