@@ -1262,5 +1262,11 @@ James Danckert - Arte Reportage - Sollten wir uns öfter langweilen?
 
 Kategorie: "mutig"
 
-> Die TU Berkakademie Freiberg, die einzige Universität, die sich eine statt leistet.
+> Die TU Bergakatemie Freiberg, die einzige Universität, die sich eine statt leistet.
+
+### hirnfick 2.0 - 20250626
+
+[source](https://tuxproject.de/blog/2025/06/liegengebliebenes-vom-25-juni-2025/) - 20250625
+
+> Chatbots sind das Fernsehen des 21. Jahrhunderts, sie die­nen dem Zweck, die Menschen von dem abzulenken, was ist.
 
