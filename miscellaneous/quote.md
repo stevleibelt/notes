@@ -1270,3 +1270,8 @@ Kategorie: "mutig"
 
 > Chatbots sind das Fernsehen des 21. Jahrhunderts, sie die­nen dem Zweck, die Menschen von dem abzulenken, was ist.
 
+### reddit.com/u/AliceTawhai
+
+[source](https://www.reddit.com/r/MadeMeSmile/comments/1n26vyn/comment/nb47qhd/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) - 20250828
+
+> Everyone should talk to everyone like an equal
