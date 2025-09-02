@@ -1275,3 +1275,9 @@ Kategorie: "mutig"
 [source](https://www.reddit.com/r/MadeMeSmile/comments/1n26vyn/comment/nb47qhd/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) - 20250828
 
 > Everyone should talk to everyone like an equal
+
+### reddit.com/u/Away_Tone_4272
+
+[source](https://www.reddit.com/r/ichbin14unddasisttief/comments/1n6bv71/comment/nbz0x53/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) - 20250902
+
+> Du stirbst nicht für Deutschland, du stirbst für fremdes Eigentum und Kapital.
