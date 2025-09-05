@@ -1281,3 +1281,9 @@ Kategorie: "mutig"
 [source](https://www.reddit.com/r/ichbin14unddasisttief/comments/1n6bv71/comment/nbz0x53/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) - 20250902
 
 > Du stirbst nicht für Deutschland, du stirbst für fremdes Eigentum und Kapital.
+
+### E.O. Wilson - Consilience: The Unity of Knowledge (1998)
+
+[source](https://en.wikiquote.org/wiki/E._O._Wilson) - 20250905
+
+> We are drowning in information while starving for wisdome.
