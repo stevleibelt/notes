@@ -1287,3 +1287,9 @@ Kategorie: "mutig"
 [source](https://en.wikiquote.org/wiki/E._O._Wilson) - 20250905
 
 > We are drowning in information while starving for wisdome.
+
+### Gregor Gysi - Gregor Gysi rechnet mit Altparteien ab (20250125)
+
+[source](https://youtu.be/WILZjdtAmp4?t=1619) - 20250925
+
+> Ich hasse nicht zurück
