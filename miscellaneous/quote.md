@@ -1293,3 +1293,17 @@ Kategorie: "mutig"
 [source](https://youtu.be/WILZjdtAmp4?t=1619) - 20250925
 
 > Ich hasse nicht zurück
+
+### Donatstor in Freiberg, linke Seite - 20250928
+
+[Quelle](https://www.freiepresse.de/mittelsachsen/freiberg/83-jaehrige-freibergerin-ich-moechte-dass-wieder-frieden-einkehrt-artikel11892663) - 20250928
+
+> Eintracht bricht Not,
+> Zweitracht bringt Tod.
+
+### Donatstor in Freiberg, rechte Seite - 20250928
+
+[Quelle](https://www.freiberg.de/fileadmin/Amtsblatt/2010/AB2010_02.pdf) - 20250928
+
+> Gemeinwohl geht über dein Wohl
+
