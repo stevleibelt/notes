@@ -1307,3 +1307,6 @@ Kategorie: "mutig"
 
 > Gemeinwohl geht über dein Wohl
 
+### Unbekannt
+
+> Sucht kommt von suchen.
