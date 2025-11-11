@@ -1310,3 +1310,11 @@ Kategorie: "mutig"
 ### Unbekannt
 
 > Sucht kommt von suchen.
+
+### S.L. 20251111
+
+> Fernsehen macht blöd, weil es keinen Platz für eigene Gedanken lässt.
+
+Sei mutig, ersetze "Fernsehen" mit "Medien".
+Sei mutiger, ersetze "Medien" mit "Konsum".
+
