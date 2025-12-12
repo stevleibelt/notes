@@ -1321,3 +1321,10 @@ Sei mutiger, ersetze "Medien" mit "Konsum".
 ### Unbekannt
 
 > When buying is not owning, piracy is not stealing.
+
+### Toni Morrison
+
+> The function, the very serious function of racism is distraction. It keeps you from doing your work.
+
+Could be shorten to:
+> The purpose of racism is to waste my time.
