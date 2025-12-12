@@ -1318,3 +1318,6 @@ Kategorie: "mutig"
 Sei mutig, ersetze "Fernsehen" mit "Medien".
 Sei mutiger, ersetze "Medien" mit "Konsum".
 
+### Unbekannt
+
+> When buying is not owning, piracy is not stealing.
