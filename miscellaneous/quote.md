@@ -1332,3 +1332,7 @@ Could be shorten to:
 ### T.R. 20251227
 
 > PersonX kennt keine Schonhaltung für seinen Körper.
+
+### Unbekannt
+
+> Man weiß, dass man ein Backup hat, wenn man es zurückgespielt hat
