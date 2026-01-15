@@ -1336,3 +1336,7 @@ Could be shorten to:
 ### Unbekannt
 
 > Man weiß, dass man ein Backup hat, wenn man es zurückgespielt hat
+
+### S.L. 20260115
+
+> Eine Stärke in einer Beziehung ist, dass der Zweifler von dem Anderen mit "wird schon [gut] werden" aufgefangen wird.
