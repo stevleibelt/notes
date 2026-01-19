@@ -1340,3 +1340,7 @@ Could be shorten to:
 ### S.L. 20260115
 
 > Eine Stärke in einer Beziehung ist, dass der Zweifler von dem Anderen mit "wird schon [gut] werden" aufgefangen wird.
+
+### S.L. 20260119
+
+> Für mich ist Doomscrolling eine Dauerschleife aus Belanglosigkeiten.
