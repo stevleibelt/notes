@@ -250,7 +250,7 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 > Seeing the opportunity in all things is a really good thing.
 > Learning the leasons on mistaks and let them go is a really good thing.
 
-### Adam Leizpig - How to know your life purpose in 5 minutes
+### Adam Leipzig - How to know your life purpose in 5 minutes
 
 [The talk on youtube.com.](https://www.youtube.com/watch?v=vVsXO9brK7M)
 
@@ -280,7 +280,7 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### Nikola Tesla
 
-> Atomenergie lässt weder zivil noch militärisch nutzen.
+> Atomenergie lässt sich weder zivil noch militärisch nutzen.
 
 ### Eine russische Frau in der Dokumentantion 10.000 Kilometer Russland (ZDF 2018)
 
