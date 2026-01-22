@@ -1344,3 +1344,8 @@ Could be shorten to:
 ### S.L. 20260119
 
 > Für mich ist Doomscrolling eine Dauerschleife aus Belanglosigkeiten.
+
+### The Internet 20260122
+
+> Teure Kunst wurde geschaffen, damit reiche Menschen anonym Geldwäsche und Steuergestaltung betreiben können.
+
