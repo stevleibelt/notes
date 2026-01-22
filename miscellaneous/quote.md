@@ -1345,6 +1345,16 @@ Could be shorten to:
 
 > Für mich ist Doomscrolling eine Dauerschleife aus Belanglosigkeiten.
 
+### The Internet 20260120
+
+> Kaffee macht dich nicht wach, es blockiert nur die Signale deines Körpers, dass er Schlaf benötigt und müde ist.
+
+### The Internet 20260121
+
+> Sich elend zu fühlen, wenn man krank ist, ist ein wichtiges Signal des Körpers.
+> Die meisten, gefühlten Krankheitssymptome sind Nebenwirkung einer erhöhten Aktivität ihres Immunsystems.
+> Wenn das Immunsystem aufhört zu arbeiten, fühlt man sich kurzfristig besser, die Krankheit ist aber noch da und der Körper wird daran sterben.
+
 ### The Internet 20260122
 
 > Teure Kunst wurde geschaffen, damit reiche Menschen anonym Geldwäsche und Steuergestaltung betreiben können.
