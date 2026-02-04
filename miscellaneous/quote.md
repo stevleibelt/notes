@@ -1359,3 +1359,8 @@ Could be shorten to:
 
 > Teure Kunst wurde geschaffen, damit reiche Menschen anonym Geldwäsche und Steuergestaltung betreiben können.
 
+### Englisches Sprichwort - 20260204
+
+> Comparison is the thief of joy
+> Vergleiche ist der Dieb der Freude
+
