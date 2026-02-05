@@ -1364,3 +1364,7 @@ Could be shorten to:
 > Comparison is the thief of joy
 > Vergleiche ist der Dieb der Freude
 
+### The Internet 20260205
+
+> Als Banker in jungen Jahren hat er ja schon gelernt vom Geld anderer zu leben.
+
