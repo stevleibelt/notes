@@ -1368,3 +1368,8 @@ Could be shorten to:
 
 > Als Banker in jungen Jahren hat er ja schon gelernt vom Geld anderer zu leben.
 
+### The internet 20260323
+
+> When we're born, we look like our parents.
+> When we die, we look like our decisions.
+
