@@ -1376,3 +1376,7 @@ Could be shorten to:
 ### The Internet 20260325
 
 >  Wenn man mit einem Finger auf etwas zeigt, zeigt man mit drei Fingern auf sich selbst.
+
+### The Internet 20260331
+
+> Alles was du sagst, sollte ehrlich sein - Aber nicht alles was ehrlich ist, sollte auch gesagt werden.
