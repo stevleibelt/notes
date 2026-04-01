@@ -1380,3 +1380,8 @@ Could be shorten to:
 ### The Internet 20260331
 
 > Alles was du sagst, sollte ehrlich sein - Aber nicht alles was ehrlich ist, sollte auch gesagt werden.
+
+### Andere vorher, sonst SL - 20260401
+
+> Um Klarheit zu erreichen, bedarf es einer gewissen Anstrengung.
+
