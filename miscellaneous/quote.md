@@ -13,7 +13,7 @@
 
 ### Erobique & Jacques Palminger – Songs For Joy - Wann strahlst du?
 
-> Ich liebe die, die Staunen können.
+> Ich liebe die, die Staunen können.  
 > Über die Blume auf dem Schrott.
 
 ### [Stev Leibelt - 2016-10-15](https://stev.leibelt.de)
@@ -30,7 +30,7 @@
 
 ### Polnisches Sprichwort
 
-> Die Irrtümer des Arztes,
+> Die Irrtümer des Arztes,  
 > sind mit Erde zugedeckt.
 
 ### Supposed said by Mark Zuckerberg somewhen 2016-10-19
@@ -47,41 +47,41 @@
 
 ### Unknown
 
-> [ ] mine
-> [ ] yours
+> [ ] mine  
+> [ ] yours  
 > [x] ours
 
 ### Bintia - B.I.N.T.I.A
 
-> Es ist leicht sich das Leben schwer zu machen.
+> Es ist leicht sich das Leben schwer zu machen.  
 > Es ist schwer sich das Leben leicht zu machen.
 
 ### Unknown
 
-> Es ist leicht etwas zu zerstören.
+> Es ist leicht etwas zu zerstören.  
 > Es ist schwer etwas aufzubauen.
 
 ### Walter Moers
 
-> Es ist leicht, etwas zu beginnen.
+> Es ist leicht, etwas zu beginnen.  
 > Aber es ist schwer, etwas zu Ende zu bringen.
 
 ### Sebastian Kneipp
 
-> Der Kopf kühl, die Füße warm.
+> Der Kopf kühl, die Füße warm.  
 > Das macht den besten Doktor arm.
 
 ### MD from JL (2016-12-21)
 
-> Das Unkraut bin doch eher ich.
+> Das Unkraut bin doch eher ich.  
 > Du bist vielmehr der Bambushalm, der sich störisch jedem noch so wildem Sturm widersetzt.
 
 ### [Wem nützt es](https://weltnetz.tv/video/1001-wem-nuetzt-es)
 
 Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten, sollte man es machen.
 
-> Nutzt es den Menschen?
-> Nutzt es der Umwelt?
+> Nutzt es den Menschen?  
+> Nutzt es der Umwelt?  
 > Nutzt es dem globalen Frieden?
 
 ### The Open Origanization: Igniting Passion and Performance by Jim Whitehurst (Page 156)
@@ -118,7 +118,7 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### SS from JL (2017-03-30)
 
-> Meine Mama sagt auch immer, dass Enkelkinder auch nochmal was anderes ist als eigene Kinder.
+> Meine Mama sagt auch immer, dass Enkelkinder auch nochmal was anderes ist als eigene Kinder.  
 > Weil man sich für sie bewusst Zeit nehmen kann und nicht im Stress des Alltags ist.
 
 ### Someone from the movie "taste the waste"
@@ -127,12 +127,12 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### MKL (2017-05-08)
 
-> Found the reason why I want to eat sweats when I am stressed.
+> Found the reason why I want to eat sweats when I am stressed.  
 > "Stressed" mirrored is "desserts".
 
 ### Andreas Clauss - Crashkurs Geld und Recht (3. AZK - 2015)
 
-> Sehen Sie weniger fern,
+> Sehen Sie weniger fern,  
 > dann sehen Sie besser durch.
 
 ### yi1vidz - [Kangding Ray Boiler Room Berlin Live Set](https://www.youtube.com/watch?v=MN1YhlRJOx0)
@@ -141,28 +141,28 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### SL from JL (2017-06-12)
 
-> Wer eine Depression hat ist mit einem entäuschten Partner gleichzusetzen.
+> Wer eine Depression hat ist mit einem entäuschten Partner gleichzusetzen.  
 > Hat man das Tal der Dunkelheit durchwandert und die Wunde versorgt, bleibt eine Unsicherheit im Leben erhalten, die einem bei jeder wichtigen Entscheidung - mal mehr, mal weniger - begleitet.
 
 ### Dalai Lama
 
-> Menschen wurden erschaffen um geliebt zu werden.
-> Dinge wurden geschaffen um benutzt zu werden.
-> Der Grund warum sich die Welt im Chaos befindet,
+> Menschen wurden erschaffen um geliebt zu werden.  
+> Dinge wurden geschaffen um benutzt zu werden.  
+> Der Grund warum sich die Welt im Chaos befindet,  
 > ist weil Dinge geliebt werden und Menschen benutzt werden.
 
 ### Dalai Lama
 
-> Für mich stellen Liebe und Mitgefühl eine allgemeine, eine universelle Religion dar.
-> Man braucht dafür keine Tempel und keine Kirche, ja nicht einmal unbedingt einen Glauben,
-> wenn man einfach nur versucht, ein menschliches Wesen zu sein mit einem
+> Für mich stellen Liebe und Mitgefühl eine allgemeine, eine universelle Religion dar.  
+> Man braucht dafür keine Tempel und keine Kirche, ja nicht einmal unbedingt einen Glauben,  
+> wenn man einfach nur versucht, ein menschliches Wesen zu sein mit einem  
 > warmen Herzen und einem Lächeln, das genügt.
 
 ### DJ Koze - XTC
 
-> The lie is sweet at the beginning, but bitter at the end.
-> The truth is bitter at the beginning, but sweet at the end.
-> Meditation is like the truth.
+> The lie is sweet at the beginning, but bitter at the end.  
+> The truth is bitter at the beginning, but sweet at the end.  
+> Meditation is like the truth.  
 > Drugs are like the lie.
 
 ### Niklas Luhmann
@@ -175,16 +175,16 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### Sebastian Kneipp
 
-> Wer nicht jeden Tag etwas für seine Gesundheit aufbringt,
+> Wer nicht jeden Tag etwas für seine Gesundheit aufbringt,  
 > muss eines Tages sehr viel Zeit für die Krankheit opfern.
 
 ### Amerikianische Ureinwohner
 
-> Erzähl mir etwas,
-> ich werde es vergessen.
-> Zeig mir etwas,
-> und ich werde mich vielleicht daran erinnern.
-> Beteilige mich
+> Erzähl mir etwas,  
+> ich werde es vergessen.  
+> Zeig mir etwas,  
+> und ich werde mich vielleicht daran erinnern.  
+> Beteilige mich  
 > und ich werde verstehen
 
 ### Amerikianische Ureinwohner
@@ -193,7 +193,7 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### Dr. med. M.O. Bruker - Aus der Sprechstunde Band 6
 
-> Wer sich ärgert. beweist damit, dass er die Situation falsch eingeschätzt und nicht damit gerechnet hat, dass die anderen sich so verhalten würden, wie sie es tatsächlich getan haben.
+> Wer sich ärgert. beweist damit, dass er die Situation falsch eingeschätzt und nicht damit gerechnet hat, dass die anderen sich so verhalten würden, wie sie es tatsächlich getan haben.  
 > Wenn man es genau nimmt, steckt hinter jedem Ärger über das Verhalten anderer ein Ärger über die eigene Unfähigkeit, die Situation zu beherrschen, insofern als man sie nicht vorausgesehen hat oder sie nicht wahrhaben will.
 
 ### Unknown
@@ -210,7 +210,7 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### Mark Twain
 
-> If you don't read the newspaper, you're uninformed.
+> If you don't read the newspaper, you're uninformed.  
 > If you read the newspaper, you're mis-informed.
 
 ### Mark Twain
@@ -219,7 +219,7 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### Unknown
 
-> Die Bösen müssen immer Glück haben,
+> Die Bösen müssen immer Glück haben,  
 > die Guten nur einmal.
 
 ### Henry Ford
@@ -232,9 +232,9 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### Byron Katie
 
-> Life is simple.
-> Everything happens for you, not to you.
-> Everything happens at exactly the right moment, neither too soon nor too late.
+> Life is simple.  
+> Everything happens for you, not to you.  
+> Everything happens at exactly the right moment, neither too soon nor too late.  
 > You don't have to like it... it's just easier if you do.
 
 ### Susan Heitler - About here "Bump Model"
@@ -247,17 +247,17 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 [The talk on youtube.com.](https://www.youtube.com/watch?v=2tcEgqTWbxQ)
 
-> Seeing the opportunity in all things is a really good thing.
+> Seeing the opportunity in all things is a really good thing.  
 > Learning the leasons on mistaks and let them go is a really good thing.
 
 ### Adam Leipzig - How to know your life purpose in 5 minutes
 
 [The talk on youtube.com.](https://www.youtube.com/watch?v=vVsXO9brK7M)
 
-> Who they are.
-> What they did.
-> Who they did it for.
-> What those people wanted or needed.
+> Who they are.  
+> What they did.  
+> Who they did it for.  
+> What those people wanted or needed.  
 > And what they got out of it - how they changed as a result.
 
 ### C.C.S. from JL - 2017-12-18
@@ -268,10 +268,10 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 [The talk on youtube.com.](https://www.youtube.com/watch?v=y2X7c9TUQJ8)
 
-> Time management is is emotional (not logical as you might think of).
-> [...]
-> There is no time management (since time is going on and you can not stop it), there is only self management.
-> [...]
+> Time management is is emotional (not logical as you might think of).  
+> [...]  
+> There is no time management (since time is going on and you can not stop it), there is only self management.  
+> [...]  
 > Think about how soon, how much and how long does it matter.
 
 ### Jemand aus der Kosmetikindustrie
@@ -284,7 +284,7 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### Eine russische Frau in der Dokumentantion 10.000 Kilometer Russland (ZDF 2018)
 
-> Frieden und Freundschaft zwischen den Völkern,
+> Frieden und Freundschaft zwischen den Völkern,  
 > damit lässt sich jedes Problem lösen.
 
 ### SL from JL - 2018-01-26
@@ -297,33 +297,33 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### Joseph Goebbels
 
-> Wenn man eine große Lüge erzählt und sie oft genug wiederholt,
-> dann werden die Leute sie am Ende glauben.
-> Man kann die Lüge so lange behaupten, wie es dem Staat gelingt,
-> die Menschen von den politischen, wirtschaftlichen und militärischen Konsequenzen der Lüge abzuschirmen.
-> Deshalb ist es von lebenswichtiger Bedeutung für den Staat, 
-> seine gesamte Macht für die Unterdrückung abweichender Meinungen einzusetzen.
+> Wenn man eine große Lüge erzählt und sie oft genug wiederholt,  
+> dann werden die Leute sie am Ende glauben.  
+> Man kann die Lüge so lange behaupten, wie es dem Staat gelingt,  
+> die Menschen von den politischen, wirtschaftlichen und militärischen Konsequenzen der Lüge abzuschirmen.  
+> Deshalb ist es von lebenswichtiger Bedeutung für den Staat,   
+> seine gesamte Macht für die Unterdrückung abweichender Meinungen einzusetzen.  
 > Die Wahrheit ist der Todfeind der Lüge, und daher ist die Wahrheit der größte Feind des Staates.
 
 ### Joseph Goebbels
 
-> Es mag gut sein, Macht zu besitzen, die auf Gewehren ruht,
-> besser aber und beglückender ist es,
+> Es mag gut sein, Macht zu besitzen, die auf Gewehren ruht,  
+> besser aber und beglückender ist es,  
 > das Herz eines Volkes zu gewinnen und es auch zu behalten.
 
 ### Unbekannt
 
-> Früher war alles besser,
+> Früher war alles besser,  
 > auch die Zukunft.
 
 ### Edward Snowden
 
 [Quelle](https://propagandaschau.wordpress.com/2018/03/21/edward-snowden-zu-den-sozialen-medien/)
 
-> Unternehmen, die Geld verdienen,
-> indem Sie detaillierte Aufzeichnungen über das Privatleben von Bürgern sammeln und verkaufen,
-> wurden einmal treffend als "Überwachungsunternehmen" bezeichnet.
-> Ihr Rebranding als "Social Media" ist die erfolgreichste Täuschung
+> Unternehmen, die Geld verdienen,  
+> indem Sie detaillierte Aufzeichnungen über das Privatleben von Bürgern sammeln und verkaufen,  
+> wurden einmal treffend als "Überwachungsunternehmen" bezeichnet.  
+> Ihr Rebranding als "Social Media" ist die erfolgreichste Täuschung  
 > seit das Kriegsministerium in Verteidigungsministerium umbenannt wurde.
 
 ### Johann Wolfgang von Goethe
@@ -425,43 +425,43 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### The holy ghost sleeping in the internet
 
-> Easy Mode,
-> Medium Mode,
-> Hard Mode
-> and Depeche Mode
+> Easy Mode,  
+> Medium Mode,  
+> Hard Mode  
+> and Depeche Mode  
 
 ### Khalil Gibran - Deine Kinder sind nicht Deine Kinder
 
-> Deine Kinder sind nicht Deine Kinder.
+> Deine Kinder sind nicht Deine Kinder.  
+>  
+> Sie sind die Söhne und Töchter   
+> der Sehnsucht des Lebens nach sich selbst.  
+>  
+> Sie kommen durch Dich, aber nicht von Dir,  
+> obwohl sie bei Dir sind, gehören sie Dir nicht.  
 > 
-> Sie sind die Söhne und Töchter 
-> der Sehnsucht des Lebens nach sich selbst. 
-> 
-> Sie kommen durch Dich, aber nicht von Dir, 
-> obwohl sie bei Dir sind, gehören sie Dir nicht. 
-> 
-> Du kannst ihnen Deine Liebe geben, aber nicht 
-> Deine Gedanken; denn sie haben ihre eigenen Gedanken. 
-> 
-> Du kannst ihrem Körper ein Heim geben, 
-> aber nicht ihrer Seele, denn ihre Seele wohnt im 
-> Haus von morgen, das Du nicht besuchen kannst, 
-> nicht einmal in Deinen Träumen. 
-> 
-> Du kannst versuchen, ihnen gleich zu sein, 
-> aber nicht, sie Dir gleich zu machen, 
-> denn das Leben geht nicht rückwärts 
-> und verweilt nicht beim Gestern. 
-> 
-> Du bist der Bogen, von dem Deine Kinder 
-> als lebende Pfeile ausgeschickt werden. 
-> 
-> Lass Deine Bogenrundung in der Hand 
+> Du kannst ihnen Deine Liebe geben, aber nicht  
+> Deine Gedanken; denn sie haben ihre eigenen Gedanken.  
+>  
+> Du kannst ihrem Körper ein Heim geben,  
+> aber nicht ihrer Seele, denn ihre Seele wohnt im  
+> Haus von morgen, das Du nicht besuchen kannst,  
+> nicht einmal in Deinen Träumen.  
+>  
+> Du kannst versuchen, ihnen gleich zu sein,  
+> aber nicht, sie Dir gleich zu machen,  
+> denn das Leben geht nicht rückwärts  
+> und verweilt nicht beim Gestern.  
+>  
+> Du bist der Bogen, von dem Deine Kinder  
+> als lebende Pfeile ausgeschickt werden.  
+>  
+> Lass Deine Bogenrundung in der Hand  
 > des Schützen Freude bedeuten.
 
 ### Deep State - Staffel 1, Folge 7
 
-> Krieg basiert auf Gefühlen,
+> Krieg basiert auf Gefühlen,  
 > Fakten sind nur Hintergrundrauschen.
 
 ### Scooter - Move Your Ass
@@ -470,8 +470,8 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### Rupi Kaur
 
-> It takes grace
-> To remain kind
+> It takes grace  
+> To remain kind  
 > In cruel situations
 
 ### Emile Coue
@@ -484,19 +484,19 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### Mohamed Ali
 
-> #He was asked once how many situps he makes?
+> #He was asked once how many situps he makes?  
 > I don't know, I only start count when I can't do anymore"
 
 ### Friedrich Nietzsche
 
-> Wer mit Ungeheuern kämpft, mag zusehn, dass er nicht dabei zum Ungeheuer wird.
+> Wer mit Ungeheuern kämpft, mag zusehn, dass er nicht dabei zum Ungeheuer wird.  
 > Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein.
 
 ### Eugen Roth
 
-> Was bringt den Doktor um sein Brot?
-> A: Die Gesundheit 
-> B: Der Tod 
+> Was bringt den Doktor um sein Brot?  
+> A: Die Gesundheit  
+> B: Der Tod  
 > Drum hält er uns, auf dass er lebe, zwischen beiden in der Schwebe.
 
 ### The Internet
@@ -518,20 +518,20 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### VB from JL (2019-02-11)
 
-> # Zum Thema >>Grundformen der Angst von Fritz Remann<<
-> [...]
-> Alles kommt aus Angst wenn man den Gedanken einfach mal zu Ende denkt.
-> So wie Kinder:
-> "Warum bin ich Aggro?"
-> "Weil ich es hasse von Leuten nicht beachtet zu werden."
-> 
-> "Warum hass eich es von Leuten nicht beachtet zu werden?"
-> "Weil ich nicht ignoriert werden will."
-> 
-> "Warum will ich nicht ignoriert werden?"
-> "Weil ich angst habe ganz allein zu sein."
-> 
-> Kommt echt so gut wie immer auf das selbe Schlagwort zurück.
+> # Zum Thema >>Grundformen der Angst von Fritz Remann<<  
+> [...]  
+> Alles kommt aus Angst wenn man den Gedanken einfach mal zu Ende denkt.  
+> So wie Kinder:  
+> "Warum bin ich Aggro?"  
+> "Weil ich es hasse von Leuten nicht beachtet zu werden."  
+>  
+> "Warum hass eich es von Leuten nicht beachtet zu werden?"  
+> "Weil ich nicht ignoriert werden will."  
+>  
+> "Warum will ich nicht ignoriert werden?"  
+> "Weil ich angst habe ganz allein zu sein."  
+>  
+> Kommt echt so gut wie immer auf das selbe Schlagwort zurück.  
 > [...]
 
 ### Unknown
@@ -548,11 +548,11 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### 1995 - Dj Waxweazle Vs Guitar Rob - Pump It, Dj - Waxweazle Vinyl - WAX 006
 
-> Come on lift your head high reaching out for the sky 
-> Spread your wings out and fly 
-> Right through the starry night 
-> You're unique, you're o.k. Never must be afraid 
-> Spread your wings out and fly 
+> Come on lift your head high reaching out for the sky   
+> Spread your wings out and fly   
+> Right through the starry night  
+> You're unique, you're o.k. Never must be afraid   
+> Spread your wings out and fly  
 > Right through the starry night.
 
 ### Fefe
@@ -581,18 +581,18 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### I Am Not Your Negro | Doku | ARTE
 
-> Die Wurzel für den Hass der Schwarzen ist Wut.
-> Eigentlich hassen sie die Weißen nicht,
-> Sie wollen vielmehr, dass sie ihnen nicht den Weg versperren.
-> Und mehr noch, dass sie ihren Kindern nicht den Weg versperren.
-> 
-> Die Wurzel für den Hass der Weißen ist Angst.
-> Eine unerklärliche und namenlose Angst, die sich auf die Horrorfigur konzentriert.
+> Die Wurzel für den Hass der Schwarzen ist Wut.  
+> Eigentlich hassen sie die Weißen nicht,  
+> Sie wollen vielmehr, dass sie ihnen nicht den Weg versperren.  
+> Und mehr noch, dass sie ihren Kindern nicht den Weg versperren.  
+>  
+> Die Wurzel für den Hass der Weißen ist Angst.  
+> Eine unerklärliche und namenlose Angst, die sich auf die Horrorfigur konzentriert.  
 > Ein Wesen, dass nur in ihren Kopf existiert.
 
 ### MPM from JL
 
-> Die Frauen trachten nicht nach einer eigenen Identität oder Definition, diese haben Sie bereits.
+> Die Frauen trachten nicht nach einer eigenen Identität oder Definition, diese haben Sie bereits.  
 > Sie wollen Gleichheit, verwechseln die Gleichheit aber mit mehr Mann sein.
 
 ### Unknown
@@ -638,9 +638,9 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### SL - 2020-03-18
 
-> Wer Dinge nicht dem einfachen Mann auf der Straße erklären kann, der ist mit seinem Gedanken noch nicht fertig oder verschweigt Teile.
-> 
-> Das war eine der Eigenschaften, welche ich an Steven Hawkin so bewundert habe - oder an ein paar anderen Personen.
+> Wer Dinge nicht dem einfachen Mann auf der Straße erklären kann, der ist mit seinem Gedanken noch nicht fertig oder verschweigt Teile.  
+>  
+> Das war eine der Eigenschaften, welche ich an Steven Hawkin so bewundert habe - oder an ein paar anderen Personen.  
 > Wenn Menschen wissen wovon sie reden, könne sie es ganz einfach erklären und bei Bedarf in die komplexen Details gehen ohne sich in Widersprüche zu verrennen.
 
 ### Oscar Wilde
@@ -655,7 +655,7 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### M.R. - 2020-05-14
 
-> Gehe nicht zu einem Ferscht,
+> Gehe nicht zu einem Ferscht,  
 > Wenn du nicht gerufen werscht.
 
 [source: wikipedia.org](https://de.wikipedia.org/wiki/Liste_gefl%C3%BCgelter_Worte/G#Gehe_nie_zu_deinem_Ferscht,_wenn_du_nicht_gerufen_werscht.)
@@ -666,11 +666,11 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### S.L. - 2020-06-12
 
-> Klostern.
-> 
-> #Beschreibung
-> Ich hatte heute Nacht einen Traum.
-> Da bin ich mit Jemanden rumgelaufen und dann haben wir Menschen auf Fahrrädern gesehen die sich anschnautzen und hintereinandern her fahren. quasi wie das was die auf den Rennbahnen machen.
+> Klostern.  
+>  
+> #Beschreibung  
+> Ich hatte heute Nacht einen Traum.  
+> Da bin ich mit Jemanden rumgelaufen und dann haben wir Menschen auf Fahrrädern gesehen die sich anschnautzen und hintereinandern her fahren. quasi wie das was die auf den Rennbahnen machen.  
 > Ich hab den anderen Typen gefragt was die da machen und er hat geantwortet "die klostern, die schnautzen sich beim Fahren an um schneller zu sein und verbrennen bestimmt fünf Kalorin mehr pro Stunde weil sie so eine Fresse ziehen".
 
 ### José Pepe Mujica
@@ -681,44 +681,44 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### S.L. - 2020-07-02
 
-Mit der Melodie von "Rammstein - Reise, Reise".
+Mit der Melodie von "Rammstein - Reise, Reise".  
 Rammstein, danke für eure Musik!
 
-> Auch auf den Wellen wird gestuhlt
-> Wo Fisch und Fleisch zur See aunusgepuhlt
-> Der eine scheißt den Kot ins Heer
-> Der andere wirft ihn in das Meer
-> 
-> Ahoi
-> 
-> Scheiße, Scheiße, Seemanns-Scheiße
-> Jeder scheißt auf seine Weise
-> Der eine scheißt auf den Mann
-> Der andere zum Fische dann
-> 
-> Scheiße, Scheiße, Seemanns-Scheiße
-> Bei den Wellen scheißt's sich leise
-> Vielen hängt ein Furze queer
-> Scheißt nicht mehr leise in das Meer
-> 
-> Die Lanze muss im Kot ertrinken
-> Dick und Fest zur Tiefe sinken
-> Wo die schwarze Seele wohnt
-> Ist kein Licht am Horizont
-> 
-> Scheiße, Scheiße, Seemanns-Scheiße
-> Jeder scheißt auf seine Weise
-> Der eine scheißt auf den Mann
-> Der andere zum Fische dann
-> 
-> Scheiße, Scheiße, Seemanns-Scheiße
-> Bei den Wellen scheißt's sich leise
-> Vielen hängt ein Furze queer
-> Scheißt nicht mehr leise in das Meer
-> 
-> Scheiße, Scheiße, Seemanns-Scheiße
-> Bei den Wellen scheißt's sich leise
-> In ihrem Anus steckt ein Speer
+> Auch auf den Wellen wird gestuhlt  
+> Wo Fisch und Fleisch zur See aunusgepuhlt  
+> Der eine scheißt den Kot ins Heer  
+> Der andere wirft ihn in das Meer  
+>  
+> Ahoi  
+>  
+> Scheiße, Scheiße, Seemanns-Scheiße  
+> Jeder scheißt auf seine Weise  
+> Der eine scheißt auf den Mann  
+> Der andere zum Fische dann  
+>  
+> Scheiße, Scheiße, Seemanns-Scheiße  
+> Bei den Wellen scheißt's sich leise  
+> Vielen hängt ein Furze queer  
+> Scheißt nicht mehr leise in das Meer  
+>  
+> Die Lanze muss im Kot ertrinken  
+> Dick und Fest zur Tiefe sinken  
+> Wo die schwarze Seele wohnt  
+> Ist kein Licht am Horizont  
+>  
+> Scheiße, Scheiße, Seemanns-Scheiße  
+> Jeder scheißt auf seine Weise  
+> Der eine scheißt auf den Mann  
+> Der andere zum Fische dann  
+>  
+> Scheiße, Scheiße, Seemanns-Scheiße  
+> Bei den Wellen scheißt's sich leise  
+> Vielen hängt ein Furze queer  
+> Scheißt nicht mehr leise in das Meer  
+>  
+> Scheiße, Scheiße, Seemanns-Scheiße  
+> Bei den Wellen scheißt's sich leise  
+> In ihrem Anus steckt ein Speer  
 > Scheißt sich dadurch nicht mehr leer
 
 # Joachim Fuchsberger
@@ -761,12 +761,12 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### Noam Chomsky about Julian Assange - 20200924
 
-> [...]
-> Assange is not on trial for skateboarding in the Ecuadorian embassy, for tweeting, for calling Hillary Clinton a war hawk, or for having an unkempt beard as he was dragged into detention by British police. Assange faces extradition to the United States because he published incontrovertible proof of war crimes and abuses in Iraq and Afghanistan, embarrassing the most powerful nation on Earth.
-> [...]
-> When setting a gravely dangerous precedent, governments don’t typically persecute the most beloved individuals in the world. They target those who can be portrayed as subversive, unpatriotic – or simply weird. Then they actively distort public debate by emphasizing those traits.
-> [...]
-> These techniques are not new. After Daniel Ellsberg leaked the Pentagon Papers to journalists to expose the US government’s lies about Vietnam, the Nixon administration’s “White House Plumbers” broke into Ellsberg’s psychiatrist’s office in search of material that could be used to discredit him. NSA whistleblower Edward Snowden was falsely portrayed as collaborating with the Chinese, then the Russians. Obsession with military intelligence analyst Manning’s mental health and gender identity was ubiquitous. By demonizing the messenger, governments seek to poison the message.
+> [...]  
+> Assange is not on trial for skateboarding in the Ecuadorian embassy, for tweeting, for calling Hillary Clinton a war hawk, or for having an unkempt beard as he was dragged into detention by British police. Assange faces extradition to the United States because he published incontrovertible proof of war crimes and abuses in Iraq and Afghanistan, embarrassing the most powerful nation on Earth.  
+> [...]  
+> When setting a gravely dangerous precedent, governments don’t typically persecute the most beloved individuals in the world. They target those who can be portrayed as subversive, unpatriotic – or simply weird. Then they actively distort public debate by emphasizing those traits.  
+> [...]  
+> These techniques are not new. After Daniel Ellsberg leaked the Pentagon Papers to journalists to expose the US government’s lies about Vietnam, the Nixon administration’s “White House Plumbers” broke into Ellsberg’s psychiatrist’s office in search of material that could be used to discredit him. NSA whistleblower Edward Snowden was falsely portrayed as collaborating with the Chinese, then the Russians. Obsession with military intelligence analyst Manning’s mental health and gender identity was ubiquitous. By demonizing the messenger, governments seek to poison the message.  
 > [...]
 
 [source: independent.co.uk](https://www.independent.co.uk/voices/julian-assange-trial-us-trump-chelsea-manning-chomsky-walker-b420930.html)
@@ -829,22 +829,22 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### M.R. 20210825
 
-> Wir arbeiten Hand in Hand.
+> Wir arbeiten Hand in Hand.  
 > Was die rechte Hand nicht schafft, lässt die linke Hand liegen.
 
 ### S.L. 20210831
 
-> Ha!
-> Uh!
-> En Geh Er
+> Ha!  
+> Uh!  
+> En Geh Er  
 > 
-> Ha!
-> Uh!
-> En Geh Er
+> Ha!  
+> Uh!  
+> En Geh Er  
 > 
-> Ha!
-> Uh
-> En Geh Er
+> Ha!  
+> Uh  
+> En Geh Er  
 > 
 > Mein Magen fühlt sich an so leer.
 
@@ -878,8 +878,8 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### Ein Kind zum Arzt
 
-> Woher wollen Sie denn wissen wie es sich anfühlt?
-> Ich liebe in meinem Körper, nicht Sie!
+> Woher wollen Sie denn wissen wie es sich anfühlt?  
+> Ich lebe in meinem Körper, nicht Sie!
 
 ### FeFe - 20220619T:20020710
 
@@ -913,28 +913,28 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### Bettina Wegner - Kinder (sind so kleine Hände)
 
-> Sind so kleine Hände, winzige Finger dran
-> Darf man nie drauf schlagen, die zerbrechen dann
+> Sind so kleine Hände, winzige Finger dran  
+> Darf man nie drauf schlagen, die zerbrechen dann  
 > 
-> Sind so kleine Füße, mit so kleinen Zehen
-> Darf man nie drauf treten, können sonst nicht gehen
+> Sind so kleine Füße, mit so kleinen Zehen  
+> Darf man nie drauf treten, können sonst nicht gehen  
 > 
-> Sind so kleine Ohren, scharf - und ihr erlaubt
-> Darf man nie zerbrüllеn, werden davon taub
+> Sind so kleine Ohren, scharf - und ihr erlaubt  
+> Darf man nie zerbrüllеn, werden davon taub  
 > 
-> Sind so schöne Mündеr, sprechen alles aus
-> Darf man nie verbieten, kommt sonst nichts mehr 'raus
+> Sind so schöne Mündеr, sprechen alles aus  
+> Darf man nie verbieten, kommt sonst nichts mehr 'raus  
 > 
-> Sind so klare Augen, die noch alles sehen
-> Darf man nie verbinden, können sie nichts verstehen
+> Sind so klare Augen, die noch alles sehen  
+> Darf man nie verbinden, können sie nichts verstehen  
 > 
-> Sind so kleine Seelen, offen und ganz frei
-> Darf man niemals quälen, gehen kaputt dabei
+> Sind so kleine Seelen, offen und ganz frei  
+> Darf man niemals quälen, gehen kaputt dabei  
 > 
-> Ist so ein kleines Rückgrat, sieht man fast noch nicht
-> Darf man niemals beugen, weil es sonst zerbricht
+> Ist so ein kleines Rückgrat, sieht man fast noch nicht  
+> Darf man niemals beugen, weil es sonst zerbricht  
 > 
-> Gerade, klare Menschen wären ein schönes Ziel
+> Gerade, klare Menschen wären ein schönes Ziel  
 > Leute ohne Rückgrat haben wir schon zuviel
 
 ### Robert Bosch (1931?)
@@ -995,17 +995,17 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 #### Johannes Heil - Die eigene Achse (1997)
 
-> Das was wir hier haben ist eine neue Geschichte,
-> auf einem neuen DAT.
+> Das was wir hier haben ist eine neue Geschichte,  
+> auf einem neuen DAT.  
 > 
-> Neue Erkenntnisse eines Menschenlebens.
-> In der Natur des Menschen lebt die Veränderung und ist in ständigem Wandel.
+> Neue Erkenntnisse eines Menschenlebens.  
+> In der Natur des Menschen lebt die Veränderung und ist in ständigem Wandel.  
 > 
-> In der Natur des Menschen gibt es keine geraden Linien, es gibt da nur Kreise oder ein paar Wellen.
-> Und wenn sich aus einer Welle ein Kreis bildet, dann bildet sich die eigene Achse
+> In der Natur des Menschen gibt es keine geraden Linien, es gibt da nur Kreise oder ein paar Wellen.  
+> Und wenn sich aus einer Welle ein Kreis bildet, dann bildet sich die eigene Achse  
 > 
-> dann bildet sich die eigene Achse
-> dann bildet sich die eigene Achse
+> dann bildet sich die eigene Achse  
+> dann bildet sich die eigene Achse  
 > dann bildet sich die eigene Achse
 
 [source: youtube.com](https://www.youtube.com/watch?v=TfysqJl9OsU) - 20230814
@@ -1033,21 +1033,21 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 > Was hier seit Februar 2022 über den Krieg zwischen Russland und der Ukraine steht, gilt seit Oktober 2023 entsprechend für den Krieg im Nahen Osten (und prinzipiell für jeden anderen).
 > 
-> Wo auch immer Sie sind, mit wem auch immer Sie reden:
-> Tragen Sie dazu bei, dass der Krieg der Waffen und der Krieg der Worte aufhören!
-> Heften Sie Ihrem Friedenswunsch keine Flagge und kein religiöses Symbol an!
-> Werben Sie für Verhandeln statt Drohen!
-> Schaffen Sie Räume für gesichtswahrende Rückzüge!
-> Nichts ist wichtiger, als den Krieg zu begrenzen und zu beenden.
+> Wo auch immer Sie sind, mit wem auch immer Sie reden:  
+> Tragen Sie dazu bei, dass der Krieg der Waffen und der Krieg der Worte aufhören!  
+> Heften Sie Ihrem Friedenswunsch keine Flagge und kein religiöses Symbol an!  
+> Werben Sie für Verhandeln statt Drohen!  
+> Schaffen Sie Räume für gesichtswahrende Rückzüge!  
+> Nichts ist wichtiger, als den Krieg zu begrenzen und zu beenden.  
 > In Ihrem ureigensten, existenziellen Interesse.
 
 [source: twasbo.de](https://twasbo.de/die-gebote-der-stunde/) - 20231018
 
 ### Dead Prez - Hip Hop (1998)
 
-> You can be next in line and signed and still be writing rhymes and broke
-> You would rather have a Lexus or justice?
-> A dream or some substance?
+> You can be next in line and signed and still be writing rhymes and broke  
+> You would rather have a Lexus or justice?  
+> A dream or some substance?  
 > A Bimmer, a necklace or freedom?
 
 [source: genius.com](https://genius.com/Dead-prez-hip-hop-lyrics) - 20231027
@@ -1060,21 +1060,21 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### FeFe über unnötigen Dauerstress in der Jetztzeit (2023)
 
-> Ich vermisse die Fernsehserien von früher. Auch die Filme von früher.
+> Ich vermisse die Fernsehserien von früher. Auch die Filme von früher.  
 > 
-> Da waren die Episoden weitgehend unabhängig voneinander. Du hattest eine Prämisse, z.B. Columbo klärt Fälle auf, und dann hat der halt in jeder Episode einen Fall aufgeklärt. Die waren unabhängig. Am Ende gab jeder Episode gab es einen befriedigenden Abschluss.
+> Da waren die Episoden weitgehend unabhängig voneinander. Du hattest eine Prämisse, z.B. Columbo klärt Fälle auf, und dann hat der halt in jeder Episode einen Fall aufgeklärt. Die waren unabhängig. Am Ende gab jeder Episode gab es einen befriedigenden Abschluss.  
 > 
-> Die Episoden waren schön, und daher wollte man dann nächste Woche wieder eine haben und blieb der Serie treu.
+> Die Episoden waren schön, und daher wollte man dann nächste Woche wieder eine haben und blieb der Serie treu.  
 > 
-> Heute hingegen gibt es keinen Abschluss, schon gar keinen befriedigenden. Nicht nur ist jede Staffel im Wesentlichen ein Cliffhanger für die nächste Staffel, seit den Streamingdiensten ist auch jede Episode ein Cliffhanger für die nächste. Es gibt überhaupt keinen Moment in so einer Serie, wo man nicht künstlich unter Stress gesetzt wird.
+> Heute hingegen gibt es keinen Abschluss, schon gar keinen befriedigenden. Nicht nur ist jede Staffel im Wesentlichen ein Cliffhanger für die nächste Staffel, seit den Streamingdiensten ist auch jede Episode ein Cliffhanger für die nächste. Es gibt überhaupt keinen Moment in so einer Serie, wo man nicht künstlich unter Stress gesetzt wird.  
 > 
-> Und in den Episoden gibt es dann weitere künstliche Stressmaximierung wie überflüssige Verfolgungsjagden, Spannungsmusik wenn jemand in einer fucking Lobby steht und nach dem Chef der Firma fragt, um ihn zu befragen. Spannungsmusik immer und überall. Und nie ist irgendwas abgeschlossen.
+> Und in den Episoden gibt es dann weitere künstliche Stressmaximierung wie überflüssige Verfolgungsjagden, Spannungsmusik wenn jemand in einer fucking Lobby steht und nach dem Chef der Firma fragt, um ihn zu befragen. Spannungsmusik immer und überall. Und nie ist irgendwas abgeschlossen.  
 > 
-> Mir tut ja die Generation leid, die mit dem Scheiß aufwächst. Die werden alle mit 40 einen Herzinfarkt kriegen, soviel künstlichem Stress wie die ausgesetzt sind.
+> Mir tut ja die Generation leid, die mit dem Scheiß aufwächst. Die werden alle mit 40 einen Herzinfarkt kriegen, soviel künstlichem Stress wie die ausgesetzt sind.  
 > 
-> Außerhalb der Filme und Serien ist ja auch alles auf Stressmaximierung ausgelegt mit Social Media und so weiter. Früher ging man abends mit Kumpels in die Kneipe oder spielte Skat, wobei es aber nicht darum ging, wer gewinnt, sondern dass alle Spaß hatten.
+> Außerhalb der Filme und Serien ist ja auch alles auf Stressmaximierung ausgelegt mit Social Media und so weiter. Früher ging man abends mit Kumpels in die Kneipe oder spielte Skat, wobei es aber nicht darum ging, wer gewinnt, sondern dass alle Spaß hatten.  
 > 
-> Heute? STRESS STRESS STRESS!!!
+> Heute? STRESS STRESS STRESS!!!  
 > 
 > Sehr bedauerlich.
 
@@ -1203,9 +1203,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### Reddit - 20250412
 
-> Schweigen ist Gold.
+> Schweigen ist Gold.  
 > 
-> Reden ist Silber.
+> Reden ist Silber.  
 > 
 > Schellen sind Kupfer.
 
@@ -1312,7 +1312,7 @@ Kategorie: "mutig"
 
 > Fernsehen macht blöd, weil es keinen Platz für eigene Gedanken lässt.
 
-Sei mutig, ersetze "Fernsehen" mit "Medien".
+Sei mutig, ersetze "Fernsehen" mit "Medien".  
 Sei mutiger, ersetze "Medien" mit "Konsum".
 
 ### Unbekannt
@@ -1348,8 +1348,8 @@ Could be shorten to:
 
 ### The Internet 20260121
 
-> Sich elend zu fühlen, wenn man krank ist, ist ein wichtiges Signal des Körpers.
-> Die meisten, gefühlten Krankheitssymptome sind Nebenwirkung einer erhöhten Aktivität ihres Immunsystems.
+> Sich elend zu fühlen, wenn man krank ist, ist ein wichtiges Signal des Körpers.  
+> Die meisten, gefühlten Krankheitssymptome sind Nebenwirkung einer erhöhten Aktivität ihres Immunsystems.  
 > Wenn das Immunsystem aufhört zu arbeiten, fühlt man sich kurzfristig besser, die Krankheit ist aber noch da und der Körper wird daran sterben.
 
 ### The Internet 20260122
@@ -1390,9 +1390,9 @@ Could be shorten to:
 
 ### Joseph DeChangeman - 20251125
 
-> [...] Weil das Gehirn stark auf den Dopaminkick durch Zucker und Fett reagiert.
-> Wenn Andere in der Nähe naschen, entsteht [...] sozialder Druck [...]
-> Dazu kommt, dass unsere Willenskraft übermüdet, wenn man ständig Versuchungen wiederstehen muss.
-> Vor allem, wenn Snacks bereitliegen [...]
+> [...] Weil das Gehirn stark auf den Dopaminkick durch Zucker und Fett reagiert.  
+> Wenn Andere in der Nähe naschen, entsteht [...] sozialder Druck [...]  
+> Dazu kommt, dass unsere Willenskraft übermüdet, wenn man ständig Versuchungen wiederstehen muss.  
+> Vor allem, wenn Snacks bereitliegen [...]  
 
 [source: youtube.com](https://youtu.be/Cac8dGDLHPA?t=1012) - 20260402
