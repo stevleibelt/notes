@@ -94,15 +94,15 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### The Internet
 
-[source](https://duckduckgo.com/?q=there+is+no+cloud.+it%27s+just+someone+else%27s+computer&t=ffab&ia=web)
-
 > There is no cloud. It's just someone else's computer.
+
+[source: duckduckgo.com](https://duckduckgo.com/?q=there+is+no+cloud.+it%27s+just+someone+else%27s+computer&t=ffab&ia=web)
 
 ### Yonatan Zunger
 
-[source](https://extranewsfeed.com/tolerance-is-not-a-moral-precept-1af7007d6376)
-
 > [Tolerance] is an agreement to live in peace, not an agreement to be peaceful no matter the conduct of others. A peace treaty is not a suicide pact.
+
+[source: extranewsfeed.com](https://extranewsfeed.com/tolerance-is-not-a-moral-precept-1af7007d6376)
 
 ### Kevlin Henney (#OOP2017)
 
@@ -622,9 +622,9 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### What you need to know about burnout
 
-[Quelle](https://opensource.com/article/19/11/burnout-open-source-communities)
-
 > We don't need heroes; we need people willing to collaborate, to listen, and to mentor junior team members.
+
+[source: opensource.com](https://opensource.com/article/19/11/burnout-open-source-communities)
 
 ### SL
 
@@ -632,9 +632,9 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### kuketz-blog.de
 
-[Quelle](https://www.kuketz-blog.de/digitaler-hustensaft-ein-kommentar-zum-scheitern-der-e-privacy-verordnung/)
-
 > Webtracking dient allein dazu Menschen identifizierbar zu machen
+
+[source: kuketz-blog.de](https://www.kuketz-blog.de/digitaler-hustensaft-ein-kommentar-zum-scheitern-der-e-privacy-verordnung/)
 
 ### SL - 2020-03-18
 
@@ -649,16 +649,16 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### Mein Name ist COVID – 19 und ich bin hier um euch an etwas zu erinnern
 
-[Quelle](https://npr.news.eulu.info/2020/03/22/mein-name-ist-covid-19-und-ich-bin-hier-um-euch-an-etwas-zu-erinnern/)
-
 > Lebt eure Leben so einfach wie nur möglich, geht langsam, atmet tief, tut Gutes, genießt die Natur, tut was euch gefällt und erfüllt. [...]
+
+[source: eulu.info](https://npr.news.eulu.info/2020/03/22/mein-name-ist-covid-19-und-ich-bin-hier-um-euch-an-etwas-zu-erinnern/)
 
 ### M.R. - 2020-05-14
 
-[Quelle](https://de.wikipedia.org/wiki/Liste_gefl%C3%BCgelter_Worte/G#Gehe_nie_zu_deinem_Ferscht,_wenn_du_nicht_gerufen_werscht.)
-
 > Gehe nicht zu einem Ferscht,
 > Wenn du nicht gerufen werscht.
+
+[source: wikipedia.org](https://de.wikipedia.org/wiki/Liste_gefl%C3%BCgelter_Worte/G#Gehe_nie_zu_deinem_Ferscht,_wenn_du_nicht_gerufen_werscht.)
 
 ### V.B. - 2020-06-11
 
@@ -675,9 +675,9 @@ Ich finde, erst wenn man alle drei Fragen zufriedenstellend mit "ja" beantworten
 
 ### José Pepe Mujica
 
-[Quelle](https://netzfrauen.org/2020/06/25/jose-mujica-2/)
-
 > [...] wir sollten nicht durch die Zeit hetzen, denn das Leben ist das einzige Wunder, das wir haben. Das einzige Wunder für jeden von uns ist, geboren zu werden.
+
+[source: netzfrauen.org](https://netzfrauen.org/2020/06/25/jose-mujica-2/)
 
 ### S.L. - 2020-07-02
 
@@ -727,9 +727,9 @@ Rammstein, danke für eure Musik!
 
 # Iruwen - 2020-08-03
 
-[Quelle](https://forum.golem.de/kommentare/security/sicherheitsluecke-abus-alarmanlage-aus-der-ferne-ausgeknipst/wer-sich-etwas-kauft.../136685,5715181,5715181,read.html#msg-5715181)
-
 > Also wirklich, gar nichts Gutes. Komplette Kernscheiße.
+
+[source: golem.de](https://forum.golem.de/kommentare/security/sicherheitsluecke-abus-alarmanlage-aus-der-ferne-ausgeknipst/wer-sich-etwas-kauft.../136685,5715181,5715181,read.html#msg-5715181)
 
 # S.L. - 2020-08-25
 
@@ -737,9 +737,9 @@ Rammstein, danke für eure Musik!
 
 # Felix von Leitner - 2020-08-25
 
-[Quelle](https://www.heise.de/hintergrund/Entwicklung-Warum-Rust-die-Antwort-auf-miese-Software-und-Programmierfehler-ist-4879795.html)
-
 > Softwareentwicklung ist in der Praxis daher immer eine Iteration.
+
+[source: heise.de](https://www.heise.de/hintergrund/Entwicklung-Warum-Rust-die-Antwort-auf-miese-Software-und-Programmierfehler-ist-4879795.html)
 
 ### Friedrich Nietzsche
 
@@ -761,8 +761,6 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### Noam Chomsky about Julian Assange - 20200924
 
-[source](https://www.independent.co.uk/voices/julian-assange-trial-us-trump-chelsea-manning-chomsky-walker-b420930.html)
-
 > [...]
 > Assange is not on trial for skateboarding in the Ecuadorian embassy, for tweeting, for calling Hillary Clinton a war hawk, or for having an unkempt beard as he was dragged into detention by British police. Assange faces extradition to the United States because he published incontrovertible proof of war crimes and abuses in Iraq and Afghanistan, embarrassing the most powerful nation on Earth.
 > [...]
@@ -770,6 +768,8 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 > [...]
 > These techniques are not new. After Daniel Ellsberg leaked the Pentagon Papers to journalists to expose the US government’s lies about Vietnam, the Nixon administration’s “White House Plumbers” broke into Ellsberg’s psychiatrist’s office in search of material that could be used to discredit him. NSA whistleblower Edward Snowden was falsely portrayed as collaborating with the Chinese, then the Russians. Obsession with military intelligence analyst Manning’s mental health and gender identity was ubiquitous. By demonizing the messenger, governments seek to poison the message.
 > [...]
+
+[source: independent.co.uk](https://www.independent.co.uk/voices/julian-assange-trial-us-trump-chelsea-manning-chomsky-walker-b420930.html)
 
 ### J.T. 2020-10-20 23:19
 
@@ -781,12 +781,11 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### Babette
 
-[Quelle](http://screen-production.de/und-sonst/)
-
 > Is' schon viel Schönes bei
 
-### Unknown
+[source: screen-production.de](http://screen-production.de/und-sonst/)
 
+### Unknown
 
 > Bei Rucola fehlt doch ein m.
 
@@ -796,9 +795,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### FeFe
 
-[source](https://blog.fefe.de/?ts=9e9b5d92)
-
 > Modernisieren ist das neue Harmonisieren und davor war es das Reformieren! Das ist alles Geldverbrennung, solange ihr immer nur dieselben Fäkalien einmal durchrührt.
+
+[source: fefe.de](https://blog.fefe.de/?ts=9e9b5d92)
 
 ### C.D. from Schlafanfall Boois - 20210504
 
@@ -806,27 +805,27 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### Kelsey and todd Coolahan - 20210503
 
-[source](https://www.youtube.com/watch?v=gArx_BjXeBY)
-
 > all love! kill hate with love! racism needs to end ! these kids aren't seeing color no more and I love it!
+
+[source: youtube.com](https://www.youtube.com/watch?v=gArx_BjXeBY)
 
 ### Nick Srnicek
 
-[source](https://www.theverge.com/2021/6/17/22538160/ai-camera-smile-recognition-office-workers-china-canon)
-
 > [...] Technologies are increasing the pace for people who work with machines instead of the other way around [...]
+
+[source: theverge.com](https://www.theverge.com/2021/6/17/22538160/ai-camera-smile-recognition-office-workers-china-canon)
 
 ### Thalix
 
-[source](https://www.heise.de/forum/heise-online/Kommentare/Forscher-decken-Fehler-in-Telegrams-Verschluesselung-auf/Sicherheit-ist-kein-Status-sondern-ein-Prozess/posting-39291497/show/)
-
 > Sicherheit ist kein Status sondern ein Prozess.
+
+[source: heise.de](https://www.heise.de/forum/heise-online/Kommentare/Forscher-decken-Fehler-in-Telegrams-Verschluesselung-auf/Sicherheit-ist-kein-Status-sondern-ein-Prozess/posting-39291497/show/)
 
 ### FeFe 20210812
 
-[source](https://blog.fefe.de/?ts=9febc2aa)
-
 > Komplexität verursacht Bugs. Völlig überraschend, seit es in den 1970er Jahren herausgefunden wurde.
+
+[source: fefe.de](https://blog.fefe.de/?ts=9febc2aa)
 
 ### M.R. 20210825
 
@@ -867,15 +866,15 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### FeFe - 20220510T13:34:10
 
-[source](https://blog.fefe.de/?ts=9c84fd8c)
-
 > Idioten von ihrem Geld trennen ist das zweitälteste Geschäftsmodell der Welt. 
+
+[source: fefe.de](https://blog.fefe.de/?ts=9c84fd8c)
 
 ### Weltnetz TV - 20220523T11:51:50
 
-[source](https://weltnetz.tv/video/2665-aller-reichtum-der-erde-kann-ihren-durst-nicht-stillen)
-
 > Rüstungs-, Lebensmittel-, Energie-, Chemie- und Autokonzerne streichen derzeit astronomische Profite ein. Wetten auf steigende Weizenpreise sind seit der Coronakrise ein lukratives Geschäft für Börsenzocker. Warum billige russische Energie kaufen? Lieber beschert unsere Regierung den Aktionären des schmutzigen Fracking-Öls aus USA traumhafte Renditen. Warum Spekulationen auf Lebensmittel verbieten? Lieber lässt uns unsere Regierung hungern für den Krieg in der Ukraine. Warum auf Verhandlungen mit Russland setzen? Lieber verschafft unsere Regierung den Rüstungskonzernen Aufträge in Milliardenhöhe. Denn: Aller Reichtum der Erde kann ihren Durst nicht stillen!
+
+[source: weltnetz.tv](https://weltnetz.tv/video/2665-aller-reichtum-der-erde-kann-ihren-durst-nicht-stillen)
 
 ### Ein Kind zum Arzt
 
@@ -884,9 +883,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### FeFe - 20220619T:20020710
 
-[source](https://blog.fefe.de/?ts=9c51c729)
-
 > Die FDP sind Kapitalisten und bei Kapitalisten ist die Umwelt eine kostenlos nutzbare Ressource, wohin man seinen Giftmüll verklappt.
+
+[source: fefe.de](https://blog.fefe.de/?ts=9c51c729)
 
 ### Unknown
 
@@ -902,15 +901,15 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### Mark Benecke - 20220803
 
-[source](https://youtu.be/Z_p9yYXZuCI?t=1747)
-
 > Wem interessiert menschliche Intelligenz? Das ist keine Wärung auf dem Planeten Erde. Die einzige Wärung auf dem Planeten Erde ist Kalorin!
+
+[source: youtu.be](https://youtu.be/Z_p9yYXZuCI?t=1747)
 
 ### Schwerdtfegr - 20220824
 
-[source](https://schwerdtfegr.wordpress.com/2022/08/24/zitat-des-tages-217/)
-
 > Ich erlebe schon auch, dass die Kommunikation zwischen Leuten, die publizieren und Leuten, die rezipieren, inzwischen nur noch auf den social media abläuft, genauso wie überhaupt das ganze Internet. Weil es einfacher ist, was ja für sehr viele Leute ein zentrales Argument darstellt. Wahrscheinlich gibt es heute genausoviele Nerds mit HTML-Kenntnissen wie 1994 und genausoviele Webseitenbetreiber wie 2008, aber dazu sind eben alle anderen gekommen, die zuvor eher Tageszeitungen in leichter Sprache oder Fernsehnachrichten mit lustigen Bildern gewohnt waren
+
+[source: wordpress.com](https://schwerdtfegr.wordpress.com/2022/08/24/zitat-des-tages-217/)
 
 ### Bettina Wegner - Kinder (sind so kleine Hände)
 
@@ -944,9 +943,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### Elisabeth Kübler-Ross
 
-[Quelle](https://youtu.be/Ah65G95w6q0?t=473)
-
 > Wenn man sich länger als 15 Sekunden ärgert, dann sind es die eigenen, unerledigten Geschäfte.
+
+[source: youtu.be](https://youtu.be/Ah65G95w6q0?t=473)
 
 ### S.L. (20221011T07:32:30)
 
@@ -962,41 +961,39 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### Fefe 202302024
 
-[Quelle](http://blog.fefe.de/?ts=9d063859) - 20230227
-
 > Das Kostenargument würde ich aber nicht gelten lassen. Es wird auf jeden Fall billiger als wenn wir den Planeten evakuieren müssen, weil der Klimawandel ein Überleben unserer Spezies nicht zulässt.
+
+[source: fefe.de](http://blog.fefe.de/?ts=9d063859) - 20230227
 
 #### Fefe 20230313
 
-[Quelle](http://blog.fefe.de/?ts=9af1cbd6) - 20230314
-
 > Unsere Welt ist komisch. Wir kapieren einfach nicht, dass jemand die Rechnung zahlen muss, wenn jemand Anderes günstig reich wird.
+
+[source: fefe.de](http://blog.fefe.de/?ts=9af1cbd6) - 20230314
 
 #### FeFe 20230404
 
-[Quelle](http://blog.fefe.de/?ts=9ad24b90) - 20230404
-
 > Stellt sich nämlich raus, dass Freiheit heißt, dass man ab und zu Dinge tun kann, die nicht verfolgt werden. Das Leben ist lebenswert, weil nicht alle Verstöße verfolgt werden.
+
+[source: fefe.de](http://blog.fefe.de/?ts=9ad24b90) - 20230404
 
 #### FeFe 20230409
 
-[Quelle](https://blog.fefe.de/?ts=9acc64da) - 20230409
-
 > Das Geschäftsmodell der Cloud ist, dich mit mit von Open-Source-Projekten geklauten Diensten und Lockpreisen dazu zu bringen, deine eigene Infrastruktur aufzugeben, und deinen Scheiß komplett in die Cloud zu schieben, und so eine nicht auflösbare Abhängigkeit zu schaffen.
+
+[source: fefe.de](https://blog.fefe.de/?ts=9acc64da) - 20230409
 
 #### Chris's Wiki::blog
 
-[Quelle](https://utcc.utoronto.ca/~cks/space/blog/programming/OnHTMLViaStringTemplates) - 20230526
-
 > when people keep doing it wrong, the people are right and your system or idea is wrong
+
+[source: utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/OnHTMLViaStringTemplates) - 20230526
 
 #### John Wick 4 (Minute 25 oder so)
 
 > Freundschaft bedeutet wenig, wenn sie nur bequem ist
 
 #### Johannes Heil - Die eigene Achse (1997)
-
-[Quelle: youtube.de](https://www.youtube.com/watch?v=TfysqJl9OsU) - 20230814
 
 > Das was wir hier haben ist eine neue Geschichte,
 > auf einem neuen DAT.
@@ -1011,28 +1008,28 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 > dann bildet sich die eigene Achse
 > dann bildet sich die eigene Achse
 
-#### Kohei Saito
+[source: youtube.com](https://www.youtube.com/watch?v=TfysqJl9OsU) - 20230814
 
-[Quelle](https://tuxproject.de/blog/2023/09/kapitalismus-das-mem-des-ueberflusses/) - 20230914
+#### Kohei Saito
 
 > So kam ich zu der Erkenntnis, dass wir tatsächlich eine neue Art von Überfluss brauchen. – Es geht nicht darum, mehr Materialien zu verbrauchen, mehr Produkte zu konsumieren, nicht um mehr Geld. Es geht darum, gemeinschaftliches Kulturwissen zu bereichern, darum, etwas zu teilen; Menschen empfinden dann Freude und Glück.
 
-#### Office for the Preservation of Normalcy
+[source: tuxproject.de](https://tuxproject.de/blog/2023/09/kapitalismus-das-mem-des-ueberflusses/) - 20230914
 
-[Quelle](https://preservationofnormalcy.tumblr.com/post/723924391486013440/i-feel-confident-enough-to-post-these-now-a) - 20230911
-[Gefunden in](https://tuxproject.de/blog/2023/09/liegengebliebenes-vom-20-september-2023/) - 20230921
+#### Office for the Preservation of Normalcy
 
 > Be kind, don’t rewind time
 
-### Neues aus dem Fernsehrat (102): Fusionen sind noch keine Reformen 
+[source: tumblr.com](https://preservationofnormalcy.tumblr.com/post/723924391486013440/i-feel-confident-enough-to-post-these-now-a) - 20230911
+[source: tuxproject.de](https://tuxproject.de/blog/2023/09/liegengebliebenes-vom-20-september-2023/) - 20230921
 
-[Quelle](https://netzpolitik.org/2023/neues-aus-dem-fernsehrat-102-fusionen-sind-noch-keine-reformen/) - 20231017
+### Neues aus dem Fernsehrat (102): Fusionen sind noch keine Reformen 
 
 > Wie bei der Kernfusion braucht es auch bei Unternehmensfusionen erstmal hohe Investitionen mit ungewissem Ausgang.
 
-### Das Gebot der Stunde
+[source: netzpolitik.org](https://netzpolitik.org/2023/neues-aus-dem-fernsehrat-102-fusionen-sind-noch-keine-reformen/) - 20231017
 
-[Quelle](https://twasbo.de/die-gebote-der-stunde/) - 20231018
+### Das Gebot der Stunde
 
 > Was hier seit Februar 2022 über den Krieg zwischen Russland und der Ukraine steht, gilt seit Oktober 2023 entsprechend für den Krieg im Nahen Osten (und prinzipiell für jeden anderen).
 > 
@@ -1044,24 +1041,24 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 > Nichts ist wichtiger, als den Krieg zu begrenzen und zu beenden.
 > In Ihrem ureigensten, existenziellen Interesse.
 
-### Dead Prez - Hip Hop (1998)
+[source: twasbo.de](https://twasbo.de/die-gebote-der-stunde/) - 20231018
 
-[Quelle](https://genius.com/Dead-prez-hip-hop-lyrics) - 20231027
+### Dead Prez - Hip Hop (1998)
 
 > You can be next in line and signed and still be writing rhymes and broke
 > You would rather have a Lexus or justice?
 > A dream or some substance?
 > A Bimmer, a necklace or freedom?
 
-### tux0r's Antwort auf eine Meldung zum politischen Neusprech "sparen"
+[source: genius.com](https://genius.com/Dead-prez-hip-hop-lyrics) - 20231027
 
-[Quelle](https://det.social/@goebelmasse/111487947256992889) - 20231129
+### tux0r's Antwort auf eine Meldung zum politischen Neusprech "sparen"
 
 > Vorbildlich: Obdachlose sparen sich die Miete
 
-### FeFe über unnötigen Dauerstress in der Jetztzeit (2023)
+[source: det.social](https://det.social/@goebelmasse/111487947256992889) - 20231129
 
-[Quelle](http://blog.fefe.de/?ts=9b7e96ca) - 20231219
+### FeFe über unnötigen Dauerstress in der Jetztzeit (2023)
 
 > Ich vermisse die Fernsehserien von früher. Auch die Filme von früher.
 > 
@@ -1081,56 +1078,58 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 > 
 > Sehr bedauerlich.
 
-### Francis Picabia
+[source: fefe.de](http://blog.fefe.de/?ts=9b7e96ca) - 20231219
 
-[Quelle](https://netzpolitik.org/2024/oeffentliches-geld-oeffentliches-gut-museum-oeffne-dich/) - 20240107
+### Francis Picabia
 
 > Unser Kopf ist rund, damit das Denken die Richtung wechseln kann
 
-### Dave Whittle
+[source: netzpolitik.org](https://netzpolitik.org/2024/oeffentliches-geld-oeffentliches-gut-museum-oeffne-dich/) - 20240107
 
-[Quelle](https://www.quora.com/Why-did-IBMs-OS-2-project-lose-to-Microsoft-given-that-IBM-had-much-more-resources-than-Microsoft-at-that-time) - 20240111
+### Dave Whittle
 
 > A market is just like water - always flowing downhill following the easiest path it can find.
 
-### Kuketz
+[source: quora.com](https://www.quora.com/Why-did-IBMs-OS-2-project-lose-to-Microsoft-given-that-IBM-had-much-more-resources-than-Microsoft-at-that-time) - 20240111
 
-[Quelle](https://www.kuketz-blog.de/waechter-der-eigenen-daten-mein-digitaler-schutzschild-teil-1/) - 20240130
+### Kuketz
 
 > Wirklich frei ist nur, wer unbeobachtet ist.
 
-### hirnfick 2.0
+[source: kuketz-blog.de](https://www.kuketz-blog.de/waechter-der-eigenen-daten-mein-digitaler-schutzschild-teil-1/) - 20240130
 
-[Quelle](https://tuxproject.de/blog/2024/03/wahlkampf-ist-hass/) - 20240308
+### hirnfick 2.0
 
 > Politiker, die tag­ein, tag­aus den multimedialen Wahl­kampf betreiben, obwohl noch gar keine Wahl statt­findet, sind lästig.
 
-### FeFe
+[source: tuxproject.de](https://tuxproject.de/blog/2024/03/wahlkampf-ist-hass/) - 20240308
 
-[Quelle](http://blog.fefe.de/?ts=9b0eebc2) - 20240312
+### FeFe
 
 > Wenn deine Lösung mehr als eine Seite Beschreibung braucht, ist es keine Lösung sondern ein neues Problem.
 
-### Katika Kühnreich - Gamifiwas?
+[source: fefe.de](http://blog.fefe.de/?ts=9b0eebc2) - 20240312
 
-[Quelle](https://media.ccc.de/v/dgwk2024-56185-den-planet-einfach-brenne#t=1402) - 20240325
+### Katika Kühnreich - Gamifiwas?
 
 > Du bist nicht die Person, die die Wurst kauft in der Metzgerei, sondern das Schwein.
 > Alles umsonst, bis sie dich zerhacken und verkaufen.
 > ...
 > [...] Das seit den 1980-ziger Jahren die Verantwortung vom System auf das Individuum umgeschoben wurde. [...] Nicht das System ist daran schuld, dass es Arbeitslose gibt, sondern du, weil du keine Arbeit findest
 
-### FeFe
+[source: ccc.de](https://media.ccc.de/v/dgwk2024-56185-den-planet-einfach-brenne#t=1402) - 20240325
 
-[Quelle](https://blog.fefe.de/?ts=98f665b0) - 20240331
+### FeFe
 
 > Der 19. ist ja eher eine Zeit für ein Besäufnis unter Freunden. Man fragt sich, wieso man seit der Volljährigkeit noch nicht weitergekommen ist. Wo bleibt eigentlich die geile Zukunft, die man sich vorgestellt hat? :-)
 
+[source: fefe.de](https://blog.fefe.de/?ts=98f665b0) - 20240331
+
 ### Kuketz
 
-[Quelle](https://www.kuketz-blog.de/ki-und-datenschutz-eine-kritische-betrachtung/) - 20240402
-
 > Die Vorstellung, dass KI ein Bewusstsein haben kann, ist ein Irrtum. Sie ist nur ein sehr glänzender Spiegel, der den Menschen das widerspiegelt, was wir sehen wollen.
+
+[source: kuketz-blog.de](https://www.kuketz-blog.de/ki-und-datenschutz-eine-kritische-betrachtung/) - 20240402
 
 ### S.L. "beim Salat machen" 20240421
 
@@ -1138,21 +1137,21 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### Andreas Scheffer - Neues aus dem Fernsehrat
 
-[Quelle](https://netzpolitik.org/2024/neues-aus-dem-fernsehrat-106-die-zuschauerinnen-sollen-selbst-mitkuratieren/) - 20240605
-
 > In der Welt des digitalen Überangebots suchen wir nach dem, was uns gefällt. Aber oft wissen wir gar nicht, was das ist.
+
+[source: netzpolitik.org](https://netzpolitik.org/2024/neues-aus-dem-fernsehrat-106-die-zuschauerinnen-sollen-selbst-mitkuratieren/) - 20240605
 
 ### Chris Siebenmann - Security is not really part of most people's jobs
 
-[Quelle](https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityNotPeoplesJob) - 20240627
-
 > [...] I feel that infosec should understand that "getting your job done" is everyone's first priority, because in this capitalistic society, not getting your job done gets you fired. You might get fired if you bypass IT security, but you definitely will if you can't do your work.
+
+[source: utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityNotPeoplesJob) - 20240627
 
 ### Neztpolitik.org - Die Renaissance des Handwerks
 
-[Quelle](https://netzpolitik.org/2024/soziale-medien-die-renaissance-des-handwerks/) - 20240629
-
 > Mitte der 1960er Jahre fand der französische Philosoph Guy Debord harte Worte für die westliche Gesellschaft: Die Menschen verlieren sich im Kaufrausch und oberflächlicher Unterhaltung. Je mehr Bilder sie konsumieren und sich dabei selbst zu Abbildern machen, desto weniger verstehen sie ihre Existenz und ihre wahren Bedürfnisse.
+
+[source: netzpolitik.org](https://netzpolitik.org/2024/soziale-medien-die-renaissance-des-handwerks/) - 20240629
 
 ### Lemmy Kilmister until 20151228
 
@@ -1160,9 +1159,9 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### Like a pair of old, worn-out shoes
 
-[Quelle](https://www.youtube.com/watch?v=OoxTygEG85c) - 20160120
-
 > Socks don’t protect my heart
+
+[source: youtube.com](https://www.youtube.com/watch?v=OoxTygEG85c) - 20160120
 
 ### Eddie Adams, Pulitzer Preis Gewinner, AP Fotograf
 
@@ -1170,33 +1169,33 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### jbrodiguez 2024-10-12
 
-[source](https://github.com/archzfs/archzfs/issues/545#issuecomment-2408630536) - 20241012
-
 > there are only 2 hard problems in computer science: naming things, cache invalidation and off-by-one errors
+
+[source: github.com](https://github.com/archzfs/archzfs/issues/545#issuecomment-2408630536) - 20241012
 
 ### hirnfick 2.0 2024-11-13
 
-[source](https://tuxproject.de/blog/2024/11/miniaturen-131124/) - 20241113
-
 > Jetzt kann nur noch die Bun­des­agen­tur für Sprung­in­no­va­tio­nen helfen!
+
+[source: tuxproject.de](https://tuxproject.de/blog/2024/11/miniaturen-131124/) - 20241113
 
 ### FeFe - 20241217
 
-[source](https://blog.fefe.de/?ts=999f50b3) - 20241217
-
 > Der Fachkräftemangel (der ja schon immer tatsächlich ein Gehaltsmangel war) [...]
+
+[source: fefe.de](https://blog.fefe.de/?ts=999f50b3) - 20241217
 
 ### FeFe - 20241210
 
-[source](https://blog.fefe.de/?ts=999bbf02) - 20241220
-
 > Angebot von Zustimmung abhängig machen ist verboten
+
+[source: fefe.de](https://blog.fefe.de/?ts=999bbf02) - 20241220
 
 ### FeFe - 20250324
 
-[source](https://blog.fefe.de/?ts=991fe837) - 20250324
-
 > Psychologen finden überall psychologische Effekte, selbst wenn sie sich mit einem Hund oder einem Kochtopf unterhalten.
+
+[source: fefe.de](https://blog.fefe.de/?ts=991fe837) - 20250324
 
 ### Unknown - 20250325
 
@@ -1204,17 +1203,15 @@ Ist als Schild im "[Petriturm](https://de.wikipedia.org/wiki/Stadtkirche_St._Pet
 
 ### Reddit - 20250412
 
-[source](https://www.reddit.com/r/wortwitzkasse/comments/1jxf7qf/comment/mmqflv3/) - 20250414
-
 > Schweigen ist Gold.
 > 
 > Reden ist Silber.
 > 
 > Schellen sind Kupfer.
 
-### Jan Böhmernann - Mit dem E-Scooter von Köln-Ehrenfeld nach Chemnitz - 20250507
+[source: reddit.com](https://www.reddit.com/r/wortwitzkasse/comments/1jxf7qf/comment/mmqflv3/) - 20250414
 
-[source](https://youtu.be/XP8bCEx5UW8?t=1126) - 20250507
+### Jan Böhmernann - Mit dem E-Scooter von Köln-Ehrenfeld nach Chemnitz - 20250507
 
 > Alle Wünsche werden klein, gegen den Wunsch gesund zu sein.
 
@@ -1222,21 +1219,21 @@ und
 
 > Einander ist alles was wir haben.
 
-### FeFe - 20250513
+[source: youtu.be](https://youtu.be/XP8bCEx5UW8?t=1126) - 20250507
 
-[source](https://blog.fefe.de/?ts=96df2b89) - 20250513
+### FeFe - 20250513
 
 > Der Schlüssel zum Glück im Leben ist, nur erreichbare Dinge zu erwarten.
 
-### reddit.com/u/GoldStarGamer11 - 20250515
+[source: fefe.de](https://blog.fefe.de/?ts=96df2b89) - 20250513
 
-[source](https://www.reddit.com/r/rareinsults/comments/1kn33y9/comment/msf87km/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) - 20250515
+### reddit.com/u/GoldStarGamer11 - 20250515
 
 > Precisely, and social media has made a bunch of non-rich people get themselves in a lot of debt to look and act rich, basically my point is social media has evolved into a cancer in our society 
 
-### reddit.com/r/AskReddit - People over 35, what's something you genuinely miss that younger generations will probably never experience? - 20250519
+[source: reddit.com](https://www.reddit.com/r/rareinsults/comments/1kn33y9/comment/msf87km/) - 20250515
 
-[source](I honestly can’t think of a net positive outcome of the invention of social media. It has tainted so many aspects of life ) - 20250519
+### reddit.com/r/AskReddit - People over 35, what's something you genuinely miss that younger generations will probably never experience? - 20250519
 
 > I honestly can’t think of a net positive outcome of the invention of social media. It has tainted so many aspects of life.
 
@@ -1266,46 +1263,46 @@ Kategorie: "mutig"
 
 ### hirnfick 2.0 - 20250626
 
-[source](https://tuxproject.de/blog/2025/06/liegengebliebenes-vom-25-juni-2025/) - 20250625
-
 > Chatbots sind das Fernsehen des 21. Jahrhunderts, sie die­nen dem Zweck, die Menschen von dem abzulenken, was ist.
+
+[source: tuxproject.de](https://tuxproject.de/blog/2025/06/liegengebliebenes-vom-25-juni-2025/) - 20250625
 
 ### reddit.com/u/AliceTawhai
 
-[source](https://www.reddit.com/r/MadeMeSmile/comments/1n26vyn/comment/nb47qhd/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) - 20250828
-
 > Everyone should talk to everyone like an equal
+
+[source: reddit.com](https://www.reddit.com/r/MadeMeSmile/comments/1n26vyn/comment/nb47qhd/) - 20250828
 
 ### reddit.com/u/Away_Tone_4272
 
-[source](https://www.reddit.com/r/ichbin14unddasisttief/comments/1n6bv71/comment/nbz0x53/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) - 20250902
-
 > Du stirbst nicht für Deutschland, du stirbst für fremdes Eigentum und Kapital.
+
+[source: reddit.com](https://www.reddit.com/r/ichbin14unddasisttief/comments/1n6bv71/comment/nbz0x53/) - 20250902
 
 ### E.O. Wilson - Consilience: The Unity of Knowledge (1998)
 
-[source](https://en.wikiquote.org/wiki/E._O._Wilson) - 20250905
-
 > We are drowning in information while starving for wisdome.
+
+[source: wikiquote.org](https://en.wikiquote.org/wiki/E._O._Wilson) - 20250905
 
 ### Gregor Gysi - Gregor Gysi rechnet mit Altparteien ab (20250125)
 
-[source](https://youtu.be/WILZjdtAmp4?t=1619) - 20250925
-
 > Ich hasse nicht zurück
 
-### Donatstor in Freiberg, linke Seite - 20250928
+[source: youtu.be](https://youtu.be/WILZjdtAmp4?t=1619) - 20250925
 
-[Quelle](https://www.freiepresse.de/mittelsachsen/freiberg/83-jaehrige-freibergerin-ich-moechte-dass-wieder-frieden-einkehrt-artikel11892663) - 20250928
+### Donatstor in Freiberg, linke Seite - 20250928
 
 > Eintracht bricht Not,
 > Zweitracht bringt Tod.
 
+[source: freiepresse.de](https://www.freiepresse.de/mittelsachsen/freiberg/83-jaehrige-freibergerin-ich-moechte-dass-wieder-frieden-einkehrt-artikel11892663) - 20250928
+
 ### Donatstor in Freiberg, rechte Seite - 20250928
 
-[Quelle](https://www.freiberg.de/fileadmin/Amtsblatt/2010/AB2010_02.pdf) - 20250928
-
 > Gemeinwohl geht über dein Wohl
+
+[source: freiberg.de](https://www.freiberg.de/fileadmin/Amtsblatt/2010/AB2010_02.pdf) - 20250928
 
 ### Unbekannt
 
@@ -1385,3 +1382,8 @@ Could be shorten to:
 
 > Um Klarheit zu erreichen, bedarf es einer gewissen Anstrengung.
 
+### Joseph DeChangeman - 20251020
+
+> Erkenntnis ist eine Einbahnstraße
+
+[source: youtube.com](https://youtu.be/5a_7i-VGMxU?t=820) - 20260402
