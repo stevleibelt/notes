@@ -1390,9 +1390,9 @@ Could be shorten to:
 
 ### Joseph DeChangeman - 20251125
 
-> [...] Weil das Gehirn stark auf den Dopaminkick durch Zucker und Fett reagiert.  
-> Wenn Andere in der Nähe naschen, entsteht [...] sozialder Druck [...]  
-> Dazu kommt, dass unsere Willenskraft übermüdet, wenn man ständig Versuchungen wiederstehen muss.  
+> [...] Weil das Gehirn stark auf den Dopaminkick durch Zucker und Fett reagiert.   
+> Wenn Andere in der Nähe naschen, entsteht [...] sozialder Druck [...]   
+> Dazu kommt, dass unsere Willenskraft übermüdet, wenn man ständig Versuchungen wiederstehen muss.   
 > Vor allem, wenn Snacks bereitliegen [...]  
 
 [source: youtube.com](https://youtu.be/Cac8dGDLHPA?t=1012) - 20260402
