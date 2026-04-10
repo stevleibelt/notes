@@ -1396,3 +1396,8 @@ Could be shorten to:
 > Vor allem, wenn Snacks bereitliegen [...]
 
 [source: youtube.com](https://youtu.be/Cac8dGDLHPA?t=1012) - 20260402
+
+### S.L. - 20260410
+
+> Wer ständig Sehnsucht nach Reisen hat, läuft vor etwas weg.
+
