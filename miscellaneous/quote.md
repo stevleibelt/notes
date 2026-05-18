@@ -1401,3 +1401,6 @@ Could be shorten to:
 
 > Wer ständig Sehnsucht nach Reisen hat, läuft vor etwas weg.
 
+## The Internet 20260518
+
+> Diskrepanz zwischen Selbst- und Fremdwahrnehmung löst Stress aus.
