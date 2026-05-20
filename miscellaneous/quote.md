@@ -1404,3 +1404,9 @@ Could be shorten to:
 ## The Internet 20260518
 
 > Diskrepanz zwischen Selbst- und Fremdwahrnehmung löst Stress aus.
+
+### Bruce Schneier - 20260520
+
+[source: schneier.com](https://www.schneier.com/blog/archives/2026/05/laurie-anderson-is-quoting-me.html) - 20260520
+
+> If you think technology will solve your problems, you don’t understand technology and you don’t understand your problems.
