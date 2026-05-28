@@ -1410,3 +1410,9 @@ Could be shorten to:
 [source: schneier.com](https://www.schneier.com/blog/archives/2026/05/laurie-anderson-is-quoting-me.html) - 20260520
 
 > If you think technology will solve your problems, you don’t understand technology and you don’t understand your problems.
+
+## anonimitat 20260528
+
+[source](https://www.reddit.com/r/Unbeliebtemeinung/comments/1tpxpev/comment/oocy0bh/)
+
+> Wer Verantwortung mit einem Dorf teilen will, der gibt auch einen Teil der Kontrolle ab. Notwendigerweise. Das Dorf besteht ja nicht aus fügsamen Untertanen.
