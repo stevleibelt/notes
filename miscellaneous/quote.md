@@ -1416,3 +1416,9 @@ Could be shorten to:
 [source](https://www.reddit.com/r/Unbeliebtemeinung/comments/1tpxpev/comment/oocy0bh/)
 
 > Wer Verantwortung mit einem Dorf teilen will, der gibt auch einen Teil der Kontrolle ab. Notwendigerweise. Das Dorf besteht ja nicht aus fügsamen Untertanen.
+
+## Easy_Explorer255 - 20260602
+
+[source](https://www.reddit.com/r/de/comments/1tumxw7/comment/opaoa08) - 20260602
+
+> Wieso werden die Arbeiter gegeneinander ausgespielt, wenn die Reichen 25 Prozent Steuern zahlen?
