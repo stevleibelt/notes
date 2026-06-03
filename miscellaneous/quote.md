@@ -1413,12 +1413,20 @@ Could be shorten to:
 
 ## anonimitat 20260528
 
-[source](https://www.reddit.com/r/Unbeliebtemeinung/comments/1tpxpev/comment/oocy0bh/)
+[source: reddit.com](https://www.reddit.com/r/Unbeliebtemeinung/comments/1tpxpev/comment/oocy0bh/)
 
 > Wer Verantwortung mit einem Dorf teilen will, der gibt auch einen Teil der Kontrolle ab. Notwendigerweise. Das Dorf besteht ja nicht aus fügsamen Untertanen.
 
 ## Easy_Explorer255 - 20260602
 
-[source](https://www.reddit.com/r/de/comments/1tumxw7/comment/opaoa08) - 20260602
+[source: reddit.com](https://www.reddit.com/r/de/comments/1tumxw7/comment/opaoa08) - 20260602
 
 > Wieso werden die Arbeiter gegeneinander ausgespielt, wenn die Reichen 25 Prozent Steuern zahlen?
+
+## Pavel Voronin - 202260514
+
+[source: pavelvoronin.com](https://pavelvoronin.com/technical-debt-is-a-prompt-now/) - 20260603
+
+> Cognitive debt accumulates when a team uses abstractions it no longer understands. Generative debt accumulates when a codebase contains confused concepts that models are likely to continue.
+> 
+> Cognitive debt is about what the team no longer understands. Generative debt is about what the model is now likely to reproduce.
