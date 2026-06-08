@@ -1430,3 +1430,10 @@ Could be shorten to:
 > Cognitive debt accumulates when a team uses abstractions it no longer understands. Generative debt accumulates when a codebase contains confused concepts that models are likely to continue.
 > 
 > Cognitive debt is about what the team no longer understands. Generative debt is about what the model is now likely to reproduce.
+
+## Mr-Johndoe - 20260608
+
+[source: reddit.com](https://www.reddit.com/r/ichichs/comments/1u03nbh/comment/oqfogd6) - 20260608
+
+>  Strukturelle Benachteiligung treibt Personen in die politischen extreme.
+
