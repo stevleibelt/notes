@@ -1437,3 +1437,10 @@ Could be shorten to:
 
 >  Strukturelle Benachteiligung treibt Personen in die politischen extreme.
 
+## shodan1404 - 20260613
+
+[source: wordpress.com](https://betonfluesterer.wordpress.com/2026/06/12/angst-2/#comment-1712) - 20260616
+
+> Angst ist wohl das größte und effektivste Kontrollinstrument im Menschen, das dich ohne Substanzen oder anderen Einfluss willenlos machen kann.
+> Kein Wunder, dass man jeden Einzelnen von Gesellschaftseinflüssen und Sozialleben abschotten will (und leider auch teils kann).
+
