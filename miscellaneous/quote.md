@@ -1444,3 +1444,10 @@ Could be shorten to:
 > Angst ist wohl das größte und effektivste Kontrollinstrument im Menschen, das dich ohne Substanzen oder anderen Einfluss willenlos machen kann.
 > Kein Wunder, dass man jeden Einzelnen von Gesellschaftseinflüssen und Sozialleben abschotten will (und leider auch teils kann).
 
+## Film: Absolute Giganten 1999
+
+* [source: myzitate.de](https://www.myzitate.de/absolute-giganten/) - 20260618
+
+> Freundschaften sind wie Sehnsüchte. Toll, groß, absolut gigantisch. Und wenn sie dich erstmal gepackt haben, dann lassen sie dich nicht mehr los. Manchmal nie mehr.
+> 
+> Es müsste immer Musik da sein. Bei Allem was du machst. Und wenn's so richtig scheiße ist, dann ist wenigstens noch die Musik da. Und an der Stelle wo, wo es am allerschönsten ist, da müsste die Platte springen und du hörst immer nur diesen einen Moment.
