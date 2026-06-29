@@ -1451,3 +1451,9 @@ Could be shorten to:
 > Freundschaften sind wie Sehnsüchte. Toll, groß, absolut gigantisch. Und wenn sie dich erstmal gepackt haben, dann lassen sie dich nicht mehr los. Manchmal nie mehr.
 > 
 > Es müsste immer Musik da sein. Bei Allem was du machst. Und wenn's so richtig scheiße ist, dann ist wenigstens noch die Musik da. Und an der Stelle wo, wo es am allerschönsten ist, da müsste die Platte springen und du hörst immer nur diesen einen Moment.
+
+## AbjectFoot8711 - 20260629
+
+* [source: reddit.com](https://www.reddit.com/r/interestingasfuck/comments/1ui1xm1/comment/oucjah4/) - 20260629
+
+> The war on drugs is just a distraction to keep us angry at the symptoms instead of the fixing the problems.
