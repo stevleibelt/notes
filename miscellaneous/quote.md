@@ -1457,3 +1457,7 @@ Could be shorten to:
 * [source: reddit.com](https://www.reddit.com/r/interestingasfuck/comments/1ui1xm1/comment/oucjah4/) - 20260629
 
 > The war on drugs is just a distraction to keep us angry at the symptoms instead of the fixing the problems.
+
+## Unknown - 20260714
+
+> Von der Stirn, ins Gehirn
