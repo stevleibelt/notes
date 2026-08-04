@@ -1461,3 +1461,9 @@ Could be shorten to:
 ## Unknown - 20260714
 
 > Von der Stirn, ins Gehirn
+
+## arschpLatz - 20260804
+
+* [source: reddit.com](https://www.reddit.com/r/ich_iel/comments/1vf5qsw/comment/p1msdiy) - 20260804
+
+> Hasse nicht den Menschen, hasse nur das was er tut.
