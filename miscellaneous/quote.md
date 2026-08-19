@@ -1474,3 +1474,9 @@ Could be shorten to:
 
 >  "I've just always been really passionate about being able to afford food"
 
+## Francois Chollet - 20260329
+
+[source: x.com](https://x.com/fchollet/status/2038069289643806957) - 20260819
+
+> Intelligence is a conversion ratio, with an optimality bound. Increasing intelligence is not so much like “making the tower taller”, it’s more like “making the ball rounder”. At some point it’s already pretty damn spherical and any improvement is marginal.
+
