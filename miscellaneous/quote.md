@@ -1480,3 +1480,9 @@ Could be shorten to:
 
 > Intelligence is a conversion ratio, with an optimality bound. Increasing intelligence is not so much like “making the tower taller”, it’s more like “making the ball rounder”. At some point it’s already pretty damn spherical and any improvement is marginal.
 
+## uteheinze8725 - 20260824
+
+[source: youtube.com](https://www.youtube.com/watch?v=7U-_FGRZ3a0&lc=Ugzjb7wCUz13bADK6Xp4AaABAg) - 20260826
+
+> Kriege machen die Reichen, der Mittelstand muss weichen, die Armen liefern die Leichen. [...]
+
