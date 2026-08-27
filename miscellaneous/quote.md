@@ -1486,3 +1486,8 @@ Could be shorten to:
 
 > Kriege machen die Reichen, der Mittelstand muss weichen, die Armen liefern die Leichen. [...]
 
+## Simon Josef Eckert - 20260730
+
+[source: youtube.com](https://youtu.be/oTgfgkV73nw?t=161) - 20260827
+
+> Du benutzt Kurzvideos um dich selbst nicht zu fühlen
