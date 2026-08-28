@@ -1491,3 +1491,9 @@ Could be shorten to:
 [source: youtube.com](https://youtu.be/oTgfgkV73nw?t=161) - 20260827
 
 > Du benutzt Kurzvideos um dich selbst nicht zu fühlen
+
+## Stefanie Stahl - 20260806
+
+[source: youtube.com](https://www.youtube.com/watch?v=-eXi9MmADOc) - 20260828
+
+> Unser Gehirn interessiert sich nicht für die Realität da draußen, sondern nur für das innere Wohlbefinden, das wir innerlich ein Sicherheitsgefühl haben.
