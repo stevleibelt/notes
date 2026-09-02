@@ -1503,3 +1503,5 @@ Could be shorten to:
 [source: youtube.com](https://youtu.be/Z2RTPf0WPMA?t=280) - 20260902
 
 > The reason to start invensting in luxury [...] because [...] you feel safe.
+> [...]
+> Every time somebody can make your mind or your body feel unsafe, life's not in your hands.
