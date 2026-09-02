@@ -1512,3 +1512,8 @@ Could be shorten to:
 
 > Aber solange dein Gefühlszustand abhängig ist von Äußerlichkeiten, [...] du hast dein Leben nich in deiner Hand
 
+## Shi Heng Yi - 20240613
+
+[source: youtube.com](https://youtu.be/zTyUITMegW4?t=1506) - 20260902
+
+> Zwei Richtungen. Angst und Hass, Liebe und Öffnen. Es ist der zweite Weg.
