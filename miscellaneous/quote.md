@@ -1497,3 +1497,9 @@ Could be shorten to:
 [source: youtube.com](https://www.youtube.com/watch?v=-eXi9MmADOc) - 20260828
 
 > Unser Gehirn interessiert sich nicht für die Realität da draußen, sondern nur für das innere Wohlbefinden, das wir innerlich ein Sicherheitsgefühl haben.
+
+## Shi Heng Yi - 20260505
+
+[source: youtube.com](https://youtu.be/Z2RTPf0WPMA?t=280) - 20260902
+
+> The reason to start invensting in luxury [...] because [...] you feel safe.
