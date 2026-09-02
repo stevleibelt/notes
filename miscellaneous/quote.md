@@ -1517,3 +1517,9 @@ Could be shorten to:
 [source: youtube.com](https://youtu.be/zTyUITMegW4?t=1506) - 20260902
 
 > Zwei Richtungen. Angst und Hass, Liebe und Öffnen. Es ist der zweite Weg.
+
+## Shi Heng Yi - 20241211
+
+[source: youtube.com](https://youtu.be/qQiNjPM7WaI?t=100) - 20260902
+
+> So we have the body and we have the mind. And what is connecting those two? That is the breath.
