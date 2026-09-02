@@ -1505,3 +1505,10 @@ Could be shorten to:
 > The reason to start invensting in luxury [...] because [...] you feel safe.
 > [...]
 > Every time somebody can make your mind or your body feel unsafe, life's not in your hands.
+
+## Shi Heng Yi - 20250614
+
+[source: youtube.com](https://youtu.be/BmejfcGYEfI?t=265) - 20260902
+
+> Aber solange dein Gefühlszustand abhängig ist von Äußerlichkeiten, [...] du hast dein Leben nich in deiner Hand
+
