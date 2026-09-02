@@ -1523,3 +1523,14 @@ Could be shorten to:
 [source: youtube.com](https://youtu.be/qQiNjPM7WaI?t=100) - 20260902
 
 > So we have the body and we have the mind. And what is connecting those two? That is the breath.
+
+## Shi Heng Yi - 20260210
+
+[source: youtube.com](https://youtu.be/mwkrlXHRsdU?t=730) - 20260902
+
+> Es geht nicht darum viel zu sammeln um etwas zu verstehen.
+> Es geht darum das wenige und simple, was du verstehst, in die Praxis umzusetzen.
+> Das Leben ist vergänglich und nichts ist permanent.
+> [...]
+> Alles ist im Wandel.
+
