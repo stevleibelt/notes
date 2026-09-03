@@ -1540,3 +1540,9 @@ Could be shorten to:
 
 > Einatmen und Ausatmen ist eigentlich eins, Atmen
 
+## Unknown - 20260903
+
+> Wut bedeutet, ich muss hier eine Grenze verteidigen
+> Gefühle äußern sich immer körperlich
+> Selbstfürsorge ist keine Bequemlichkeit
+
