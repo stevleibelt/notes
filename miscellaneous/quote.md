@@ -1546,3 +1546,7 @@ Could be shorten to:
 > Gefühle äußern sich immer körperlich
 > Selbstfürsorge ist keine Bequemlichkeit
 
+## Unknown - 20260904
+
+> ANGST: Annahme Negative Gefühle Seien Tatsachen
+
