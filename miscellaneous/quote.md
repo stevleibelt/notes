@@ -1550,3 +1550,8 @@ Could be shorten to:
 
 > ANGST: Annahme Negative Gefühle Seien Tatsachen
 
+### Altes Sprichwort - 20260908
+
+> Wir kommen mit nichts.
+> Wir gehen mit nichts.
+
