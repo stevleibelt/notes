@@ -1555,3 +1555,8 @@ Could be shorten to:
 > Wir kommen mit nichts.
 > Wir gehen mit nichts.
 
+### Vera F. Birkenbihl - 20230925
+
+[source: youtube.com](https://youtu.be/5nhtJM2By8Y?t=490)
+
+> Wenn sie sich nicht mögen, dann kann die Welt sie auch nicht mögen.
