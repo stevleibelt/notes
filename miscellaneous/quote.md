@@ -1560,3 +1560,10 @@ Could be shorten to:
 [source: youtube.com](https://youtu.be/5nhtJM2By8Y?t=490)
 
 > Wenn sie sich nicht mögen, dann kann die Welt sie auch nicht mögen.
+
+### John Reid-Dodick - 20260925
+
+[source: martinfowler.com](https://martinfowler.com/articles/healthy-peer-feedback.html)
+
+> There are only two responses to feedback — >>Thank you,<< and >>Thank you, please tell me more<<
+
