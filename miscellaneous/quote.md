@@ -1567,3 +1567,8 @@ Could be shorten to:
 
 > There are only two responses to feedback — >>Thank you,<< and >>Thank you, please tell me more<<
 
+### h0uz3_ - 20260928
+
+[source: reddit.com](https://www.reddit.com/r/de/comments/1ws8749/comment/pcjcy74/) - 20260929
+
+> Leider Bezahlschranke, daher kann ich nur mutmassen, dass Sport, gesunde Ernährung, viele Freunde, eine erfüllende Arbeit und regelmäßig Sex zu haben gegen Angst, Depressionen, Zwangsstörungen und graue Haare helfen, 
