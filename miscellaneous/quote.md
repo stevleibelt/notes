@@ -1572,3 +1572,9 @@ Could be shorten to:
 [source: reddit.com](https://www.reddit.com/r/de/comments/1ws8749/comment/pcjcy74/) - 20260929
 
 > Leider Bezahlschranke, daher kann ich nur mutmassen, dass Sport, gesunde Ernährung, viele Freunde, eine erfüllende Arbeit und regelmäßig Sex zu haben gegen Angst, Depressionen, Zwangsstörungen und graue Haare helfen, 
+
+### Seth Capehart MD - Das moderne Leben ist eine Krankheit - 20260403
+
+[source: youtube.com](https://www.youtube.com/watch?v=oufQkXnSkes) - 20260929
+
+> Sitting for 10-12 hours makes your body think it's sick or injured.
