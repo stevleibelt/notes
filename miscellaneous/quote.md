@@ -1578,3 +1578,9 @@ Could be shorten to:
 [source: youtube.com](https://www.youtube.com/watch?v=oufQkXnSkes) - 20260929
 
 > Sitting for 10-12 hours makes your body think it's sick or injured.
+
+### Seth Capehart MD - Darum können Ärzte Sie nicht gesund machen - 20260116
+
+[source: youtube.com](https://youtu.be/PYYY-3sdZV0?t=308) - 20261001
+
+> Doctors don't make people healthy, habbits do!
